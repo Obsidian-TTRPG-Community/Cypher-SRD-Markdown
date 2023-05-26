@@ -9,7 +9,12 @@ tags: [Cypher/Rules/Intro]
 %% Begin Waypoint %%
 - **[[How-to-Play]]**
 	- [[Combat Rolls]]
+	- [[Cyphers]]
+	- [[Experience Points]]
+	- [[Glossary]]
 	- [[How-to-Play]]
+	- [[Other Dice]]
+	- [[Range and Speed]]
 	- [[Special Rolls]]
 	- [[Task Difficulty]]
 	- [[When do you roll]]
