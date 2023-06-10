@@ -1,217 +1,15 @@
+---
+aliases: 
+publish: 
+tags: 
+---
 
 
-[[How-to-Play]]
 
-## GLOSSARY
 
-**Game master (GM)**: The player who doesn’t run a character, but instead
-guides the flow of the story and runs all the NPCs.
 
-**Nonplayer character (NPC)**: Characters run by the GM. Think of them as
-the minor characters in the story, or the villains or opponents. This
-includes any kind of creature as well as people.
 
-**Party**: A group of player characters (and perhaps some NPC allies).
-
-**Player character (PC)**: A character run by a player rather than the GM.
-Think of the PCs as the main characters in the story.
-
-**Player**: The players who run characters in the game.
-
-**Session**: A single play experience. Usually lasts a few hours. Sometimes
-one adventure can be accomplished in a session. More often, one
-adventure is multiple sessions.
-
-**Adventure**: A single portion of the campaign with a beginning and an end.
-Usually defined at the beginning by a goal put forth by the PCs and at
-the end by whether or not they achieve that goal.
-
-**Campaign**: A series of sessions strung together with an overarching story
-(or linked stories) with the same player characters. Often, but not
-always, a campaign involves a number of adventures.
-
-**Character**: Anything that can act in the game. Although this includes PCs
-and human NPCs, it also technically includes creatures, aliens, mutants,
-automatons, animate plants, and so on. The word “creature” is usually
-synonymous.
-
-### RANGE AND SPEED
-
-Distance is simplified into four categories: immediate, short, long, and
-very long.
-
-Immediate distance from a character is within reach or within a few
-steps. If a character stands in a small room, everything in the room is
-within immediate distance. At most, immediate distance is 10 feet (3 m).
-
-Short distance is anything greater than immediate distance but less than
-50 feet (15 m) or so.
-
-Long distance is anything greater than short distance but less than 100
-feet (30 m) or so.
-
-Very long distance is anything greater than long distance but less than
-500 feet (150 m) or so. Beyond that range, distances are always
-specified—1,000 feet (300 m), a mile (1.5 km), and so on.
-
-The idea is that it’s not necessary to measure precise distances.
-Immediate distance is right there, practically next to the character.
-Short distance is nearby. Long distance is farther off. Very long
-distance is really far off.
-
-All weapons and special abilities use these terms for ranges. For
-example, all melee weapons have immediate range—they are close-combat
-weapons, and you can use them to attack anyone within immediate
-distance. A thrown knife (and most other thrown weapons) has short
-range. A bow has long range. An Adept’s Onslaught ability also has short
-range.
-
-A character can move an immediate distance as part of another action. In
-other words, they can take a few steps over to the control panel and
-activate a switch. They can lunge across a small room to attack a foe.
-They can open a door and step through.
-
-A character can move a short distance as their entire action for a turn.
-They can also try to move a long distance as their entire action, but
-the player might have to roll to see if the character slips, trips, or
-stumbles as the result of moving so far so quickly.
-
-For example, if the PCs are fighting a group of cultists, any character
-can likely attack any cultist in the general melee—they’re all within
-immediate range. Exact positions aren’t important. Creatures in a fight
-are always moving, shifting, and jostling, anyway. However, if one
-cultist stayed back to fire a pistol, a character might have to use
-their entire action to move the short distance required to attack that
-foe. It doesn’t matter if the cultist is 20 feet (6 m) or 40 feet (12 m)
-away—it’s simply considered short distance. It does matter if the
-cultist is more than 50 feet (15 m) away because that distance would
-require a long or very long move.
-
-(Many rules in this system avoid the cumbersome need for precision. Does
-it really matter if the ghost is 13 feet away from you or 18? Probably
-not. That kind of needless specificity only slows things down and draws
-away from, rather than contributes to, the story.)
-
-### EXPERIENCE POINTS
-
-Experience points (XP) are rewards given to players when the GM intrudes
-on the story (this is called GM intrusion) with a new and unexpected
-challenge. For example, in the middle of combat, the GM might inform the
-player that they drop their weapon. However, to intrude in this manner,
-the GM must award the player 2 XP. The rewarded player, in turn, must
-immediately give one of those XP to another player and justify the gift
-(perhaps the other player had a good idea, told a funny joke, performed
-an action that saved a life, and so on).
-
-Alternatively, the player can refuse the GM intrusion. If they do so,
-they don’t get the 2 XP from the GM, and they must also spend 1 XP that
-they already have. If the player has no XP to spend, they can’t refuse
-the intrusion.
-
-The GM can also give players XP between sessions as a reward for making
-discoveries during an adventure. Discoveries are interesting facts,
-wondrous secrets, powerful artifacts, answers to mysteries, or solutions
-to problems (such as where the kidnappers are keeping their victim or
-how the PCs repair the starship). You don’t earn XP for killing foes or
-overcoming standard challenges in the course of play. Discovery is the
-soul of the Cypher System.
-
-Experience points are used primarily for character advancement (for
-details, see the Creating Your Character chapter), but a player can also
-spend 1 XP to reroll any die roll and take the better of the two rolls.
-
-CYPHERS
-
-Cyphers are abilities that have a single use. In many campaigns, cyphers
-aren’t physical objects—they might be a spell cast upon a character, a
-blessing from a god, or just a quirk of fate that gives them a momentary
-advantage. In some campaigns, cyphers are physical objects that
-characters can carry. Whether or not cyphers are physical objects, they
-are part of the character (like equipment or a special ability) and are
-things characters can use during the game. The form that physical
-cyphers take depends on the setting. In a fantasy world they might be
-wands or potions, but in a science fiction game they could be alien
-crystals or prototype devices.
-
-Characters will find new cyphers frequently in the course of play, so
-players shouldn’t hesitate to use their cypher abilities. Because
-cyphers are always different, the characters will always have new
-special powers to try.
-
-OTHER DICE
-
-In addition to a d20, you’ll need a d6 (a six-sided die). Rarely, you’ll
-need to roll a number between 1 and 100 (often called a d100 or d%
-roll), which you can do by rolling a d20 twice, using the last digit of
-the first roll as the “tens” place and the last digit of the second roll
-as the “ones” place. For example, rolling a 17 and a 9 gives you 79,
-rolling a 3 and an 18 gives you 38, and rolling a 20 and a 10 gives you
-00 (also known as 100). If you have a d10 (a ten-sided die), you can use
-it instead of the d20 to roll numbers between 1 and 100.
-
-(A d6 is used most often for recovery rolls and to determine the level
-of cyphers.
-
-## Creating Your Character
-
-This section explains how to create characters to play in a Cypher
-System game. This involves a series of decisions that will shape your
-character, so the more you understand what kind of character you want to
-play, the easier character creation will be. The process involves
-understanding the values of three game statistics and choosing three
-aspects that determine your character’s capabilities.
-
-CHARACTER STATS
-
-Every player character has three defining characteristics, which are
-typically called “statistics” or “stats.” These stats are Might, Speed,
-and Intellect. They are broad categories that cover many different but
-related aspects of a character.
-
-MIGHT
-
-Might defines how strong and durable your character is. The concepts of
-strength, endurance, constitution, hardiness, and physical prowess are
-all folded into this one stat. Might isn’t relative to size; instead,
-it’s an absolute measurement. An elephant has more Might than the
-mightiest tiger, which has more Might than the mightiest rat, which has
-more Might than the mightiest spider.
-
-Might governs actions from forcing doors open to walking for days
-without food to resisting disease. It’s also the primary means of
-determining how much damage your character can sustain in a dangerous
-situation. Physical characters, tough characters, and characters
-interested in fighting should focus on Might.
-
-(Might could be thought of as Might/Health because it governs how strong
-you are and how much physical punishment you can take.)
-
-SPEED
-
-Speed describes how fast and physically coordinated your character is.
-The stat embodies quickness, movement, dexterity, and reflexes. Speed
-governs such divergent actions as dodging attacks, sneaking around
-quietly, and throwing a ball accurately. It helps determine whether you
-can move farther on your turn. Nimble, fast, or sneaky characters will
-want good Speed stats, as will those interested in ranged combat.
-
-(Speed could be thought of as Speed/Agility because it governs your
-overall swiftness and reflexes.)
-
-INTELLECT
-
-This stat determines how smart, knowledgeable, and likable your
-character is. It includes intelligence, wisdom, charisma, education,
-reasoning, wit, willpower, and charm. Intellect governs solving puzzles,
-remembering facts, telling convincing lies, and using mental powers.
-Characters interested in communicating effectively, being learned
-scholars, or wielding supernatural powers should stress their Intellect
-stat.
-
-(Intellect could be thought of as Intellect/Personality because it
-governs both intelligence and charisma.)
-
-POOL, EDGE, AND EFFORT
+## POOL, EDGE, AND EFFORT
 
 Each of the three stats has two components: Pool and Edge. Your Pool
 represents your raw, innate ability, and your Edge represents knowing
@@ -224,7 +22,7 @@ character type, descriptor, and focus that you choose. Within those
 guidelines, however, you have a lot of flexibility in how you develop
 your character.)
 
-POOL
+### POOL
 
 Your Pool is the most basic measurement of a stat. Comparing the Pools
 of two creatures will give you a general sense of which creature is
@@ -243,7 +41,7 @@ difficulty (see Effort, below). You can rest to recover lost points from
 a stat Pool, and some special abilities or cyphers might allow you to
 recover lost points quickly.
 
-EDGE
+### EDGE
 
 Although your Pool is the basic measurement of a stat, your Edge is also
 important. When something requires you to spend points from a stat Pool,
@@ -271,7 +69,7 @@ who has a Might Edge of 0. The high Edge will let them reduce the cost
 of spending points from the Pool, which means they’ll have more points
 available to spend on applying Effort.
 
-EFFORT
+### EFFORT
 
 When your character really needs to accomplish a task, you can apply
 Effort. For a beginning character, applying Effort requires spending 3
@@ -333,7 +131,7 @@ ranged attacks, you may spend points only from your Speed Pool. This
 reflects that with melee you sometimes use brute force and sometimes use
 finesse, but with ranged attacks, it’s always about careful targeting.)
 
-EFFORT AND DAMAGE
+## EFFORT AND DAMAGE
 
 Instead of applying Effort to ease your attack, you can apply Effort to
 increase the amount of damage you inflict with an attack. For each level
@@ -367,7 +165,7 @@ Effort, not both. If you spend 1 Intellect point to activate your mind
 blast and one level of Effort to ease the attack roll, you can use your
 Intellect Edge to reduce the cost of one of those things, not both.
 
-STAT EXAMPLES
+## STAT EXAMPLES
 
 A beginning character is fighting a giant rat. The PC stabs their spear
 at the rat, which is a level 2 creature and thus has a target number of
@@ -401,7 +199,7 @@ However, if they had not applied some Effort, they would have failed
 because their roll (8) would have been less than the task’s original
 target number (9).
 
-CHARACTER TIERS
+## CHARACTER TIERS
 
 Every character starts the game at the first tier. Tier is a measurement
 of power, toughness, and ability. Characters can advance up to the sixth
@@ -462,7 +260,7 @@ Add 2 to your recovery rolls.
 
 Select a new type-based ability from your tier or a lower tier.
 
-CHARACTER DESCRIPTOR, TYPE, AND FOCUS
+## CHARACTER DESCRIPTOR
 
 To create your character, you build a simple statement that describes
 them. The statement takes this form: “I am a \[fill in an adjective
@@ -511,7 +309,7 @@ depend on the setting and genre of your game.
 (You can use the Flavors chapter to slightly modify character types to
 customize them for different genres.)
 
-SPECIAL ABILITIES
+### SPECIAL ABILITIES
 
 Character types and foci grant PCs special abilities at each new tier.
 Using these abilities usually costs points from your stat Pools; the
@@ -556,7 +354,7 @@ descriptors, types, and foci might be available for players. The GM will
 decide what’s available in their particular game and whether anything is
 modified, and they’ll let the players know.)
 
-SKILLS
+## SKILLS
 
 Sometimes your character gains training in a specific skill or task. For
 example, your focus might mean that you’re trained in sneaking, in
@@ -567,172 +365,58 @@ skill that relates to any task you think you might face.
 The Cypher System has no definitive list of skills. However, the
 following list offers ideas:
 
-Astronomy
 
-Balancing
+### Ideas List
 
-Biology
+| Ideas| Ideas      | Ideas    |
+| ------------- | -------------- | ------------- |
+| Astronomy     | Climbing       | Geography     |
+| Balancing     | Computers      | Geology       |
+| Biology       | Deceiving      | Healing       |
+| Botany        | Disguise       | History       |
+| Carrying      | Escaping       | Identifying   |
+| Lockpicking   | Perception     | Philosophy    |
+| Machinery     | Persuasion     | Physics       |
+| Metalworking  | Repairing      | Pickpocketing |
+| Leatherworking| Riding         | Piloting      |
+| Smashing      | Swimming       | Initiative    |
+| Sneaking      | Vehicle driving| Intimidation  |
+| Woodworking   | Stealth        |               |
+^Cypher-Ideas-List
 
-Botany
+You could choose a skill that incorporates more than one of these areas (interacting might include deceiving, intimidation, and persuasion) or that is a more specific version of one (hiding might be sneaking when you’re not moving). You could also make up more general professional skills, such as baker, sailor, or lumberjack. If you want to choose a skill that’s not on this list, it’s probably best to run it past the GM first, but in general, the most important thing is to choose skills that are appropriate to your character.
 
-Carrying
+Remember that if you gain a skill that you’re already trained in, you become specialized in that skill. Because skill descriptions can be nebulous, determining whether you’re trained or specialized might take some thinking. For example, if you’re trained in lying and later gain an ability that grants you skill with all social interactions, you become specialized in lying and trained in all other types of interactions. Being trained three times in a skill is no better than being trained twice (in other words, specialized is as good as it gets).
 
-Climbing
+Only skills gained through character type abilities or other rare instances allow you to become skilled with attack or defense tasks.
 
-Computers
+If you gain a special ability through your type, your focus, or some other aspect of your character, you can choose it in place of a skill and become trained or specialized in that ability. For example, if you have a mind blast, when it’s time to choose a skill to be trained in, you can select your mind blast as your skill. That would ease the attack every time you used it. Each ability you have counts as a separate skill for this purpose. You can’t select “all mind powers” or “all spells” as one skill and become trained or specialized in such a broad category.
 
-Deceiving
+In most campaigns, fluency in a language is considered a skill. So if you want to speak French, that’s the same as being trained in biology or swimming.
 
-Disguise
+## Type
 
-Escaping
+Character type is the core of your character. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an *adjective noun* who *verbs*.”
 
-Geography
+(In some roleplaying games, your character type might be called your character class.)
 
-Geology
+You can choose from four character types: Warrior, Adept, Explorer, and Speaker. However, you may not want to use these generic names for them. This chapter offers a few more specific names for each type that might be more appropriate to various genres. You’ll find that names like “Warrior” or “Explorer” don’t always feel right, particularly in games set in modern times. As always, you’re free to do as you wish. (Your type is who your character is. You should use whatever name you want for your type, as long as it fits both your character and the setting.)
 
-Healing
+Since the type is the basis upon which your whole character is built, it’s important to consider how the type relates to the chosen setting. To help with this, types are actually general archetypes. A Warrior, for example, might be anyone from a knight in shining armor to a cop on the streets to a grizzled cybernetic veteran of a thousand futuristic wars.
 
-History
+To further massage the four types for better use in various settings, different methods called flavors are presented in Flavors to help slightly tailor the types toward fantasy, science fiction, or other genres (or to address different character concepts).
 
-Identifying
+Finally, more fundamental options for further customization are provided at the end of this chapter. 
 
-Initiative
+Player Intrusion
 
-Intimidation
+A player intrusion is the player choosing to alter something in the campaign, making things easier for a player character. Conceptually, it is the reverse of a GM intrusion: instead of the GM giving the player XP and introducing an unexpected complication for a character, the player spends 1 XP and presents a solution to a problem or complication. What a player intrusion can do usually introduces a change to the world or current circumstances rather than directly changing the character. For instance, an intrusion indicating that the cypher just used still has an additional use would be appropriate, but an intrusion that heals the character would not. If a player has no XP to spend, they can’t use a player intrusion.
 
-Jumping
+A few player intrusion examples are provided under each type. That said, not every player intrusion listed there is appropriate for all situations. The GM may allow players to come up with other player intrusion suggestions, but the GM is the final arbiter of whether the suggested intrusion is appropriate for the character’s type and suitable for the situation. If the GM refuses the intrusion, the player doesn’t spend the 1 XP, and the intrusion doesn’t occur.
 
-Leatherworking
+Using an intrusion does not require a character to use an action to trigger it. A player intrusion just happens.
 
-Lockpicking
-
-Machinery
-
-Metalworking
-
-Perception
-
-Persuasion
-
-Philosophy
-
-Physics
-
-Pickpocketing
-
-Piloting
-
-Repairing
-
-Riding
-
-Smashing
-
-Sneaking
-
-Stealth
-
-Swimming
-
-Vehicle driving
-
-Woodworking
-
-You could choose a skill that incorporates more than one of these areas
-(interacting might include deceiving, intimidation, and persuasion) or
-that is a more specific version of one (hiding might be sneaking when
-you’re not moving). You could also make up more general professional
-skills, such as baker, sailor, or lumberjack. If you want to choose a
-skill that’s not on this list, it’s probably best to run it past the GM
-first, but in general, the most important thing is to choose skills that
-are appropriate to your character.
-
-Remember that if you gain a skill that you’re already trained in, you
-become specialized in that skill. Because skill descriptions can be
-nebulous, determining whether you’re trained or specialized might take
-some thinking. For example, if you’re trained in lying and later gain an
-ability that grants you skill with all social interactions, you become
-specialized in lying and trained in all other types of interactions.
-Being trained three times in a skill is no better than being trained
-twice (in other words, specialized is as good as it gets).
-
-Only skills gained through character type abilities or other rare
-instances allow you to become skilled with attack or defense tasks.
-
-If you gain a special ability through your type, your focus, or some
-other aspect of your character, you can choose it in place of a skill
-and become trained or specialized in that ability. For example, if you
-have a mind blast, when it’s time to choose a skill to be trained in,
-you can select your mind blast as your skill. That would ease the attack
-every time you used it. Each ability you have counts as a separate skill
-for this purpose. You can’t select “all mind powers” or “all spells” as
-one skill and become trained or specialized in such a broad category.
-
-In most campaigns, fluency in a language is considered a skill. So if
-you want to speak French, that’s the same as being trained in biology or
-swimming.
-
-Type
-
-Character type is the core of your character. Your type helps determine
-your character’s place in the world and relationship with other people
-in the setting. It’s the noun of the sentence “I am an *adjective noun*
-who *verbs*.”
-
-(In some roleplaying games, your character type might be called your
-character class.)
-
-You can choose from four character types: Warrior, Adept, Explorer, and
-Speaker. However, you may not want to use these generic names for them.
-This chapter offers a few more specific names for each type that might
-be more appropriate to various genres. You’ll find that names like
-“Warrior” or “Explorer” don’t always feel right, particularly in games
-set in modern times. As always, you’re free to do as you wish. (Your
-type is who your character is. You should use whatever name you want for
-your type, as long as it fits both your character and the setting.)
-
-Since the type is the basis upon which your whole character is built,
-it’s important to consider how the type relates to the chosen setting.
-To help with this, types are actually general archetypes. A Warrior, for
-example, might be anyone from a knight in shining armor to a cop on the
-streets to a grizzled cybernetic veteran of a thousand futuristic wars.
-
-To further massage the four types for better use in various settings,
-different methods called flavors are presented in Flavors to help
-slightly tailor the types toward fantasy, science fiction, or other
-genres (or to address different character concepts).
-
-Finally, more fundamental options for further customization are provided
-at the end of this chapter.
-
-PLAYER INTRUSION
-
-A player intrusion is the player choosing to alter something in the
-campaign, making things easier for a player character. Conceptually, it
-is the reverse of a GM intrusion: instead of the GM giving the player XP
-and introducing an unexpected complication for a character, the player
-spends 1 XP and presents a solution to a problem or complication. What a
-player intrusion can do usually introduces a change to the world or
-current circumstances rather than directly changing the character. For
-instance, an intrusion indicating that the cypher just used still has an
-additional use would be appropriate, but an intrusion that heals the
-character would not. If a player has no XP to spend, they can’t use a
-player intrusion.
-
-A few player intrusion examples are provided under each type. That said,
-not every player intrusion listed there is appropriate for all
-situations. The GM may allow players to come up with other player
-intrusion suggestions, but the GM is the final arbiter of whether the
-suggested intrusion is appropriate for the character’s type and suitable
-for the situation. If the GM refuses the intrusion, the player doesn’t
-spend the 1 XP, and the intrusion doesn’t occur.
-
-Using an intrusion does not require a character to use an action to
-trigger it. A player intrusion just happens.
-
-(Player intrusions should be limited to no more than one per player per
-session.)
+(Player intrusions should be limited to no more than one per player per session.)
 
 Defense Tasks
 
@@ -749,7 +433,7 @@ far the most commonly used defense task.
 Intellect defense: Used for fending off mental attacks or anything that
 might affect or influence one’s mind.
 
-WARRIOR
+## Warrior
 
 Fantasy/Fairy tale: Warrior, fighter, swordsman, knight, barbarian,
 soldier, myrmidon, valkyrie
