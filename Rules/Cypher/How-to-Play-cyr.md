@@ -3,7 +3,7 @@ aliases: [How To Play the Cypher System]
 tags: [Cypher/Rules/Playing]
 ---
 
-## How to Play the Cypher System
+# How to Play the Cypher System
 
 The rules of the Cypher System are quite straightforward at their heart, as all of gameplay is based around a few core concepts.
 
@@ -29,7 +29,7 @@ To sum up, three things can decrease a task’s difficulty: skills, assets, and 
 
 If you can ease a task so its difficulty is reduced to 0, you automatically succeed and don’t need to make a roll.
 
-## Task Difficulty
+# Task Difficulty
 
 | **Task Difficulty** | **Description** | **Target No.** | **Guidance**                                                                                  |
 | ------------------- | --------------- | -------------- | --------------------------------------------------------------------------------------------- |
@@ -47,7 +47,7 @@ If you can ease a task so its difficulty is reduced to 0, you automatically succ
 
 ^Cypher-Task-Difficulty
 
-## When Do You Roll?
+# When Do You Roll?
 
 Any time your character attempts a task, the GM assigns a difficulty to that task, and you roll a d20 against the associated target number.
 
@@ -59,7 +59,7 @@ Using skill, assets, and Effort, you can ease the difficulty of potentially any 
 
 If there’s no roll, there’s no chance for failure. However, there’s also no chance for remarkable success (in the Cypher System, that usually means rolling a 19 or 20, which are called special rolls; the Rules of the Game chapter also discusses special rolls).
 
-## Combat
+# Combat
 
 Making an attack in combat works the same way as any other roll: the GM assigns a difficulty to the task, and you roll a d20 against the associated target number.
 
@@ -75,19 +75,19 @@ When you see the word “Armor” capitalized in the game rules (other than in t
 
 Typical physical weapons come in three categories: light, medium and heavy.
 
-### Light Weapons
+## Light Weapons
 
 Light weapons inflict only 2 points of damage, but they ease attack rolls because they are fast and easy to use. Light weapons are punches, kicks, clubs, knives, handaxes, rapiers, small pistols, and so on. Weapons that are particularly small are light weapons.
 
-### Medium Weapons
+## Medium Weapons
 
 Medium weapons inflict 4 points of damage. Medium weapons include swords, battleaxes, maces, crossbows, spears, pistols, blasters, and so on. Most weapons are medium. Anything that could be used in one hand (even if it’s often used in two hands, such as a quarterstaff or spear) is a medium weapon.
 
-### Heavy Weapons
+## Heavy Weapons
 
 Heavy weapons inflict 6 points of damage, and you must use two hands to attack with them. Heavy weapons are huge swords, great hammers, massive axes, halberds, heavy crossbows, blaster rifles, and so on. Anything that must be used in two hands is a heavy weapon.
 
-## Special Rolls
+# Special Rolls
 
 When you roll a natural 19 (the d20 shows “19”) and the roll is a success, you also have a minor effect. In combat, a minor effect inflicts 3 additional points of damage with your attack, or, if you’d prefer a special result, you could decide instead that you knock the foe back, distract them, or something similar. When not in combat, a minor effect could mean that you perform the action with particular grace. For example, when jumping down from a ledge, you land smoothly on your feet, or when trying to persuade someone, you convince them that you’re smarter than you really are. In other words, you not only succeed but also go a bit further.
 
@@ -99,7 +99,7 @@ In combat (and only in combat), if you roll a natural 17 or 18 on your attack ro
 
 Rolling a natural 1 is always bad. It means that the GM introduces a new complication into the encounter.
 
-## Glossary
+# Glossary
 
 **Game master (GM)**: The player who doesn’t run a character, but instead guides the flow of the story and runs all the NPCs.
 
@@ -119,7 +119,7 @@ Rolling a natural 1 is always bad. It means that the GM introduces a new complic
 
 **Character**: Anything that can act in the game. Although this includes PCs and human NPCs, it also technically includes creatures, aliens, mutants, automatons, animate plants, and so on. The word “creature” is usually synonymous.
 
-### Range and Speed
+## Range and Speed
 
 Distance is simplified into four categories: immediate, short, long, and very long.
 
@@ -143,7 +143,7 @@ For example, if the PCs are fighting a group of cultists, any character can like
 
 (Many rules in this system avoid the cumbersome need for precision. Does it really matter if the ghost is 13 feet away from you or 18? Probably not. That kind of needless specificity only slows things down and draws away from, rather than contributes to, the story.)
 
-### Experience Points
+## Experience Points
 
 Experience points (XP) are rewards given to players when the GM intrudes on the story (this is called GM intrusion) with a new and unexpected challenge. For example, in the middle of combat, the GM might inform the player that they drop their weapon. However, to intrude in this manner, the GM must award the player 2 XP. The rewarded player, in turn, must immediately give one of those XP to another player and justify the gift (perhaps the other player had a good idea, told a funny joke, performed an action that saved a life, and so on).
 
@@ -153,13 +153,13 @@ The GM can also give players XP between sessions as a reward for making discover
 
 Experience points are used primarily for character advancement (for details, see the Creating Your Character chapter), but a player can also spend 1 XP to reroll any die roll and take the better of the two rolls.
 
-## Cyphers
+# Cyphers
 
 Cyphers are abilities that have a single use. In many campaigns, cyphers aren’t physical objects—they might be a spell cast upon a character, a blessing from a god, or just a quirk of fate that gives them a momentary advantage. In some campaigns, cyphers are physical objects that characters can carry. Whether or not cyphers are physical objects, they are part of the character (like equipment or a special ability) and are things characters can use during the game. The form that physical cyphers take depends on the setting. In a fantasy world they might be wands or potions, but in a science fiction game they could be alien crystals or prototype devices.
 
 Characters will find new cyphers frequently in the course of play, so players shouldn’t hesitate to use their cypher abilities. Because cyphers are always different, the characters will always have new special powers to try.
 
-### OTHER DICE
+## OTHER DICE
 
 In addition to a d20, you’ll need a d6 (a six-sided die). Rarely, you’ll need to roll a number between 1 and 100 (often called a d100 or d% roll), which you can do by rolling a d20 twice, using the last digit of the first roll as the “tens” place and the last digit of the second roll as the “ones” place. For example, rolling a 17 and a 9 gives you 79, rolling a 3 and an 18 gives you 38, and rolling a 20 and a 10 gives you 00 (also known as 100). If you have a d10 (a ten-sided die), you can use it instead of the d20 to roll numbers between 1 and 100.
 
