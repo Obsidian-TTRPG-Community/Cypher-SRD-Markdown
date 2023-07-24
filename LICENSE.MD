@@ -1,6 +1,11 @@
+---
+aliases: 
+tags: 
+---
+
 As this is an SRD Repository, we are operating under three licenses.
 
-## Monte Cook Games, LLC Portion
+# Monte Cook Games, LLC Portion
 
 This license (the “Agreement”) is an agreement between a publisher or author (“You”) and Monte Cook Games, LLC (“MCG”), that grants You a perpetual, non-exclusive, royalty-free, worldwide license to publish and distribute tabletop roleplaying game materials (the “Work”) based on and incorporating the Cypher System Reference Document (“CSRD”) and declaring compatibility with the Cypher System. By including the words “Compatible with the Cypher System” on the cover of the Work, or by including the “Compatible with the Cypher System” logo on the cover of the work, or by including these items on or in any advertising, promotions, press releases, or other documents affiliated with the Work, You indicate Your acceptance of the terms of this Agreement.
 
@@ -34,10 +39,10 @@ This Agreement shall be construed and governed by the laws of the State of Washi
 
 END OF AGREEMENT
 
-## Original Content
+# Original Content
 
 Original Written and Artistic Content is licensed by default by [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), which is where sharing and adaption is allowed as long as attribution is given.
 
 Original Code is licensed by default by [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
 
-Submitters may have have their own license specificiations, in which case, their submission will include their license in their submission. This submitted license will supercede the CC BY 3.0 and MPL 2.0 Licenses, but cannot supercede the OGL agreement with Monte Cook Games, LLC. 
+Submitters may have have their own license specificiations, in which case, their submission will include their license in their submission. This submitted license will supercede the CC BY 3.0 and MPL 2.0 Licenses, but cannot supercede the OGL agreement with Monte Cook Games, LLC.
