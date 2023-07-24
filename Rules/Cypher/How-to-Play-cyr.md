@@ -151,7 +151,7 @@ Alternatively, the player can refuse the GM intrusion. If they do so, they donâ€
 
 The GM can also give players XP between sessions as a reward for making discoveries during an adventure. Discoveries are interesting facts, wondrous secrets, powerful artifacts, answers to mysteries, or solutions to problems (such as where the kidnappers are keeping their victim or how the PCs repair the starship). You donâ€™t earn XP for killing foes or overcoming standard challenges in the course of play. Discovery is the soul of the Cypher System.
 
-Experience points are used primarily for character advancement (for details, see the Creating Your Character chapter), but a player can also spend 1 XP to reroll any die roll and take the better of the two rolls.
+Experience points are used primarily for character advancement (for details, see the [[Rules/Cypher/Creating-Your-Character-cyr|Creating Your Character]] chapter), but a player can also spend 1 XP to reroll any die roll and take the better of the two rolls.
 
 # Cyphers
 

@@ -1,6 +1,9 @@
 ---
-aliases: [Character Type in Cypher, Type (Character)]
-tags: [Cypher/Rules/Character-Creation]
+aliases:
+  - Character Type in Cypher
+  - Type (Character)
+tags:
+  - Cypher/Rules/Character-Creation/Type
 ---
 
 # Type
@@ -78,7 +81,6 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 | 18   | Someone you fought alongside in the military is now the mayor of a nearby town.                                          |
 | 19   | You saved the lives of a family when their house burned down. They’re indebted to you, and their neighbors regard you as a hero.|
 | 20   | Your old trainer still expects you to come back and clean up after their classes; when you do, they occasionally share interesting rumors.|
-
 ^Cypher-Backgrounds-Warrior
 
 ### Warrior Player Intrusions
@@ -87,15 +89,15 @@ You can spend 1 XP to use one of the following player intrusions, provided the s
 
 Perfect Setup:
 
-	You’re fighting at least three foes and each one is standing in exactly the right spot for you to use a move you trained in long ago, allowing you to attack all three as a single action. Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action.
+You’re fighting at least three foes and each one is standing in exactly the right spot for you to use a move you trained in long ago, allowing you to attack all three as a single action. Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action.
 
 Old Friend:
 
-	A comrade in arms from your past shows up unexpectedly and provides aid in whatever you’re doing. They are on a mission of their own and can’t stay longer than it takes to help out, chat for a while after, and perhaps share a quick meal.
+A comrade in arms from your past shows up unexpectedly and provides aid in whatever you’re doing. They are on a mission of their own and can’t stay longer than it takes to help out, chat for a while after, and perhaps share a quick meal.
 
 Weapon Break:
 
-	Your foe’s weapon has a weak spot. In the course of the combat, it quickly becomes damaged and moves two steps down the object damage track.
+Your foe’s weapon has a weak spot. In the course of the combat, it quickly becomes damaged and moves two steps down the object damage track.
 
 ### Warrior Stat Pools
 
@@ -104,7 +106,6 @@ Weapon Break:
 | Might     | 10                  |
 | Speed     | 10                  |
 | Intellect | 8                    |
-
 ^Cypher-Stats-Warrior
 
 You get 6 additional points to divide among your stat Pools however you wish.
@@ -181,7 +182,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Amazing Effort
+- [[Compendium/Cypher/Abilities/A/Amazing-Effort-cyr|Amazing Effort]]
 - Capable Warrior
 - Experienced Defender
 - Feint
@@ -195,8 +196,8 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Adroit Cypher Use
-- Arc Spray
+- [[Compendium/Cypher/Abilities/A/Adroit-Cypher-Use|Adroit Cypher Use]]
+- [[Compendium/Cypher/Abilities/A/Arc-Spray-cyr|Arc Spray]]
 - Improved Success
 - Jump Attack
 - Mastery in Armor
@@ -210,7 +211,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Again and Again
+- [[Compendium/Cypher/Abilities/A/Again-and-Again-cyr|Again and Again]]
 - Finishing Blow
 - Magnificent Moment
 - Murderer
@@ -227,7 +228,7 @@ Ray wants to be fast as well as tough, so he selects Improved Edge. This gives h
 
 The Warrior can bear two cyphers. The GM decides that Ray’s first cypher is a pill that restores 6 points of Might when swallowed, and his second is a small, easily concealed grenade that explodes like a firebomb when thrown, inflicting 3 points of damage to all within immediate range.
 
-Ray still needs to choose a descriptor and a focus. Looking ahead to the descriptor rules, Ray chooses Strong, which increases his Might Pool to 17. He also becomes trained in jumping and breaking inanimate objects. (If he had chosen jumping as one of his physical skills, the Strong descriptor would have made him specialized in jumping instead of trained.) Being Strong also gives Ray an extra medium or heavy weapon. He chooses a baseball bat that he’ll use in a pinch. He keeps it in the trunk of his car.
+Ray still needs to choose a descriptor and a focus. Looking ahead to the descriptor rules, Ray chooses [[Compendium/Cypher/Descriptors/Strong-cyr|Strong]], which increases his Might Pool to 17. He also becomes trained in jumping and breaking inanimate objects. (If he had chosen jumping as one of his physical skills, the Strong descriptor would have made him specialized in jumping instead of trained.) Being Strong also gives Ray an extra medium or heavy weapon. He chooses a baseball bat that he’ll use in a pinch. He keeps it in the trunk of his car.
 
 For his focus, Ray chooses Masters Weaponry. This gives him yet another weapon of high quality. He chooses another combat knife and asks the GM if he could use it in his left hand—not to make attacks, but as a shield. This will ease his Speed defense rolls if he has both knives out (the “shield” counts as an asset). The GM agrees. During the game, Ray’s Warrior will be hard to hit—he is trained in Speed defense rolls, and his extra knife eases his defense rolls by another step.
 
@@ -247,7 +248,6 @@ For his character arc, Ray chooses Defeat a Foe. That foe, he decides, is none o
 | Seer                 | Fringe Scientist      | Scanner                  | Telepath                  |
 | Diabolist            |                       | ESPer                    |                           |
 | Fey-touched          |                       | Abomination              |                           |
-
 ^Cypher-Archetype-Adept
 
 You master powers or abilities outside the experience, understanding, and sometimes belief of others. They might be magic, psychic powers, mutant abilities, or just a wide variety of intricate devices, depending on the setting. (“Magic” here is a term used very loosely. It’s a catch-all for the kinds of wondrous, possibly supernatural things that your character can do that others cannot. It might actually be an expression of technological devices, channeling spirits, mutations, psionics, nanotechnology, or any number of other sources.)
@@ -293,7 +293,6 @@ An inactive, ruined, or presumed-destroyed device temporarily activates and perf
 | Might     | 7                   |
 | Speed     | 9                   |
 | Intellect | 12                  |
-
 ^Cypher-Stats-Adept
 
 You get 6 additional points to divide among your stat Pools however you wish.
@@ -324,7 +323,6 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 | 18         | Your best friend is also an Adept. You and your friend share discoveries and secrets readily.                          |
 | 19         | You know a local merchant very well. Since you give them so much business, they offer you discounts and special treatment.|
 | 20         | You belong to a secretive social club that gathers monthly to drink and talk.                                          |
-
 ^Cypher-Backgrounds-Adept
 
 ### First-Tier Adept
@@ -371,7 +369,7 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Adaptation
+- [[Compendium/Cypher/Abilities/A/Adaptation-Cyr|Adaptation]]
 - Cutting Light
 - Hover
 - Mind Reading
@@ -380,15 +378,15 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 - Stasis
 - Note
 
-Adaptation is listed as a high-tier ability in the Environment category, so its presence in the second tier might be an editing mistake.
-
-The Numenera version of Adaptation is significantly weaker, since it only lasts a day and requires intellect points to activate.
+> [!question]- Future Errata? Considerations
+> [[Compendium/Cypher/Abilities/A/Adaptation-Cyr|Adaptation]] is listed as a high-tier ability in the Environment category, so its presence in the second tier might be an editing mistake.
+> The Numenera version of Adaptation is significantly weaker, since it only lasts a day and requires intellect points to activate.
 
 ### Third-Tier Adept
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Adroit Cypher Use
+- [[Compendium/Cypher/Abilities/A/Adroit-Cypher-Use|Adroit Cypher Use]]
 - Countermeasures
 - Energy Protection
 - Fire and Ice
@@ -415,7 +413,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Absorb Energy
+- [[Compendium/Cypher/Abilities/A/Absorb-Energy-cyr|Absorb Energy]]
 - Concussion
 - Conjuration
 - Create
@@ -441,7 +439,7 @@ Jen wants to create an Adept—a sorcerer for a fantasy campaign. She decides to
 
 She can bear three cyphers. The GM gives her a potion that acts as a short-range teleporter, a small charm that restores 5 points to her Intellect Pool, and a fluid-filled flask that explodes like a fiery bomb. Jen’s sorcerer is skilled with light weapons, so she chooses a dagger.
 
-For her descriptor, Jen chooses Graceful, which adds 2 points to her Speed Pool, bringing it to 13. That descriptor means she is trained in balancing and anything requiring careful movements, physical performing arts, and Speed defense tasks. Perhaps she is a dancer. In fact, she begins to develop a backstory that involves graceful, lithe movements that she incorporates into her spells.
+For her descriptor, Jen chooses [[Compendium/Cypher/Descriptors/Graceful-cyr|Graceful]], which adds 2 points to her Speed Pool, bringing it to 13. That descriptor means she is trained in balancing and anything requiring careful movements, physical performing arts, and Speed defense tasks. Perhaps she is a dancer. In fact, she begins to develop a backstory that involves graceful, lithe movements that she incorporates into her spells.
 
 For her focus, she chooses Leads. This gives her training in social interactions, which again helps round her out—she’s good in all kinds of situations. Moreover, she has the Good Advice ability, which enables her to be a focal point of her group.
 
@@ -463,7 +461,6 @@ For her character arc, Jen chooses Aid a Friend. She decides that when her sorce
 |                      | Spelunker                                          |                        |                           |
 |                      | Trailblazer                                        |                        |                           |
 |                      | Investigative Reporter                             |                        |                           |
-
 ^Cypher-Archetypes-Explorer
 
 You are a person of action and physical ability, fearlessly facing the unknown. You travel to strange, exotic, and dangerous places, and discover new things. This means you’re physical but also probably knowledgeable.
@@ -538,7 +535,6 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 | 18   | You published a book about some of your exploits and discoveries, and it has achieved some acclaim.                     |
 | 19   | Your sister owns a store and gives you a hefty discount.                                                                 |
 | 20   | Your father is a high-ranking officer in the military with many connections.                                             |
-
 ^Cypher-Backgrounds-Explorer
 
 ### First-Tier Explorer
@@ -638,7 +634,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Adroit Cypher Use
+- [[Compendium/Cypher/Abilities/A/Adroit-Cypher-Use|Adroit Cypher Use]]
 - Free to Move
 - Group Friendship
 - Hard to Kill
@@ -653,7 +649,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Again and Again
+- [[Compendium/Cypher/Abilities/A/Again-and-Again-cyr|Again and Again]]
 - Inspire Coordinated Actions
 - Mastery in Armor
 - Mastery With Attacks
@@ -690,7 +686,6 @@ For their character arc, Sam chooses Enterprise. Exploring alien places sometime
 | Advocate             | Minister                   |                   |                           |
 |                      | Mediator                   |                   |                           |
 |                      | Lawyer                     |                   |                           |
-
 ^Cypher-Archetypes-Speaker
 
 You’re good with words and good with people. You talk your way past challenges and out of jams, and you get people to do what you want.
@@ -734,7 +729,6 @@ Speaker Stat Pools
 | Might     | 8                   |
 | Speed     | 9                   |
 | Intellect | 11                  |
-
 ^Cypher-Stats-Speaker
 
 You get 6 additional points to divide among your stat Pools however you wish.
@@ -765,7 +759,6 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 | 18         | You used to act in a traveling theater, and they remember you fondly (as do people in the places you visited).          |
 | 19         | You are in a close romantic relationship with someone in local politics.                                               |
 | 20         | Someone out there tries to pose as you, using your identity, often for nefarious ends. You’ve never met the culprit, but you’d certainly like to.|
-
 ^Cypher-Backgrounds-Speaker
 
 ## First-Tier Speaker
@@ -796,7 +789,7 @@ Appropriate clothing and a light weapon of your choice, plus two expensive items
 
 Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. (Some Speaker abilities, like Mind Reading or True Senses, imply a supernatural element. If this is inappropriate to the character or the setting, these abilities can be replaced with something from the stealth flavor, or the GM can slightly modify them so they are based in extraordinary talents and insight rather than the supernatural.)
 
-- Anecdote
+- [[Compendium/Cypher/Abilities/A/Anecdote-cyr|Anecdote]]
 - Babel
 - Demeanor of Command
 - Encouragement
@@ -830,7 +823,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Accelerate
+- [[Compendium/Cypher/Abilities/A/Accelerate-cyr|Accelerate]]
 - Blend In
 - Discerning Mind
 - Expert Cypher Use
@@ -847,7 +840,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Anticipate Attack
+- [[Compendium/Cypher/Abilities/A/Anticipate-Attack-cyr|Anticipate Attack]]
 - Confounding Banter
 - Feint
 - Heightened Skills
@@ -861,7 +854,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Adroit Cypher Use
+- [[Compendium/Cypher/Abilities/A/Adroit-Cypher-Use|Adroit Cypher Use]]
 - Discipline of Watchfulness
 - Experienced in Armor
 - Flee
@@ -875,7 +868,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Assume Control
+- [[Compendium/Cypher/Abilities/A/Assume-Control-cyr|Assume Control]]
 - Battle Management
 - Crowd Control
 - Inspiring Success
@@ -894,7 +887,7 @@ A Speaker normally starts with two cyphers, but the GM rules that characters in 
 
 Mary’s character carries a small knife hidden in her bag in case of trouble. As a light weapon, it inflicts 2 points of damage, but attacks with it are eased.
 
-Mary chooses Resilient for her descriptor and decides that she can probably learn the truth behind some of the strange things that she’s heard about without feeling too much trauma if it’s horrible. Resilient increases her Might Pool to 10 and her Intellect Pool to 16. She’s trained in Might and Intellect defense actions and gains an extra recovery roll each day. At first, Mary is sad that her descriptor gives her an inability in knowledge and puzzle tasks, but then she realizes that the flaw fits her character well—she’s better at getting people to tell her what she needs to know than at figuring out the information herself.
+Mary chooses [[Compendium/Cypher/Descriptors/Resilient-cyr|Resilient]] for her descriptor and decides that she can probably learn the truth behind some of the strange things that she’s heard about without feeling too much trauma if it’s horrible. Resilient increases her Might Pool to 10 and her Intellect Pool to 16. She’s trained in Might and Intellect defense actions and gains an extra recovery roll each day. At first, Mary is sad that her descriptor gives her an inability in knowledge and puzzle tasks, but then she realizes that the flaw fits her character well—she’s better at getting people to tell her what she needs to know than at figuring out the information herself.
 
 For her focus, Mary chooses Moves Like a Cat, granting her a final Speed Pool of 18 and training in balance. In the end, she’s graceful and quick, charismatic, and hardier than she initially thought thanks to her drive. She’s ready to investigate the weird.
 

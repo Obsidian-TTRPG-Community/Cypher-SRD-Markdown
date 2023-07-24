@@ -1,6 +1,9 @@
 ---
-aliases: [Creating your Character]
-tags: [Cypher/Rules/Character-Creation]
+aliases:
+  - Creating your Character
+  - Creating your Character in Cypher
+tags:
+  - Cypher/Rules/Character-Creation
 ---
 
 # Creating Your Character
@@ -121,7 +124,7 @@ To progress to the next tier, characters earn experience points (XP) by pursuing
 
 To create your character, you build a simple statement that describes them. The statement takes this form: “I am a *fill in an adjective here*, ***fill in a noun here*** who **fill in a verb here.**”
 
-**Thus**: “I am an adjective noun who verbs.” For example, you might say, “I am a Rugged Warrior who Controls Beasts” or “I am a Charming Explorer who Focuses Mind Over Matter.”
+**Thus**: “I am an adjective noun who verbs.” For example, you might say, “I am a [[Compendium/Cypher/Descriptors/Rugged-cyr|Rugged]] Warrior who Controls Beasts” or “I am a [[Compendium/Cypher/Descriptors/Charming-cyr|Charming]] Explorer who Focuses Mind Over Matter.”
 
 In this sentence, the adjective is called your descriptor.
 

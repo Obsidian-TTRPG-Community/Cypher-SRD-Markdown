@@ -1,11 +1,11 @@
 ---
 aliases: [Descriptors in Cypher]
-tags: [Cypher/Rules/Descriptors]
+tags: [Cypher/Rules/Character-Creation/Descriptors]
 ---
 
 # Descriptor
 
-Your descriptor defines your character—it flavors everything you do. The differences between a Charming Explorer and a Vicious Explorer are considerable. The descriptor changes the way those characters go about every action. Your descriptor places your character in the situation (the first adventure, which starts the campaign) and helps provide motivation. It is the adjective of the sentence “I am an adjective noun who verbs.”
+Your descriptor defines your character—it flavors everything you do. The differences between a [[Compendium/Cypher/Descriptors/Charming-cyr|Charming]] Explorer and a [[Compendium/Cypher/Descriptors/Vicious-cyr|Vicious]] Explorer are considerable. The descriptor changes the way those characters go about every action. Your descriptor places your character in the situation (the first adventure, which starts the campaign) and helps provide motivation. It is the adjective of the sentence “I am an adjective noun who verbs.”
 
 Descriptors offer a one-time package of extra abilities, skills, or modifications to your stat Pools. Not all of a descriptor’s offerings are positive character modifications. For example, some descriptors have inabilities—tasks that a character isn’t good at. You can think of inabilities as negative skills—instead of being one step better at that kind of task, you’re one step worse. If you become skilled at a task that you have an inability with, they cancel out. Remember that characters are defined as much by what they’re not good at as by what they are good at.
 
@@ -56,6 +56,6 @@ With this general information, you can customize a descriptor, but keep in mind 
 
 Sometimes, in settings that have alien or fantasy species, players want to play a member of that species rather than the default (which is usually “human”). Most of the time, this choice is one of flavor rather than game mechanics. If you’re a 7-foot-tall furry Rigellian with three eyes, that’s great, but it doesn’t change your stats or skills (though it may have roleplaying challenges).
 
-However, sometimes being a nonhuman results in more substantive changes. A PC ogre in a fantasy setting might have the Strong or Tough descriptor, or perhaps it has a descriptor simply called Ogre, which is similar to Strong or Tough but more pronounced (with greater Might but even greater drawbacks). This would mean that instead of being a Tough Warrior who Controls Beasts, the character is an Ogre Warrior who Controls Beasts.
+However, sometimes being a nonhuman results in more substantive changes. A PC ogre in a fantasy setting might have the [[Compendium/Cypher/Descriptors/Strong-cyr|Strong]] or [[Compendium/Cypher/Descriptors/Tough-cyr|Tough]] descriptor, or perhaps it has a descriptor simply called Ogre, which is similar to [[Compendium/Cypher/Descriptors/Strong-cyr|Strong]] or [[Compendium/Cypher/Descriptors/Tough-cyr|Tough]] but more pronounced (with greater Might but even greater drawbacks). This would mean that instead of being a [[Compendium/Cypher/Descriptors/Tough-cyr|Tough]] Warrior who Controls Beasts, the character is an Ogre Warrior who Controls Beasts.
 
-The Genres chapter offers a few species descriptors, but many GMs will want to create their own as suits their setting. It can’t be stressed enough, however, that nine times out of ten, in most genres, species differences aren’t significant enough to warrant this treatment. The differences between a Mysterious character and a Virtuous one are probably greater than those between an Alpha Centauran and an Earthling.
+The Genres chapter offers a few species descriptors, but many GMs will want to create their own as suits their setting. It can’t be stressed enough, however, that nine times out of ten, in most genres, species differences aren’t significant enough to warrant this treatment. The differences between a [[Compendium/Cypher/Descriptors/Mysterious-cyr|Mysterious]] character and a [[Compendium/Cypher/Descriptors/Virtuous-cyr|Virtuous]] one are probably greater than those between an Alpha Centauran and an Earthling.
