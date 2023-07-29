@@ -138,7 +138,7 @@ Appropriate clothing and two weapons of your choice, plus one expensive item, tw
 
 Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
 
-- Bash
+- [[Compendium/Cypher/Abilities/B/Bash-cyr|Bash]]
 - Combat Prowess
 - Control the Field
 - Improved Edge
@@ -565,7 +565,7 @@ You can use light and medium weapons without penalty. You have an inability with
 
 Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
 
-- Block
+- [[Compendium/Cypher/Abilities/B/Block-cyr|Block]]
 - Danger Sense
 - Decipher
 - Endurance
@@ -790,7 +790,7 @@ Appropriate clothing and a light weapon of your choice, plus two expensive items
 Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. (Some Speaker abilities, like Mind Reading or True Senses, imply a supernatural element. If this is inappropriate to the character or the setting, these abilities can be replaced with something from the stealth flavor, or the GM can slightly modify them so they are based in extraordinary talents and insight rather than the supernatural.)
 
 - [[Compendium/Cypher/Abilities/A/Anecdote-cyr|Anecdote]]
-- Babel
+- [[Compendium/Cypher/Abilities/B/Babel-cyr|Babel]]
 - Demeanor of Command
 - Encouragement
 - Enthrall
@@ -807,7 +807,7 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Basic Follower
+- [[Compendium/Cypher/Abilities/B/Basic-Follower-cyr|Basic Follower]]
 - Calm Stranger
 - Disincentivize
 - Gather Intelligence
@@ -824,7 +824,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/A/Accelerate-cyr|Accelerate]]
-- Blend In
+- [[Compendium/Cypher/Abilities/B/Blend-In-cyr|Blend In]]
 - Discerning Mind
 - Expert Cypher Use
 - Expert Follower
@@ -869,7 +869,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/A/Assume-Control-cyr|Assume Control]]
-- Battle Management
+- [[Compendium/Cypher/Abilities/B/Battle-Management-cyr|Battle Management]]
 - Crowd Control
 - Inspiring Success
 - Recruit Deputy
@@ -889,7 +889,7 @@ Mary’s character carries a small knife hidden in her bag in case of trouble. A
 
 Mary chooses [[Compendium/Cypher/Descriptors/Resilient-cyr|Resilient]] for her descriptor and decides that she can probably learn the truth behind some of the strange things that she’s heard about without feeling too much trauma if it’s horrible. Resilient increases her Might Pool to 10 and her Intellect Pool to 16. She’s trained in Might and Intellect defense actions and gains an extra recovery roll each day. At first, Mary is sad that her descriptor gives her an inability in knowledge and puzzle tasks, but then she realizes that the flaw fits her character well—she’s better at getting people to tell her what she needs to know than at figuring out the information herself.
 
-For her focus, Mary chooses Moves Like a Cat, granting her a final Speed Pool of 18 and training in balance. In the end, she’s graceful and quick, charismatic, and hardier than she initially thought thanks to her drive. She’s ready to investigate the weird.
+For her focus, Mary chooses Moves Like a Cat, granting her a final Speed Pool of 18 and training in [[Compendium/Cypher/Abilities/B/Balance-cyr|balance]]. In the end, she’s graceful and quick, charismatic, and hardier than she initially thought thanks to her drive. She’s ready to investigate the weird.
 
 For her character arc, Mary chooses Fall From Grace. She decides she’s had an obsession with a strange tome that’s been in her family for generations, and her character is drawn to its strange languages and rituals.
 
