@@ -51,7 +51,7 @@ Gives you training or specialization in a specific physical attack (like swords 
 **Mid Tier**:
 
 - [[Compendium/Cypher/Abilities/B/Blood-Fever-cyr|Blood Fever]]
-- Cognizant Offense
+- [[Compendium/Cypher/Abilities/C/Cognizant-Offense-cyr|Cognizant Offense]]
 - Greater Skill With Defense
 - Practiced With All Weapons
 - Robot Fighter
@@ -80,8 +80,8 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 - [[Compendium/Cypher/Abilities/B/Basic-Follower-cyr|Basic Follower]]
 - [[Compendium/Cypher/Abilities/B/Beast-Companion-cyr|Beast Companion]]
 - [[Compendium/Cypher/Abilities/B/Bound-Magic-Creature|Bound Magic Creature]]
-- Control Swarm
-- Critter Companion
+- [[Compendium/Cypher/Abilities/C/Control-Swarm-cyr|Control Swarm]]
+- [[Compendium/Cypher/Abilities/C/Critter-Companion-cyr|Critter Companion]]
 - Duplicate
 - Entourage
 - Influence Swarm
@@ -94,7 +94,7 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 **Mid Tier**:
 
 - [[Compendium/Cypher/Abilities/B/Beast-Eyes-cyr|Beast Eyes]]
-- Call Swarm
+- [[Compendium/Cypher/Abilities/C/Call-Swarm-cyr|Call Swarm]]
 - Expert Follower
 - Fellow Explorer
 - Fiery Hand of Doom
@@ -118,11 +118,11 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 - [[Compendium/Cypher/Abilities/B/Band-of-Desperados-cyr|Band of Desperados]]
 - [[Compendium/Cypher/Abilities/B/Band-of-Followers-cyr|Band of Followers]]
 - [[Compendium/Cypher/Abilities/B/Beast-Call-cyr|Beast Call]]
-- Call Dead Spirit
-- Call in Favor
-- Call Otherworldly Spirit
-- Call Through Time
-- Conjuration
+- [[Compendium/Cypher/Abilities/C/Call-Dead-Spirit-cyr|Call Dead Spirit]]
+- [[Compendium/Cypher/Abilities/C/Call-in-Favor-cyr|Call in Favor]]
+- [[Compendium/Cypher/Abilities/C/Call-Otherworldly-Spirit|Call Otherworldly Spirit]]
+- [[Compendium/Cypher/Abilities/C/Call-Through-Time-cyr|Call Through Time]]
+- [[Compendium/Cypher/Abilities/C/Conjuration-cyr|Conjuration]]
 - Deadly Swarm
 - Dragon’s Maw
 - Fire Servant
@@ -146,10 +146,10 @@ Controls or influences minds in ways outside of what could be done with conventi
 
 **Low Tier**:
 
-- Calm Stranger
-- Charm Machine
-- Cloud Personal Memories
-- Community Activist
+- [[Compendium/Cypher/Abilities/C/Calm-Stranger-cyr|Calm Stranger]]
+- [[Compendium/Cypher/Abilities/C/Charm-Machine-cyr|Charm Machine]]
+- [[Compendium/Cypher/Abilities/C/Cloud-Personal-Memories-cyr|Cloud Personal Memories]]
+- [[Compendium/Cypher/Abilities/C/Community-Activist-cyr|Community Activist]]
 - Fast Talk
 - Goad
 - Hack the Impossible
@@ -159,13 +159,13 @@ Controls or influences minds in ways outside of what could be done with conventi
 
 **Mid Tier**:
 
-- Calm
-- Captivate or Inspire
-- Captivate With Starshine
-- Command
-- Command Machine
-- Command Spirit
-- Crowd Control
+- [[Compendium/Cypher/Abilities/C/Calm-cyr|Calm]]
+- [[Compendium/Cypher/Abilities/C/Captivate-or-Inspire-cyr|Captivate or Inspire]]
+- [[Compendium/Cypher/Abilities/C/Captivate-with-Starshine-cyr|Captivate With Starshine]]
+- [[Compendium/Cypher/Abilities/C/Command-cyr|Command]]
+- [[Compendium/Cypher/Abilities/C/Command-Machine-cyr|Command Machine]]
+- [[Compendium/Cypher/Abilities/C/Command-Spirit-cyr|Command Spirit]]
+- [[Compendium/Cypher/Abilities/C/Crowd-Control-cyr|Crowd Control]]
 - Daydream
 - Grand Deception
 - Interruption
@@ -177,9 +177,9 @@ Controls or influences minds in ways outside of what could be done with conventi
 - [[Compendium/Cypher/Abilities/A/Advanced-Command-Cyr|Advanced Command]]
 - [[Compendium/Cypher/Abilities/A/Assume-Control-cyr|Assume Control]]
 - [[Compendium/Cypher/Abilities/B/Brainwashing-cyr|Brainwashing]]
-- Change the Paradigm
-- Control Machine
-- Control the Savage
+- [[Compendium/Cypher/Abilities/C/Change-the-Paradigm-cyr|Change the Paradigm]]
+- [[Compendium/Cypher/Abilities/C/Control-Machine-cyr|Control Machine]]
+- [[Compendium/Cypher/Abilities/C/Control-the-Savage-cyr|Control the Savage]]
 - Defuse Situation
 - Flee
 - Psychic Passenger
@@ -193,7 +193,7 @@ Creates useful physical things, such as mundane tools (hammers, crowbars), limit
 
 **Low Tier**:
 
-- Create Deadly Poison
+- [[Compendium/Cypher/Abilities/C/Create-Deadly-Poison-cyr|Create Deadly Poison]]
 - Fortification Builder
 - Junkmonger
 - Machine Efficiency
@@ -215,7 +215,7 @@ Creates useful physical things, such as mundane tools (hammers, crowbars), limit
 
 **High Tier**:
 
-- Create
+- [[Compendium/Cypher/Abilities/C/Create-cyr|Create]]
 - Dark Matter Structure
 - Improved Sculpt Light
 - Innovator
@@ -229,7 +229,7 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 ****Low Tier**:**
 
 - [[Compendium/Cypher/Abilities/A/Alleviate-cyr|Alleviate]]
-- Crystalline Body
+- [[Compendium/Cypher/Abilities/C/Crystalline-Body-cyr|Crystalline Body]]
 - Destined for Greatness
 - Diver
 - Drain Creature
@@ -308,7 +308,7 @@ Manipulates the environment or things in the environment, such as with telekines
 
 **Low Tier**:
 
-- Create Water
+- [[Compendium/Cypher/Abilities/C/Create-Water-cyr|Create Water]]
 - Dreamcraft
 - Fetch
 - Grasping Foliage
@@ -343,7 +343,7 @@ Manipulates the environment or things in the environment, such as with telekines
 **High Tier**:
 
 - [[Compendium/Cypher/Abilities/A/Adaptation-Cyr|Adaptation]]
-- Control Weather
+- [[Compendium/Cypher/Abilities/C/Control-Weather-cyr|Control Weather]]
 - Diamagnetism
 - Force Wall
 - Generate Force Field
@@ -364,8 +364,8 @@ Gives the ability to learn information about something, whether chosen by the GM
 **Low Tier**:
 
 - [[Compendium/Cypher/Abilities/B/Babel-cyr|Babel]]
-- Communication
-- Community Knowledge
+- [[Compendium/Cypher/Abilities/C/Communication-cyr|Communication]]
+- [[Compendium/Cypher/Abilities/C/Community-Knowledge-cyr|Community Knowledge]]
 - Decipher
 - Dream Thief
 - Eye for Detail
@@ -386,7 +386,7 @@ Gives the ability to learn information about something, whether chosen by the GM
 
 **Mid Tier**:
 
-- Creature Insight
+- [[Compendium/Cypher/Abilities/C/Creature-Insight-cyr|Creature Insight]]
 - Device Insight
 - Draw Conclusion
 - Find the Hidden
@@ -421,13 +421,13 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - [[Compendium/Cypher/Abilities/A/Arcane-Flare-cyr|Arcane Flare]]
 - [[Compendium/Cypher/Abilities/A/Artifact-Tinkerer-cyr|Artifact Tinkerer]]
 - [[Compendium/Cypher/Abilities/A/Augment-Cypher-cyr|Augment Cypher]]
-- Careful Shot
-- Charge
-- Coaxing Power
-- Combat Prowess
-- Crushing Blow
-- Crystalline Body
-- Curious
+- [[Compendium/Cypher/Abilities/C/Careful-Shot-cyr|Careful Shot]]
+- [[Compendium/Cypher/Abilities/C/Charge-cyr|Charge]]
+- [[Compendium/Cypher/Abilities/C/Coaxing-Power-cyr|Coaxing Power]]
+- [[Compendium/Cypher/Abilities/C/Combat-Prowess-cyr|Combat Prowess]]
+- [[Compendium/Cypher/Abilities/C/Crushing-Blow-cyr|Crushing Blow]]
+- [[Compendium/Cypher/Abilities/C/Crystalline-Body-cyr|Crystalline Body]]
+- [[Compendium/Cypher/Abilities/C/Curious-cyr|Curious]]
 - Distant Interface
 - Double Strike
 - Drain Creature
@@ -470,9 +470,9 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - [[Compendium/Cypher/Abilities/A/Amazing-Effort-cyr|Amazing Effort]]
 - [[Compendium/Cypher/Abilities/B/Betrayal-cyr|Betrayal]]
 - [[Compendium/Cypher/Abilities/B/Better-Living-Through-Chemistry-cyr|Better Living Through Chemistry]]
-- Capable Warrior
-- Cast Illusion
-- Cyphersmith
+- [[Compendium/Cypher/Abilities/C/Capable-Warrior-cyr|Capable Warrior]]
+- [[Compendium/Cypher/Abilities/C/Cast-Illusion-cyr|Cast Illusion]]
+- [[Compendium/Cypher/Abilities/C/Cybersmith-cyr|Cyphersmith]]
 - Deadly Aim
 - Deep Resources
 - Disarming Strike
@@ -561,8 +561,8 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - [[Compendium/Cypher/Abilities/A/Artifact-Scavenger-cyr|Artifact Scavenger]]
 - [[Compendium/Cypher/Abilities/B/Blurring-Speed-cyr|Blurring Speed]]
 - [[Compendium/Cypher/Abilities/B/Burst-of-Escape-cyr|Burst of Escape]]
-- Charging Horde
-- Coordinated Effort
+- [[Compendium/Cypher/Abilities/C/Charging-Horde-cyr|Charging Horde]]
+- [[Compendium/Cypher/Abilities/C/Coordinated-Effort-cyr|Coordinated Effort]]
 - Damage Dealer
 - Damn the Guilty
 - Deep Reserves
@@ -628,7 +628,7 @@ Increases your movement (such as increasing your basic movement speed from short
 **Low Tier**:
 
 - [[Compendium/Cypher/Abilities/B/Bolt-Rider-cyr|Bolt Rider]]
-- Contortionist
+- [[Compendium/Cypher/Abilities/C/Contortionist-cyr|Contortionist]]
 - Danger Instinct
 - Far Step
 - Get Away
@@ -642,7 +642,7 @@ Increases your movement (such as increasing your basic movement speed from short
 - [[Compendium/Cypher/Abilities/A/Apportation-cyr|Apportation]]
 - [[Compendium/Cypher/Abilities/B/Blink-of-an-Eye-cyr|Blink of an Eye]]
 - [[Compendium/Cypher/Abilities/B/Bypass-Barrier-cyr|Bypass Barrier]]
-- Controlled Fall
+- [[Compendium/Cypher/Abilities/C/Controlled-Fall-cyr|Controlled Fall]]
 - Ghost
 - Mobile Fighter
 - Obstacle Running
@@ -659,7 +659,7 @@ Increases your movement (such as increasing your basic movement speed from short
 
 - [[Compendium/Cypher/Abilities/A/Alley-Rat-cyr|Alley Rat]]
 - [[Compendium/Cypher/Abilities/B/Blurring-Speed-cyr|Blurring Speed]]
-- Chamber of Dreams
+- [[Compendium/Cypher/Abilities/C/Chamber-of-Dreams-cyr|Chamber of Dreams]]
 - Electrical Flight
 - Embraced by Darkness
 - Fast Travel
@@ -688,9 +688,9 @@ Gives training or specialization in one or more types of combat defenses (Might,
 
 - [[Compendium/Cypher/Abilities/A/Absorb-Kinetic-Energy-cyr|Absorb Kinetic Energy]]
 - [[Compendium/Cypher/Abilities/B/Block-cyr|Block]]
-- Closed Mind
-- Courageous
-- Crystalline Body
+- [[Compendium/Cypher/Abilities/C/Closed-Mind-cyr|Closed Mind]]
+- [[Compendium/Cypher/Abilities/C/Courageous-cyr|Courageous]]
+- [[Compendium/Cypher/Abilities/C/Crystalline-Body-cyr|Crystalline Body]]
 - Defense Against Robots
 - Defensive Phasing
 - Deflect Attacks
@@ -743,11 +743,11 @@ Gives training or specialization in one or more types of combat defenses (Might,
 - [[Compendium/Cypher/Abilities/A/Absorb-Pure-Energy-cyr|Absorb Pure Energy]]
 - [[Compendium/Cypher/Abilities/A/Anticipate-Attack-cyr|Anticipate Attack]]
 - [[Compendium/Cypher/Abilities/B/Blood-Fever-cyr|Blood Fever]]
-- Cloak of Opportunity
-- Confounding Banter
-- Confuse Enemy
-- Counter Danger
-- Countermeasures
+- [[Compendium/Cypher/Abilities/C/Cloak-of-Oppurtinity-cyr|Cloak of Opportunity]]
+- [[Compendium/Cypher/Abilities/C/Confounding-Banter-cyr|Confounding Banter]]
+- [[Compendium/Cypher/Abilities/C/Confuse-Enemy-cyr|Confuse Enemy]]
+- [[Compendium/Cypher/Abilities/C/Counter-Danger-cyr|Counter Danger]]
+- [[Compendium/Cypher/Abilities/C/Countermeasures-cyr|Countermeasures]]
 - Dark Matter Shell
 - Dark Matter Shroud
 - Discerning Mind
@@ -869,7 +869,7 @@ Gives you an indirect social benefit, such as providing a useful contact in a ci
 
 **Low Tier**:
 
-- Connected
+- [[Compendium/Cypher/Abilities/C/Connected-cyr|Connected]]
 - Debate
 - Demeanor of Command
 - Impart Ideal
@@ -904,9 +904,9 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Cypher/Abilities/A/Arcane-Flare-cyr|Arcane Flare]]
 - [[Compendium/Cypher/Abilities/B/Bash-cyr|Bash]]
 - [[Compendium/Cypher/Abilities/B/Bloodlust-cyr|Bloodlust]]
-- Concussive Blast
-- Control the Field
-- Cutting Light
+- [[Compendium/Cypher/Abilities/C/Concussive-Blast-cyr|Concussive Blast]]
+- [[Compendium/Cypher/Abilities/C/Control-the-Field-cyr|Control the Field]]
+- [[Compendium/Cypher/Abilities/C/Cutting-Light-cyr|Cutting Light]]
 - Dazzling Sunburst
 - Disincentivize
 - Disrupting Touch
@@ -957,9 +957,9 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Cypher/Abilities/B/Bolts-of-Power-cyr|Bolts of Power]]
 - [[Compendium/Cypher/Abilities/B/Built-In-Weaponry-cyr|Built-in Weaponry]]
 - [[Compendium/Cypher/Abilities/B/Burning-Light-cyr|Burning Light]]
-- Castigate
-- Center of Attention
-- Crystal Lens
+- [[Compendium/Cypher/Abilities/C/Castigate-cyr|Castigate]]
+- [[Compendium/Cypher/Abilities/C/Center-of-Attention-cyr|Center of Attention]]
+- [[Compendium/Cypher/Abilities/C/Crystal-Lens-cyr|Crystal Lens]]
 - Dark Matter Strike
 - Dazing Attack
 - Debilitating Strike
@@ -1027,9 +1027,9 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Cypher/Abilities/B/Bouncing-Shield-cyr|Bouncing Shield]]
 - [[Compendium/Cypher/Abilities/B/Break-the-Ranks-cyr|Break the Ranks]]
 - [[Compendium/Cypher/Abilities/B/Break-Their-Mind-cyr|Break Their Mind]]
-- Call the Storm
-- Cold Burst
-- Concussion
+- [[Compendium/Cypher/Abilities/C/Call-the-Storm-cyr|Call the Storm]]
+- [[Compendium/Cypher/Abilities/C/Cold-Burst-Cyr|Cold Burst]]
+- [[Compendium/Cypher/Abilities/C/Concussion-cyr|Concussion]]
 - Deactivate Mechanisms
 - Deadly Strike
 - Death Touch
@@ -1109,7 +1109,7 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 - [[Compendium/Cypher/Abilities/A/Accelerate-cyr|Accelerate]]
 - [[Compendium/Cypher/Abilities/A/Applying-Your-Knowledge-cyr|Applying Your Knowledge]]
 - [[Compendium/Cypher/Abilities/B/Buddy-System-cyr|Buddy System]]
-- Combat Challenge
+- [[Compendium/Cypher/Abilities/C/Combat-Challenge-cyr|Combat Challenge]]
 - Defend All the Innocent
 - Dual Wards
 - Elemental Protection
@@ -1157,13 +1157,13 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - [[Compendium/Cypher/Abilities/B/Bestiary-Knowledge-cyr|Bestiary Knowledge]]
 - [[Compendium/Cypher/Abilities/B/Blameless-cyr|Blameless]]
 - [[Compendium/Cypher/Abilities/B/Breaker-cyr|Breaker]]
-- Car Surfer
-- Careful Aim
-- Celebrity Talent
-- Computer Programming
-- Contortionist
-- Courageous
-- Crafter
+- [[Compendium/Cypher/Abilities/C/Car-Surfer-cyr|Car Surfer]]
+- [[Compendium/Cypher/Abilities/C/Careful-Aim-cyr|Careful Aim]]
+- [[Compendium/Cypher/Abilities/C/Celebrity-Talent-cyr|Celebrity Talent]]
+- [[Compendium/Cypher/Abilities/C/Computer-Programming-cyr|Computer Programming]]
+- [[Compendium/Cypher/Abilities/C/Contortionist-cyr|Contortionist]]
+- [[Compendium/Cypher/Abilities/C/Courageous-cyr|Courageous]]
+- [[Compendium/Cypher/Abilities/C/Crafter-cyr|Crafter]]
 - Danger Sense
 - Datajack
 - Debate
@@ -1269,7 +1269,7 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - [[Compendium/Cypher/Abilities/A/Action-Processor-cyr|Action Processor]]
 - [[Compendium/Cypher/Abilities/A/Agent-Provocateur-cyr|Agent Provocateur]]
 - Animal Senses and Sensibilities
-- Confidence Artist
+- [[Compendium/Cypher/Abilities/C/Confidence-Artist-cyr|Confidence Artist]]
 - Dark Matter Shell
 - Enhance Strength
 - Expert Driver
@@ -1318,7 +1318,7 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 
 - [[Compendium/Cypher/Abilities/A/Amplify-Sounds-cyr|Amplify Sounds]]
 - [[Compendium/Cypher/Abilities/A/As-Foretold-In-Prophecy-cyr|As Foretold in Prophecy]]
-- Coordinated Effort
+- [[Compendium/Cypher/Abilities/C/Coordinated-Effort-cyr|Coordinated Effort]]
 - Dark Explorer
 - Explains the Ineffable
 - Exploit Advantage
@@ -1344,7 +1344,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 
 - [[Compendium/Cypher/Abilities/B/Beast-Form-cyr|Beast Form]]
 - [[Compendium/Cypher/Abilities/B/Bigger-cyr|Bigger]]
-- Controlled Change
+- [[Compendium/Cypher/Abilities/C/Controlled-Change-cyr|Controlled Change]]
 - Enlarge
 - Face Morph
 - Golem Healing
@@ -1366,8 +1366,8 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 
 **High Tier**:
 
-- Colossal
-- Command Metal
+- [[Compendium/Cypher/Abilities/C/Colossal-cyr|Colossal]]
+- [[Compendium/Cypher/Abilities/C/Command-Metal-cyr|Command Metal]]
 - Disappear
 - Gargantuan
 - Invisibility

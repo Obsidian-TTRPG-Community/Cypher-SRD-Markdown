@@ -7,7 +7,7 @@ tags: [Cypher/Descriptors]
 
 You’ve spent most of your life in sedentary pursuits—books, movies, hobbies, and so on—rather than active ones. You’re well versed in all manner of academia or other intellectual pursuits, but nothing physical. You’re not weak or feeble, necessarily (although this is a good descriptor for characters who are elderly), but you have no experience in more physical activities.
 
-(Calm is a great descriptor for characters who never intended to have adventures but were thrust into them, a trope that occurs often in modern games and particularly in horror games.)
+([[Compendium/Cypher/Abilities/C/Calm-cyr|Calm]] is a great descriptor for characters who never intended to have adventures but were thrust into them, a trope that occurs often in modern games and particularly in horror games.)
 
 **You gain the following characteristics**:
 
