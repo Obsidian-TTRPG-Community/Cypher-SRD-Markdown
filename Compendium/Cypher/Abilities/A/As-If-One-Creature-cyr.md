@@ -9,7 +9,7 @@ tags:
 
 **Type**: Enabler
 
-When you and your beast (from your Beast Companion ability) are within immediate distance of each other, you can share damage inflicted on either of you. 
+When you and your beast (from your [[Compendium/Cypher/Abilities/B/Beast-Companion-cyr|Beast Companion]] ability) are within immediate distance of each other, you can share damage inflicted on either of you. 
 
 For instance, if one of you is struck by a weapon for 4 points of damage, divide the damage between the two of you as you see fit. Only the Armor and resistances of the target initially damaged come into play. 
 

@@ -50,7 +50,7 @@ Gives you training or specialization in a specific physical attack (like swords 
 
 **Mid Tier**:
 
-- Blood Fever
+- [[Compendium/Cypher/Abilities/B/Blood-Fever-cyr|Blood Fever]]
 - Cognizant Offense
 - Greater Skill With Defense
 - Practiced With All Weapons
@@ -77,9 +77,9 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 
 **Low Tier**:
 
-- Basic Follower
-- Beast Companion
-- Bound Magic Creature
+- [[Compendium/Cypher/Abilities/B/Basic-Follower-cyr|Basic Follower]]
+- [[Compendium/Cypher/Abilities/B/Beast-Companion-cyr|Beast Companion]]
+- [[Compendium/Cypher/Abilities/B/Bound-Magic-Creature|Bound Magic Creature]]
 - Control Swarm
 - Critter Companion
 - Duplicate
@@ -93,7 +93,7 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 
 **Mid Tier**:
 
-- Beast Eyes
+- [[Compendium/Cypher/Abilities/B/Beast-Eyes-cyr|Beast Eyes]]
 - Call Swarm
 - Expert Follower
 - Fellow Explorer
@@ -115,9 +115,9 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 **High Tier**:
 
 - [[Compendium/Cypher/Abilities/A/As-If-One-Creature-cyr|As If One Creature]]
-- Band of Desperados
-- Band of Followers
-- Beast Call
+- [[Compendium/Cypher/Abilities/B/Band-of-Desperados-cyr|Band of Desperados]]
+- [[Compendium/Cypher/Abilities/B/Band-of-Followers-cyr|Band of Followers]]
+- [[Compendium/Cypher/Abilities/B/Beast-Call-cyr|Beast Call]]
 - Call Dead Spirit
 - Call in Favor
 - Call Otherworldly Spirit
@@ -176,7 +176,7 @@ Controls or influences minds in ways outside of what could be done with conventi
 
 - [[Compendium/Cypher/Abilities/A/Advanced-Command-Cyr|Advanced Command]]
 - [[Compendium/Cypher/Abilities/A/Assume-Control-cyr|Assume Control]]
-- Brainwashing
+- [[Compendium/Cypher/Abilities/B/Brainwashing-cyr|Brainwashing]]
 - Change the Paradigm
 - Control Machine
 - Control the Savage
@@ -255,7 +255,7 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 **Mid Tier**:
 
 - [[Compendium/Cypher/Abilities/A/Aquatic-Combatant-cyr|Aquatic Combatant]]
-- Biomorphic Healing
+- [[Compendium/Cypher/Abilities/B/Biomorphic-Healing-cyr|Biomorphic Healing]]
 - Damage Transference
 - Drain Charge
 - Fight On
@@ -363,7 +363,7 @@ Gives the ability to learn information about something, whether chosen by the GM
 
 **Low Tier**:
 
-- Babel
+- [[Compendium/Cypher/Abilities/B/Babel-cyr|Babel]]
 - Communication
 - Community Knowledge
 - Decipher
@@ -468,8 +468,8 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 **Mid Tier**:
 
 - [[Compendium/Cypher/Abilities/A/Amazing-Effort-cyr|Amazing Effort]]
-- Betrayal
-- Better Living Through Chemistry
+- [[Compendium/Cypher/Abilities/B/Betrayal-cyr|Betrayal]]
+- [[Compendium/Cypher/Abilities/B/Better-Living-Through-Chemistry-cyr|Better Living Through Chemistry]]
 - Capable Warrior
 - Cast Illusion
 - Cyphersmith
@@ -559,8 +559,8 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - [[Compendium/Cypher/Abilities/A/Agile-Wit-cyr|Agile Wit]]
 - [[Compendium/Cypher/Abilities/A/All-Out-Con-cyr|All-Out Con]]
 - [[Compendium/Cypher/Abilities/A/Artifact-Scavenger-cyr|Artifact Scavenger]]
-- Blurring Speed
-- Burst of Escape
+- [[Compendium/Cypher/Abilities/B/Blurring-Speed-cyr|Blurring Speed]]
+- [[Compendium/Cypher/Abilities/B/Burst-of-Escape-cyr|Burst of Escape]]
 - Charging Horde
 - Coordinated Effort
 - Damage Dealer
@@ -627,7 +627,7 @@ Increases your movement (such as increasing your basic movement speed from short
 
 **Low Tier**:
 
-- Bolt Rider
+- [[Compendium/Cypher/Abilities/B/Bolt-Rider-cyr|Bolt Rider]]
 - Contortionist
 - Danger Instinct
 - Far Step
@@ -640,8 +640,8 @@ Increases your movement (such as increasing your basic movement speed from short
 **Mid Tier**:
 
 - [[Compendium/Cypher/Abilities/A/Apportation-cyr|Apportation]]
-- Blink of an Eye
-- Bypass Barrier
+- [[Compendium/Cypher/Abilities/B/Blink-of-an-Eye-cyr|Blink of an Eye]]
+- [[Compendium/Cypher/Abilities/B/Bypass-Barrier-cyr|Bypass Barrier]]
 - Controlled Fall
 - Ghost
 - Mobile Fighter
@@ -658,7 +658,7 @@ Increases your movement (such as increasing your basic movement speed from short
 **High Tier**:
 
 - [[Compendium/Cypher/Abilities/A/Alley-Rat-cyr|Alley Rat]]
-- Blurring Speed
+- [[Compendium/Cypher/Abilities/B/Blurring-Speed-cyr|Blurring Speed]]
 - Chamber of Dreams
 - Electrical Flight
 - Embraced by Darkness
@@ -687,7 +687,7 @@ Gives training or specialization in one or more types of combat defenses (Might,
 **Low Tier**:
 
 - [[Compendium/Cypher/Abilities/A/Absorb-Kinetic-Energy-cyr|Absorb Kinetic Energy]]
-- Block
+- [[Compendium/Cypher/Abilities/B/Block-cyr|Block]]
 - Closed Mind
 - Courageous
 - Crystalline Body
@@ -742,7 +742,7 @@ Gives training or specialization in one or more types of combat defenses (Might,
 
 - [[Compendium/Cypher/Abilities/A/Absorb-Pure-Energy-cyr|Absorb Pure Energy]]
 - [[Compendium/Cypher/Abilities/A/Anticipate-Attack-cyr|Anticipate Attack]]
-- Blood Fever
+- [[Compendium/Cypher/Abilities/B/Blood-Fever-cyr|Blood Fever]]
 - Cloak of Opportunity
 - Confounding Banter
 - Confuse Enemy
@@ -839,8 +839,8 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 
 - Animal Senses and Sensibilities
 - [[Compendium/Cypher/Abilities/A/Awareness-cyr|Awareness]]
-- Beast Eyes
-- Break the Line
+- [[Compendium/Cypher/Abilities/B/Beast-Eyes-cyr|Beast Eyes]]
+- [[Compendium/Cypher/Abilities/B/Break-the-Line-cyr|Break the Line]]
 - Detect Life
 - Distance Viewing
 - Echolocation
@@ -856,7 +856,7 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 **High Tier**:
 
 - [[Compendium/Cypher/Abilities/A/Amplify-Sounds-cyr|Amplify Sounds]]
-- Battlefield Tactician
+- [[Compendium/Cypher/Abilities/B/Battlefield-Tactician-cyr|Battlefield Tactician]]
 - Dark Explorer
 - Infer Thoughts
 - Master Machine
@@ -883,7 +883,7 @@ Gives you an indirect social benefit, such as providing a useful contact in a ci
 
 **Mid Tier**:
 
-- Betrayal
+- [[Compendium/Cypher/Abilities/B/Betrayal-cyr|Betrayal]]
 - Flamboyant Boast
 - Informer
 - Oratory
@@ -902,8 +902,8 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Cypher/Abilities/A/Advantage-to-Disadvantage-cyr|Advantage to Disadvantage]]
 - [[Compendium/Cypher/Abilities/A/Aggression-cyr|Aggression]]
 - [[Compendium/Cypher/Abilities/A/Arcane-Flare-cyr|Arcane Flare]]
-- Bash
-- Bloodlust
+- [[Compendium/Cypher/Abilities/B/Bash-cyr|Bash]]
+- [[Compendium/Cypher/Abilities/B/Bloodlust-cyr|Bloodlust]]
 - Concussive Blast
 - Control the Field
 - Cutting Light
@@ -953,10 +953,10 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Cypher/Abilities/A/Acrobatic-Attack-cyr|Acrobatic Attack]]
 - Ambusher
 - [[Compendium/Cypher/Abilities/A/Answering-Attack-cyr|Answering Attack]]
-- Better Surprise Attack
-- Bolts of Power
-- Built-in Weaponry
-- Burning Light
+- [[Compendium/Cypher/Abilities/B/Better-Surprise-Attack-cyr|Better Surprise Attack]]
+- [[Compendium/Cypher/Abilities/B/Bolts-of-Power-cyr|Bolts of Power]]
+- [[Compendium/Cypher/Abilities/B/Built-In-Weaponry-cyr|Built-in Weaponry]]
+- [[Compendium/Cypher/Abilities/B/Burning-Light-cyr|Burning Light]]
 - Castigate
 - Center of Attention
 - Crystal Lens
@@ -1021,12 +1021,12 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Cypher/Abilities/A/Assassin-Strike-cyr|Assassin Strike]]
 - Asserting Your Privilege
 - [[Compendium/Cypher/Abilities/A/Attack-and-Attack-Again-cyr|Attack and Attack Again]]
-- Biomorphic Detonation
-- Blind Machine
-- Blinding Attack
-- Bouncing Shield
-- Break the Ranks
-- Break Their Mind
+- [[Compendium/Cypher/Abilities/B/Biomorphic-Detonation-cyr|Biomorphic Detonation]]
+- [[Compendium/Cypher/Abilities/B/Blind-Machine-cyr|Blind Machine]]
+- [[Compendium/Cypher/Abilities/B/Blinding-Attack-cyr|Blinding Attack]]
+- [[Compendium/Cypher/Abilities/B/Bouncing-Shield-cyr|Bouncing Shield]]
+- [[Compendium/Cypher/Abilities/B/Break-the-Ranks-cyr|Break the Ranks]]
+- [[Compendium/Cypher/Abilities/B/Break-Their-Mind-cyr|Break Their Mind]]
 - Call the Storm
 - Cold Burst
 - Concussion
@@ -1108,7 +1108,7 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 
 - [[Compendium/Cypher/Abilities/A/Accelerate-cyr|Accelerate]]
 - [[Compendium/Cypher/Abilities/A/Applying-Your-Knowledge-cyr|Applying Your Knowledge]]
-- Buddy System
+- [[Compendium/Cypher/Abilities/B/Buddy-System-cyr|Buddy System]]
 - Combat Challenge
 - Defend All the Innocent
 - Dual Wards
@@ -1124,8 +1124,8 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 **High Tier**:
 
 - [[Compendium/Cypher/Abilities/A/Able-Assistance-cyr|Able Assistance]]
-- Battle Management
-- Block for Another
+- [[Compendium/Cypher/Abilities/B/Battle-Management-cyr|Battle Management]]
+- [[Compendium/Cypher/Abilities/B/Block-for-Another-cyr|Block for Another]]
 - Energize Creature
 - Energize Crowd
 - Impart Understanding
@@ -1153,10 +1153,10 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - [[Compendium/Cypher/Abilities/A/Assassin-Skills-cyr|Assassin Skills]]
 - [[Compendium/Cypher/Abilities/A/Athlete-cyr|Athlete]]
 - [[Compendium/Cypher/Abilities/A/Autodoctor-cyr|Autodoctor]]
-- Balance
-- Bestiary Knowledge
-- Blameless
-- Breaker
+- [[Compendium/Cypher/Abilities/B/Balance-cyr|Balance]]
+- [[Compendium/Cypher/Abilities/B/Bestiary-Knowledge-cyr|Bestiary Knowledge]]
+- [[Compendium/Cypher/Abilities/B/Blameless-cyr|Blameless]]
+- [[Compendium/Cypher/Abilities/B/Breaker-cyr|Breaker]]
 - Car Surfer
 - Careful Aim
 - Celebrity Talent
@@ -1342,8 +1342,8 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 
 **Low Tier**:
 
-- Beast Form
-- Bigger
+- [[Compendium/Cypher/Abilities/B/Beast-Form-cyr|Beast Form]]
+- [[Compendium/Cypher/Abilities/B/Bigger-cyr|Bigger]]
 - Controlled Change
 - Enlarge
 - Face Morph
@@ -1355,8 +1355,8 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 
 **Mid Tier**:
 
-- Bigger Beast Form
-- Blend In
+- [[Compendium/Cypher/Abilities/B/Bigger-Beast-Form-cyr|Bigger Beast Form]]
+- [[Compendium/Cypher/Abilities/B/Blend-In-cyr|Blend In]]
 - Evanesce
 - Greater Controlled Change
 - Hard to See

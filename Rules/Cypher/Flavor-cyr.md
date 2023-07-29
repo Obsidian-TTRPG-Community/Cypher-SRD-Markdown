@@ -129,7 +129,7 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 
 ### First-Tier Magic Abilities
 
-- Blessing of the Gods
+- [[Compendium/Cypher/Abilities/B/Blessing-of-the-Gods-cyr|Blessing of the Gods]]
 - Closed Mind
 - Entangling Force
 - Hedge Magic
@@ -186,7 +186,7 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 
 ### Second-Tier Combat Abilities
 
-- Bloodlust
+- [[Compendium/Cypher/Abilities/B/Bloodlust-cyr|Bloodlust]]
 - Combat Prowess
 - Trained Without Armor
 
