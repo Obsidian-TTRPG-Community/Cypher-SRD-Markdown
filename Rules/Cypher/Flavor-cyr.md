@@ -31,7 +31,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 
 ### Second-Tier Stealth Abilities
 
-- Contortionist
+- [[Compendium/Cypher/Abilities/C/Contortionist-cyr|Contortionist]]
 - Find an Opening
 - Get Away
 - Sense Ambush
@@ -112,7 +112,7 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 
 ### Fifth-Tier Technology Abilities
 
-- Control Machine
+- [[Compendium/Cypher/Abilities/C/Control-Machine-cyr|Control Machine]]
 - Jury-Rig
 - Machine Companion
 
@@ -130,7 +130,7 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 ### First-Tier Magic Abilities
 
 - [[Compendium/Cypher/Abilities/B/Blessing-of-the-Gods-cyr|Blessing of the Gods]]
-- Closed Mind
+- [[Compendium/Cypher/Abilities/C/Closed-Mind-cyr|Closed Mind]]
 - Entangling Force
 - Hedge Magic
 - Magic Training
@@ -139,7 +139,7 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 
 ### Second-Tier Magic Abilities
 
-- Concussive Blast
+- [[Compendium/Cypher/Abilities/C/Concussive-Blast-cyr|Concussive Blast]]
 - Fetch
 - Force Field
 - Lock
@@ -187,7 +187,7 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 ### Second-Tier Combat Abilities
 
 - [[Compendium/Cypher/Abilities/B/Bloodlust-cyr|Bloodlust]]
-- Combat Prowess
+- [[Compendium/Cypher/Abilities/C/Combat-Prowess-cyr|Combat Prowess]]
 - Trained Without Armor
 
 ### Third-Tier Combat Abilities
@@ -199,7 +199,7 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 
 ### Fourth-Tier Combat Abilities
 
-- Capable Warrior
+- [[Compendium/Cypher/Abilities/C/Capable-Warrior-cyr|Capable Warrior]]
 - Deadly Aim
 - Fury
 - Misdirect

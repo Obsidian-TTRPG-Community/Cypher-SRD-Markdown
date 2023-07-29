@@ -139,8 +139,8 @@ Appropriate clothing and two weapons of your choice, plus one expensive item, tw
 Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
 
 - [[Compendium/Cypher/Abilities/B/Bash-cyr|Bash]]
-- Combat Prowess
-- Control the Field
+- [[Compendium/Cypher/Abilities/C/Combat-Prowess-cyr|Combat Prowess]]
+- [[Compendium/Cypher/Abilities/C/Control-the-Field-cyr|Control the Field]]
 - Improved Edge
 - No Need for Weapons
 - Overwatch
@@ -154,7 +154,7 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Crushing Blow
+- [[Compendium/Cypher/Abilities/C/Crushing-Blow-cyr|Crushing Blow]]
 - Hemorrhage
 - Reload
 - Skill With Attacks
@@ -183,7 +183,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/A/Amazing-Effort-cyr|Amazing Effort]]
-- Capable Warrior
+- [[Compendium/Cypher/Abilities/C/Capable-Warrior-cyr|Capable Warrior]]
 - Experienced Defender
 - Feint
 - Increased Effects
@@ -222,7 +222,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Ray wants to create a Warrior character for a modern campaign. He decides that the character is an ex-military fellow who is fast and strong. He puts 3 of his additional points into his Might Pool and 3 into his Speed Pool; his stat Pools are now Might 13, Speed 13, and Intellect 8. As a first-tier character, his Effort is 1, his Might Edge is 1, and his Speed Edge and Intellect Edge are both 0. His character is not particularly smart or charismatic.
 
-He wants to use a large combat knife (a medium weapon that inflicts 4 points of damage) and a .357 Magnum (a heavy pistol that inflicts 6 points of damage but requires the use of both hands). Ray decides not to wear armor, as it’s not really appropriate to the setting, so for his first ability, he chooses Trained Without Armor so he eases Speed defense actions. For his second ability, he chooses Combat Prowess so he can inflict extra damage with his big knife.
+He wants to use a large combat knife (a medium weapon that inflicts 4 points of damage) and a .357 Magnum (a heavy pistol that inflicts 6 points of damage but requires the use of both hands). Ray decides not to wear armor, as it’s not really appropriate to the setting, so for his first ability, he chooses Trained Without Armor so he eases Speed defense actions. For his second ability, he chooses [[Compendium/Cypher/Abilities/C/Combat-Prowess-cyr|Combat Prowess]] so he can inflict extra damage with his big knife.
 
 Ray wants to be fast as well as tough, so he selects Improved Edge. This gives him a Speed Edge of 1. He rounds out his character with Physical Skills and chooses swimming and running.
 
@@ -370,7 +370,7 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/A/Adaptation-Cyr|Adaptation]]
-- Cutting Light
+- [[Compendium/Cypher/Abilities/C/Cutting-Light-cyr|Cutting Light]]
 - Hover
 - Mind Reading
 - Retrieve Memories
@@ -387,7 +387,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/A/Adroit-Cypher-Use|Adroit Cypher Use]]
-- Countermeasures
+- [[Compendium/Cypher/Abilities/C/Countermeasures-cyr|Countermeasures]]
 - Energy Protection
 - Fire and Ice
 - Force Field Barrier
@@ -414,9 +414,9 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/A/Absorb-Energy-cyr|Absorb Energy]]
-- Concussion
-- Conjuration
-- Create
+- [[Compendium/Cypher/Abilities/C/Concussion-cyr|Concussion]]
+- [[Compendium/Cypher/Abilities/C/Conjuration-cyr|Conjuration]]
+- [[Compendium/Cypher/Abilities/C/Create-cyr|Create]]
 - Dust to Dust
 - Knowing the Unknown
 - Master Cypher Use
@@ -427,7 +427,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Control Weather
+- [[Compendium/Cypher/Abilities/C/Control-Weather-cyr|Control Weather]]
 - Earthquake
 - Move Mountains
 - Traverse the Worlds
@@ -585,7 +585,7 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 
 Choose four of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Curious
+- [[Compendium/Cypher/Abilities/C/Curious-cyr|Curious]]
 - Danger Instinct
 - Enable Others
 - Escape
@@ -604,7 +604,7 @@ Choose four of the abilities listed below (or from a lower tier) to add to your 
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Controlled Fall
+- [[Compendium/Cypher/Abilities/C/Controlled-Fall-cyr|Controlled Fall]]
 - Experienced in Armor
 - Expert Cypher Use
 - Ignore the Pain
@@ -622,7 +622,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Capable Warrior
+- [[Compendium/Cypher/Abilities/C/Capable-Warrior-cyr|Capable Warrior]]
 - Expert Skill
 - Increased Effects
 - Read the Signs
@@ -808,7 +808,7 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/B/Basic-Follower-cyr|Basic Follower]]
-- Calm Stranger
+- [[Compendium/Cypher/Abilities/C/Calm-Stranger-cyr|Calm Stranger]]
 - Disincentivize
 - Gather Intelligence
 - Impart Ideal
@@ -841,7 +841,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/A/Anticipate-Attack-cyr|Anticipate Attack]]
-- Confounding Banter
+- [[Compendium/Cypher/Abilities/C/Confounding-Banter-cyr|Confounding Banter]]
 - Feint
 - Heightened Skills
 - Psychosis
@@ -870,7 +870,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 - [[Compendium/Cypher/Abilities/A/Assume-Control-cyr|Assume Control]]
 - [[Compendium/Cypher/Abilities/B/Battle-Management-cyr|Battle Management]]
-- Crowd Control
+- [[Compendium/Cypher/Abilities/C/Crowd-Control-cyr|Crowd Control]]
 - Inspiring Success
 - Recruit Deputy
 - Shatter Mind
