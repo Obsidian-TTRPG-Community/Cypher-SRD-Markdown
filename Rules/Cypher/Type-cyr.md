@@ -34,7 +34,6 @@ Finally, more fundamental options for further customization are provided at the 
 | Soldier              | Brawler              |                     |                           |
 | Myrmidon             | Tough                |                     |                           |
 | Valkyrie             | Athlete              |                     |                           |
-
 ^Cypher-Archetype-Warrior
 
 You’re a good ally to have in a fight. You know how to use weapons and defend yourself. Depending on the genre and setting in question, this might mean wielding a sword and shield in the gladiatorial arena, an AK-47 and a bandolier of grenades in a savage firefight, or a blaster rifle and powered armor when exploring an alien planet.
