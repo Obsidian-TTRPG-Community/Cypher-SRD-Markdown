@@ -1,11 +1,6 @@
 ---
-aliases:
-  - Bound Magic Creature
-tags:
-  - Cypher/Abilities/B
-  - Cypher/Abilities/Action
-type:
-  - Enabler
+aliases: [Bound Magic Creature]
+tags: [Cypher/Abilities/B, Cypher/Abilities/Action]
 ---
 
 # Bound Magic Creature
