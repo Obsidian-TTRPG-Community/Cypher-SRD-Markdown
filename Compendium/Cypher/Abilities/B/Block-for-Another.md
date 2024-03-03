@@ -1,6 +1,11 @@
 ---
-aliases: [Block for Another]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Enabler]
+aliases:
+  - Block for Another
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Block for Another

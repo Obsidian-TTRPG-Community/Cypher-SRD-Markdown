@@ -1,6 +1,13 @@
 ---
-aliases: [Blessing of the Gods]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Enabler, Cypher/Abilities/Action]
+aliases:
+  - Blessing of the Gods
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Enabler
+  - Cypher/Abilities/Action
+type:
+  - Enabler
+  - Action
 ---
 
 # Blessing of the Gods

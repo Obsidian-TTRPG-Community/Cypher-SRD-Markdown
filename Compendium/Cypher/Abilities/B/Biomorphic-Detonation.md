@@ -1,8 +1,13 @@
 ---
-aliases: [Biomorphic Detonation]
+aliases:
+  - Biomorphic Detonation
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 7 Might
 ---
 
 # Biomorphic Detonation

@@ -1,6 +1,13 @@
 ---
-aliases: [Bolts of Power]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Action]
+aliases:
+  - Bolts of Power
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 5 Intellect
 ---
 
 # Bolts of Power

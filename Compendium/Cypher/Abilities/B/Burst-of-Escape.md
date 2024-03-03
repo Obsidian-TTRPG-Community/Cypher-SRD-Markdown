@@ -1,6 +1,13 @@
 ---
-aliases: [Burst of Escape]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Enabler]
+aliases:
+  - Burst of Escape
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Enabler
+type:
+  - Enabler
+points:
+  - 5 Speed
 ---
 
 # Burst of Escape

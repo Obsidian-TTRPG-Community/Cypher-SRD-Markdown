@@ -1,8 +1,11 @@
 ---
-aliases: [Babel]
+aliases:
+  - Babel
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Babel

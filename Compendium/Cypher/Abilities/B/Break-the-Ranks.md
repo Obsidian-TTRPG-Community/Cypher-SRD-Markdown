@@ -1,6 +1,13 @@
 ---
-aliases: [Break the Ranks]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Action]
+aliases:
+  - Break the Ranks
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 6 Speed
 ---
 
 # Break the Ranks

@@ -1,6 +1,11 @@
 ---
-aliases: [Blood Fever]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Enabler]
+aliases:
+  - Blood Fever
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Blood Fever

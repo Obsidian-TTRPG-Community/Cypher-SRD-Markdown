@@ -1,6 +1,13 @@
 ---
-aliases: [Blink of an Eye]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Action]
+aliases:
+  - Blink of an Eye
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 4 Speed
 ---
 
 # Blink of an Eye

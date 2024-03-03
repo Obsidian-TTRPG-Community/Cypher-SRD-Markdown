@@ -1,8 +1,11 @@
 ---
-aliases: [Battlefield Tactician]
+aliases:
+  - Battlefield Tactician
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Battlefield Tactician

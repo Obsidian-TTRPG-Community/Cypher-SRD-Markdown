@@ -1,6 +1,8 @@
 ---
 aliases: [Contortionist]
 tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+type: [Enabler]
+points: [2 Speed]
 ---
 
 # Contortionist

@@ -1,6 +1,13 @@
 ---
-aliases: [Break Their Mind]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Action]
+aliases:
+  - Break Their Mind
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 7 Intellect
 ---
 
 # Break Their Mind

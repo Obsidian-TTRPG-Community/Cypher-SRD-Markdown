@@ -1,8 +1,13 @@
 ---
-aliases: [Better Living Through Chemistry]
+aliases:
+  - Better Living Through Chemistry
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 4 Intellect
 ---
 
 # Better Living Through Chemistry

@@ -1,8 +1,11 @@
 ---
-aliases: [Bigger Beast Form]
+aliases:
+  - Bigger Beast Form
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Bigger Beast Form

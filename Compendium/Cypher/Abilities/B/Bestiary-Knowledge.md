@@ -1,8 +1,11 @@
 ---
-aliases: [Bestiary Knowledge]
+aliases:
+  - Bestiary Knowledge
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Bestiary Knowledge

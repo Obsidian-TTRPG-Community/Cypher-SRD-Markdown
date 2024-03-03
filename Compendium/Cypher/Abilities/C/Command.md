@@ -1,6 +1,8 @@
 ---
 aliases: [Command]
 tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
+type: [Action]
+points: [3 Intellect]
 ---
 
 # Command

@@ -1,8 +1,11 @@
 ---
-aliases: [Band of Followers]
+aliases:
+  - Band of Followers
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Band of Followers

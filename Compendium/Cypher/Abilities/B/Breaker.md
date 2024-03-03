@@ -1,6 +1,11 @@
 ---
-aliases: [Breaker]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Enabler]
+aliases:
+  - Breaker
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Breaker

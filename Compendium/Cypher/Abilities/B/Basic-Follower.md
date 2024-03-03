@@ -1,8 +1,11 @@
 ---
-aliases: [Basic Follower]
+aliases:
+  - Basic Follower
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Basic Follower

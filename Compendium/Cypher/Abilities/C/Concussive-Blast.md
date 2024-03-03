@@ -1,6 +1,8 @@
 ---
 aliases: [Concussive Blast]
 tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
+type: [Action]
+points: [2 intellect]
 ---
 
 # Concussive Blast

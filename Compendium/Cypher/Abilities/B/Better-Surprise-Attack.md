@@ -1,8 +1,11 @@
 ---
-aliases: [Better Surprise Attack]
+aliases:
+  - Better Surprise Attack
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Better Surprise Attack

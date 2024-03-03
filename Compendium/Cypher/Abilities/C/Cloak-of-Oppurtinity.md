@@ -1,13 +1,8 @@
 ---
-aliases:
-  - Cloak of Opportunity
-tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Action-Initiate
-type:
-  - Action
-points:
-  - 5 Intellect
+aliases: [Cloak of Opportunity]
+tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
+type: [Action]
+points: [5 Intellect]
 ---
 
 # Cloak of Opportunity

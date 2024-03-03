@@ -1,6 +1,11 @@
 ---
-aliases: [Built-in Weaponry]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Action]
+aliases:
+  - Built-in Weaponry
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Action
+type:
+  - Action
 ---
 
 # Built-in Weaponry

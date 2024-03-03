@@ -1,6 +1,13 @@
 ---
-aliases: [Blurring Speed]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Enabler]
+aliases:
+  - Blurring Speed
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Enabler
+type:
+  - Enabler
+points:
+  - 7 Speed
 ---
 
 # Blurring Speed

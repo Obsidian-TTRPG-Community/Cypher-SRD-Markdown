@@ -1,8 +1,11 @@
 ---
-aliases: [Band of Desperados]
+aliases:
+  - Band of Desperados
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Band of Desperados

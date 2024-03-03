@@ -1,13 +1,8 @@
 ---
-aliases:
-  - Chamber of Dreams
-tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Action
-type:
-  - Action
-points:
-  - 8 Intellect
+aliases: [Chamber of Dreams]
+tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+type: [Action]
+points: [8 Intellect]
 ---
 
 # Chamber of Dreams

@@ -1,6 +1,13 @@
 ---
-aliases: [Bloodlust]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Enabler]
+aliases:
+  - Bloodlust
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Enabler
+type:
+  - Enabler
+points:
+  - 3 Might
 ---
 
 # Bloodlust

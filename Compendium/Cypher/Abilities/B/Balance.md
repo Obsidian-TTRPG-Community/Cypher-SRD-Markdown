@@ -1,8 +1,11 @@
 ---
-aliases: [Balance]
+aliases:
+  - Balance
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Balance

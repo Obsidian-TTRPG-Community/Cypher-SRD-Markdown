@@ -1,8 +1,13 @@
 ---
-aliases: [Blend In]
+aliases:
+  - Blend In
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 4 Intellect
 ---
 
 # Blend In

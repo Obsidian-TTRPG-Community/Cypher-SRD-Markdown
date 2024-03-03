@@ -1,11 +1,7 @@
 ---
-aliases:
-  - Captivate or Inspire
-tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Action
-type:
-  - Action
+aliases: [Captivate or Inspire]
+tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+type: [Action]
 ---
 
 # Captivate or Inspire

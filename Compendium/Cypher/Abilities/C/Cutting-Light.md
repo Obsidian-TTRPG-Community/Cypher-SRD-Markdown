@@ -1,8 +1,8 @@
 ---
 aliases: [Cutting Light]
-points: 2 intellect
 tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
-type: Action
+type: [Action]
+points: [2 intellect]
 ---
 
 # Cutting Light

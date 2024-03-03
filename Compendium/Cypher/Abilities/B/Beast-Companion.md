@@ -1,8 +1,11 @@
 ---
-aliases: [Beast Companion]
+aliases:
+  - Beast Companion
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Beast Companion

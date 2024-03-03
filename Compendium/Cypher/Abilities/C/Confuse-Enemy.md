@@ -1,6 +1,8 @@
 ---
 aliases: [Confuse Enemy]
 tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+type: [Enabler]
+points: [4 Intellect]
 ---
 
 # Confuse Enemy

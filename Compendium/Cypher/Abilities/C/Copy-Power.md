@@ -1,6 +1,8 @@
 ---
 aliases: [Copy Power]
 tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+type: [Action]
+points: [2 intellect]
 ---
 
 # Copy Power

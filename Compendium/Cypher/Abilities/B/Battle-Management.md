@@ -1,8 +1,13 @@
 ---
-aliases: [Battle Management]
+aliases:
+  - Battle Management
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 4 Intellect
 ---
 
 # Battle Management

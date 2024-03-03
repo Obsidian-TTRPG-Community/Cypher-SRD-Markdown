@@ -1,8 +1,11 @@
 ---
-aliases: [Bigger]
+aliases:
+  - Bigger
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Bigger

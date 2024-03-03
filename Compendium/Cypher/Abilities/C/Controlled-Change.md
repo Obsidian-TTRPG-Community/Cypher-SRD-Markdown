@@ -1,6 +1,7 @@
 ---
 aliases: [Controlled Change]
 tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
+type: [Action]
 ---
 
 # Controlled Change

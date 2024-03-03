@@ -1,6 +1,8 @@
 ---
 aliases: [Control Swarm]
 tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
+type: [Action]
+points: [2 intellect]
 ---
 
 # Control Swarm

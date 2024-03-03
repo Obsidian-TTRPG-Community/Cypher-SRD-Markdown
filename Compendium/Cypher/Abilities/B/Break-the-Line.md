@@ -1,6 +1,13 @@
 ---
-aliases: [Break the Line]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Action]
+aliases:
+  - Break the Line
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 4 Intellect
 ---
 
 # Break the Line

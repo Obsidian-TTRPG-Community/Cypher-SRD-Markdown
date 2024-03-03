@@ -1,8 +1,13 @@
 ---
-aliases: [Biomorphic Healing]
+aliases:
+  - Biomorphic Healing
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 4 Might
 ---
 
 # Biomorphic Healing

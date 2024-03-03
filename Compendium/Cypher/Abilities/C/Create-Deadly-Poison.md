@@ -1,6 +1,8 @@
 ---
 aliases: [Create Deadly Poison]
 tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
+type: [Action]
+points: [3 Intellect]
 ---
 
 # Create Deadly Poison

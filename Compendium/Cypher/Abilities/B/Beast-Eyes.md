@@ -1,8 +1,13 @@
 ---
-aliases: [Beast Eyes]
+aliases:
+  - Beast Eyes
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 3 Intellect
 ---
 
 # Beast Eyes

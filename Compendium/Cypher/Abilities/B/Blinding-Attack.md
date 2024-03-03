@@ -1,6 +1,13 @@
 ---
-aliases: [Blinding Attack]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Action]
+aliases:
+  - Blinding Attack
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 3 Speed
 ---
 
 # Blinding Attack

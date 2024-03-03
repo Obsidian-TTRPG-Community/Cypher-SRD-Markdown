@@ -1,6 +1,13 @@
 ---
-aliases: [Brainwashing]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Action]
+aliases:
+  - Brainwashing
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 6 Intellect
 ---
 
 # Brainwashing

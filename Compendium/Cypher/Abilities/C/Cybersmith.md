@@ -1,8 +1,8 @@
 ---
 aliases: [Cyphersmith]
-points: 0
 tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
 type: Enabler
+points: 0
 ---
 
 # Cyphersmith

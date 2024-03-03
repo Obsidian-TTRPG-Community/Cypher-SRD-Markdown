@@ -1,8 +1,13 @@
 ---
-aliases: [Bash]
+aliases:
+  - Bash
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 1 Might
 ---
 
 # Bash

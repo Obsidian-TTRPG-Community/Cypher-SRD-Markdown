@@ -1,6 +1,13 @@
 ---
-aliases: [Blind Machine]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Action]
+aliases:
+  - Blind Machine
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 6 Speed
 ---
 
 # Blind Machine

@@ -1,8 +1,11 @@
 ---
-aliases: [Betrayal]
+aliases:
+  - Betrayal
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Betrayal

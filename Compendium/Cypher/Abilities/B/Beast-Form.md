@@ -1,8 +1,11 @@
 ---
-aliases: [Beast Form]
+aliases:
+  - Beast Form
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Action
+type:
+  - Action
 ---
 
 # Beast Form

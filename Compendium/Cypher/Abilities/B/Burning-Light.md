@@ -1,6 +1,13 @@
 ---
-aliases: [Burning Light]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Action]
+aliases:
+  - Burning Light
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 3 Intellect
 ---
 
 # Burning Light

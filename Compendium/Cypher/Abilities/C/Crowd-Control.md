@@ -1,6 +1,8 @@
 ---
 aliases: [Crowd Control]
 tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
+type: [Action]
+points: [6 Intellect]
 ---
 
 # Crowd Control

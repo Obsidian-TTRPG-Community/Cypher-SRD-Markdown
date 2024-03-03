@@ -1,13 +1,8 @@
 ---
-aliases:
-  - Call the Storm
-tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Action
-type:
-  - Action
-points:
-  - 7 Intellect
+aliases: [Call the Storm]
+tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+type: [Action]
+points: [7 Intellect]
 ---
 
 # Call the Storm

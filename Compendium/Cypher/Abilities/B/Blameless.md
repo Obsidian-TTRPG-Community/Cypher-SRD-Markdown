@@ -1,8 +1,11 @@
 ---
-aliases: [Blameless]
+aliases:
+  - Blameless
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Blameless

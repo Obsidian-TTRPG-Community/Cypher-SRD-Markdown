@@ -1,6 +1,7 @@
 ---
 aliases: [Courageous]
 tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+type: [Enabler]
 ---
 
 # Courageous

@@ -1,6 +1,13 @@
 ---
-aliases: [Brute Strike]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Enabler]
+aliases:
+  - Brute Strike
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Enabler
+type:
+  - Enabler
+points:
+  - 4 Might
 ---
 
 # Brute Strike

@@ -1,8 +1,13 @@
 ---
-aliases: [Beast Call]
+aliases:
+  - Beast Call
 tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 5 Intellect
 ---
 
 # Beast Call

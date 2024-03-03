@@ -1,6 +1,11 @@
 ---
-aliases: [Bouncing Shield]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Enabler]
+aliases:
+  - Bouncing Shield
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Bouncing Shield

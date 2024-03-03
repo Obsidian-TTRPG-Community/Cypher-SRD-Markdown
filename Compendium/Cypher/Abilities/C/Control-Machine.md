@@ -1,6 +1,8 @@
 ---
 aliases: [Control Machine]
 tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
+type: [Action]
+points: [6 Intellect]
 ---
 
 # Control Machine

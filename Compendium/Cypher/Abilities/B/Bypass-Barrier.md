@@ -1,6 +1,13 @@
 ---
-aliases: [Bypass Barrier]
-tags: [Cypher/Abilities/B, Cypher/Abilities/Action]
+aliases:
+  - Bypass Barrier
+tags:
+  - Cypher/Abilities/B
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 6 Intellect
 ---
 
 # Bypass Barrier
