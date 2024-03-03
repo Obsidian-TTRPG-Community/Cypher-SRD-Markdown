@@ -11,7 +11,7 @@ tags:
 3. [[Rules/Cypher/Type|Character Types]]
 4. [[Rules/Cypher/Flavor|Character Flavor]]
 5. [[Rules/Cypher/Descriptor|Descriptor]]
-6. Focus
+6. [[Rules/Cypher/Focus|Focus]]
 7. [[Rules/Cypher/Abilities|Abilities]]
 8. [[Rules/Cypher/Equipment|Equipment]]
 9. Rules of the Game
