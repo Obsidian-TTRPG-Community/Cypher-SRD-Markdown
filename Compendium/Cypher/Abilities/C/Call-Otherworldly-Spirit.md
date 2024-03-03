@@ -1,6 +1,8 @@
 ---
 aliases: [Call Otherworldly Spirit]
 tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+type: [Action]
+points: [6 Intellect]
 ---
 
 # Call Otherworldly Spirit
