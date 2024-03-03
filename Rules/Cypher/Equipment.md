@@ -83,7 +83,7 @@ Anyone can wear any armor, but it can be taxing. Wearing armor increases the cos
 >
 > The ability Practiced in Armor reduces these costs by 1.
 >
-> The ability Experienced in Armor reduces these costs by 2.
+> The ability [[Compendium/Cypher/Abilities/E/Experienced-in-Armor|Experienced in Armor]] reduces these costs by 2.
 >
 > The ability Mastery in Armor reduces these costs to 0.
 >

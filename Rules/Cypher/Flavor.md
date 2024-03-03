@@ -39,7 +39,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 
 ### Third-Tier Stealth Abilities
 
-- Evanesce
+- [[Compendium/Cypher/Abilities/E/Evanesce|Evanesce]]
 - From the Shadows
 - Gambler
 - Inner Defense
@@ -64,7 +64,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 
 ### Sixth-Tier Stealth Abilities
 
-- Exploit Advantage
+- [[Compendium/Cypher/Abilities/E/Exploity-Advantage|Exploit Advantage]]
 - Spring Away
 - Thief’s Luck
 - Twist of Fate
@@ -86,7 +86,7 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 
 ### Second-Tier Technology Abilities
 
-- Distant Interface
+- [[Compendium/Cypher/Abilities/D/Distant-Interface|Distant Interface]]
 - Machine Efficiency
 - Overload Machine
 - Serv-0
@@ -131,7 +131,7 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 
 - [[Compendium/Cypher/Abilities/B/Blessing-of-the-Gods|Blessing of the Gods]]
 - [[Compendium/Cypher/Abilities/C/Closed-Mind|Closed Mind]]
-- Entangling Force
+- [[Compendium/Cypher/Abilities/E/Entangling-Force|Entangling Force]]
 - Hedge Magic
 - Magic Training
 - Mental Link
@@ -147,7 +147,7 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 
 ### Third-Tier Magic Abilities
 
-- Distance Viewing
+- [[Compendium/Cypher/Abilities/D/Distance-Viewing|Distance Viewing]]
 - Fire Bloom
 - Fling
 - Force at Distance
@@ -155,15 +155,15 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 
 ### Fourth-Tier Magic Abilities
 
-- Elemental Protection
+- [[Compendium/Cypher/Abilities/E/Elemental-Protection|Elemental Protection]]
 - Ignition
 - Pry Open
 
 ### Fifth-Tier Magic Abilities
 
 - Create
-- Divine Intervention
-- Dragon’s Maw
+- [[Compendium/Cypher/Abilities/D/Divine-Intervention|Divine Intervention]]
+- [[Compendium/Cypher/Abilities/D/Dragons Maw|Dragon’s Maw]]
 - Fast Travel
 - True Senses
 
@@ -207,7 +207,7 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 
 ### Fifth-Tier Combat Abilities
 
-- Experienced Defender
+- [[Compendium/Cypher/Abilities/E/Experienced-Defender|Experienced Defender]]
 - Hard Target
 - Parry
 
@@ -233,7 +233,7 @@ A Warrior flavored with skills and knowledge might be a military engineer. An Ex
 
 ### Second-Tier Skills and Knowledge Abilities
 
-- Extra Skill
+- [[Compendium/Cypher/Abilities/E/Extra-Skill|Extra Skill]]
 - Tool Mastery
 - Understanding
 

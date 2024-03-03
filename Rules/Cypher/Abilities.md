@@ -64,7 +64,7 @@ Gives you training or specialization in a specific physical attack (like swords 
 **High Tier**:
 
 - [[Compendium/Cypher/Abilities/A/As-Foretold-In-Prophecy|As Foretold in Prophecy]]
-- Duel to the Death
+- [[Compendium/Cypher/Abilities/D/Dual-to-the-Death|Duel to the Death]]
 - Greater Skill With Attacks
 - Hunter’s Drive
 - Master of Unarmed Fighting Style
@@ -82,8 +82,8 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 - [[Compendium/Cypher/Abilities/B/Bound-Magic-Creature|Bound Magic Creature]]
 - [[Compendium/Cypher/Abilities/C/Control-Swarm|Control Swarm]]
 - [[Compendium/Cypher/Abilities/C/Critter-Companion|Critter Companion]]
-- Duplicate
-- Entourage
+- [[Compendium/Cypher/Abilities/D/Duplicate|Duplicate]]
+- [[Compendium/Cypher/Abilities/E/Entourage|Entourage]]
 - Influence Swarm
 - Necromancy
 - Resilient Duplicate
@@ -95,7 +95,7 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 
 - [[Compendium/Cypher/Abilities/B/Beast-Eyes|Beast Eyes]]
 - [[Compendium/Cypher/Abilities/C/Call-Swarm|Call Swarm]]
-- Expert Follower
+- [[Compendium/Cypher/Abilities/E/Expert-Follower|Expert Follower]]
 - Fellow Explorer
 - Fiery Hand of Doom
 - Gain Unusual Companion
@@ -124,7 +124,7 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 - [[Compendium/Cypher/Abilities/C/Call-Through-Time|Call Through Time]]
 - [[Compendium/Cypher/Abilities/C/Conjuration|Conjuration]]
 - [[Compendium/Cypher/Abilities/D/Deadly-Swam|Deadly Swarm]]
-- Dragon’s Maw
+- [[Compendium/Cypher/Abilities/D/Dragons Maw|Dragon’s Maw]]
 - Fire Servant
 - Improved Apportation
 - Improved Companion
@@ -180,7 +180,7 @@ Controls or influences minds in ways outside of what could be done with conventi
 - [[Compendium/Cypher/Abilities/C/Change-the-Paradigm|Change the Paradigm]]
 - [[Compendium/Cypher/Abilities/C/Control-Machine|Control Machine]]
 - [[Compendium/Cypher/Abilities/C/Control-the-Savage|Control the Savage]]
-- Defuse Situation
+- [[Compendium/Cypher/Abilities/D/Defuse-Situation|Defuse Situation]]
 - Flee
 - Psychic Passenger
 - Show Them the Way
@@ -206,8 +206,8 @@ Creates useful physical things, such as mundane tools (hammers, crowbars), limit
 
 **Mid Tier**:
 
-- Dream Becomes Reality
-- Expert Crafter
+- [[Compendium/Cypher/Abilities/D/Dream-Becomes-Reality|Dream Becomes Reality]]
+- [[Compendium/Cypher/Abilities/E/Expert-Crafter|Expert Crafter]]
 - Ice Creation
 - Poison Crafter
 - Robot Upgrade
@@ -230,13 +230,13 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 
 - [[Compendium/Cypher/Abilities/A/Alleviate|Alleviate]]
 - [[Compendium/Cypher/Abilities/C/Crystalline-Body|Crystalline Body]]
-- Destined for Greatness
-- Diver
-- Drain Creature
-- Drain Machine
-- Endurance
-- Escape
-- Extra Recovery
+- [[Compendium/Cypher/Abilities/D/Destined-for-Greatness|Destined for Greatness]]
+- [[Compendium/Cypher/Abilities/D/Diver|Diver]]
+- [[Compendium/Cypher/Abilities/D/Drain-Creature|Drain Creature]]
+- [[Compendium/Cypher/Abilities/D/Drain-Machine|Drain Machine]]
+- [[Compendium/Cypher/Abilities/E/Endurance|Endurance]]
+- [[Compendium/Cypher/Abilities/E/Escape|Escape]]
+- [[Compendium/Cypher/Abilities/E/Extra-Recovery|Extra Recovery]]
 - Foil Danger
 - Healing Touch
 - Ignore the Pain
@@ -257,7 +257,7 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 - [[Compendium/Cypher/Abilities/A/Aquatic-Combatant|Aquatic Combatant]]
 - [[Compendium/Cypher/Abilities/B/Biomorphic-Healing|Biomorphic Healing]]
 - [[Compendium/Cypher/Abilities/D/Damage-Transference|Damage Transference]]
-- Drain Charge
+- [[Compendium/Cypher/Abilities/D/Drain-Charge|Drain Charge]]
 - Fight On
 - Font of Healing
 - Healing Pulse
@@ -309,7 +309,7 @@ Manipulates the environment or things in the environment, such as with telekines
 **Low Tier**:
 
 - [[Compendium/Cypher/Abilities/C/Create-Water|Create Water]]
-- Dreamcraft
+- [[Compendium/Cypher/Abilities/D/Dreamcraft|Dreamcraft]]
 - Fetch
 - Grasping Foliage
 - Hedge Magic
@@ -328,7 +328,7 @@ Manipulates the environment or things in the environment, such as with telekines
 **Mid Tier**:
 
 - [[Compendium/Cypher/Abilities/D/Daydream|Daydream]]
-- Define Down
+- [[Compendium/Cypher/Abilities/D/Define-Down|Define Down]]
 - Field of Gravity
 - Force Field Barrier
 - Force to Reckon With
@@ -344,7 +344,7 @@ Manipulates the environment or things in the environment, such as with telekines
 
 - [[Compendium/Cypher/Abilities/A/Adaptation|Adaptation]]
 - [[Compendium/Cypher/Abilities/C/Control-Weather|Control Weather]]
-- Diamagnetism
+- [[Compendium/Cypher/Abilities/D/Diamagnetism|Diamagnetism]]
 - Force Wall
 - Generate Force Field
 - Grandiose Illusion
@@ -367,8 +367,8 @@ Gives the ability to learn information about something, whether chosen by the GM
 - [[Compendium/Cypher/Abilities/C/Communication|Communication]]
 - [[Compendium/Cypher/Abilities/C/Community-Knowledge|Community Knowledge]]
 - [[Compendium/Cypher/Abilities/D/Decipher|Decipher]]
-- Dream Thief
-- Eye for Detail
+- [[Compendium/Cypher/Abilities/D/Dream-Thief|Dream Thief]]
+- [[Compendium/Cypher/Abilities/E/Eye-for-Detail|Eye for Detail]]
 - Gather Intelligence
 - Lab Analysis
 - Mind Reading
@@ -387,8 +387,8 @@ Gives the ability to learn information about something, whether chosen by the GM
 **Mid Tier**:
 
 - [[Compendium/Cypher/Abilities/C/Creature-Insight|Creature Insight]]
-- Device Insight
-- Draw Conclusion
+- [[Compendium/Cypher/Abilities/D/Device-Insight|Device Insight]]
+- [[Compendium/Cypher/Abilities/D/Draw-Conclusion|Draw Conclusion]]
 - Find the Hidden
 - Got a Feeling
 - Know Their Faults
@@ -404,7 +404,7 @@ Gives the ability to learn information about something, whether chosen by the GM
 **High Tier**:
 
 - [[Compendium/Cypher/Abilities/D/Deep-Consideration|Deep Consideration]]
-- Drawing on Life’s Experiences
+- [[Compendium/Cypher/Abilities/D/Drawing-on-Lifes-Experiences|Drawing on Life’s Experiences]]
 - Information Gathering
 - Knowing the Unknown
 - Mind of a Leader
@@ -428,14 +428,14 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - [[Compendium/Cypher/Abilities/C/Crushing-Blow|Crushing Blow]]
 - [[Compendium/Cypher/Abilities/C/Crystalline-Body|Crystalline Body]]
 - [[Compendium/Cypher/Abilities/C/Curious|Curious]]
-- Distant Interface
-- Double Strike
-- Drain Creature
-- Driving on the Edge
-- Elusive
-- Energize Object
-- Enhanced Body
-- Extra Use
+- [[Compendium/Cypher/Abilities/D/Distant-Interface|Distant Interface]]
+- [[Compendium/Cypher/Abilities/D/Double-Strike|Double Strike]]
+- [[Compendium/Cypher/Abilities/D/Drain-Creature|Drain Creature]]
+- [[Compendium/Cypher/Abilities/D/Driving-on-the-Edge|Driving on the Edge]]
+- [[Compendium/Cypher/Abilities/E/Elusive|Elusive]]
+- [[Compendium/Cypher/Abilities/E/Energize-Object|Energize Object]]
+- [[Compendium/Cypher/Abilities/E/Enhanced-Body|Enhanced Body]]
+- [[Compendium/Cypher/Abilities/E/Extra-Use|Extra Use]]
 - Find the Way
 - Fists of Fury
 - Fleet of Foot
@@ -475,21 +475,21 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - [[Compendium/Cypher/Abilities/C/Cybersmith|Cyphersmith]]
 - [[Compendium/Cypher/Abilities/D/Deadly-Aim|Deadly Aim]]
 - [[Compendium/Cypher/Abilities/D/Deep-Resources|Deep Resources]]
-- Disarming Strike
-- Dodge and Resist
-- Drain at a Distance
-- Energized Shield
-- Enhanced Intellect
-- Enhanced Intellect Edge
-- Enhanced Might
-- Enhanced Might Edge
-- Enhanced Physique
-- Enhanced Potential
-- Enhanced Speed
-- Enhanced Speed Edge
-- Experienced in Armor
-- Expert Cypher Use
-- Expert Skill
+- [[Compendium/Cypher/Abilities/D/Disarming-Strike|Disarming Strike]]
+- [[Compendium/Cypher/Abilities/D/Dodge-and-Resist|Dodge and Resist]]
+- [[Compendium/Cypher/Abilities/D/Drain-at-a-Distance|Drain at a Distance]]
+- [[Compendium/Cypher/Abilities/E/Energize-Shield|Energized Shield]]
+- [[Compendium/Cypher/Abilities/E/Enhanced-Intellect|Enhanced Intellect]]
+- [[Compendium/Cypher/Abilities/E/Enhanced-Intellect-Edge|Enhanced Intellect Edge]]
+- [[Compendium/Cypher/Abilities/E/Enhanced-Might|Enhanced Might]]
+- [[Compendium/Cypher/Abilities/E/Enhanced-Might-Edge|Enhanced Might Edge]]
+- [[Compendium/Cypher/Abilities/E/Enhanced-Physique|Enhanced Physique]]
+- [[Compendium/Cypher/Abilities/E/Enhanced-Potential|Enhanced Potential]]
+- [[Compendium/Cypher/Abilities/E/Enhanced-Speed|Enhanced Speed]]
+- [[Compendium/Cypher/Abilities/E/Enhanced-Speed-Edge|Enhanced Speed Edge]]
+- [[Compendium/Cypher/Abilities/E/Experienced-in-Armor|Experienced in Armor]]
+- [[Compendium/Cypher/Abilities/E/Expert-Cypher-Use|Expert Cypher Use]]
+- [[Compendium/Cypher/Abilities/E/Expert-Skill|Expert Skill]]
 - Fast Kill
 - Flameblade
 - From the Shadows
@@ -566,16 +566,16 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - [[Compendium/Cypher/Abilities/D/Damage-Dealer|Damage Dealer]]
 - [[Compendium/Cypher/Abilities/D/Damn-the-Guilty|Damn the Guilty]]
 - Deep Reserves
-- Disarming Attack
-- Discipline of Watchfulness
-- Divide Your Mind
-- Dual Distraction
-- Duel to the Death
-- Effective Skill
-- Enhanced Beast Form
-- Enhanced Phased Attack
-- Escape Plan
-- Extreme Mastery
+- [[Compendium/Cypher/Abilities/D/Disarming-Attack|Disarming Attack]]
+- [[Compendium/Cypher/Abilities/D/Discipline-of-Watchfulness|Discipline of Watchfulness]]
+- [[Compendium/Cypher/Abilities/D/Divide-Your-Mind|Divide Your Mind]]
+- [[Compendium/Cypher/Abilities/D/Dual-Distraction|Dual Distraction]]
+- [[Compendium/Cypher/Abilities/D/Dual-to-the-Death|Duel to the Death]]
+- [[Compendium/Cypher/Abilities/E/Effective-Skill|Effective Skill]]
+- [[Compendium/Cypher/Abilities/E/Enhanced-Beast-Form|Enhanced Beast Form]]
+- [[Compendium/Cypher/Abilities/E/Enhanced-Phase-Attack|Enhanced Phased Attack]]
+- [[Compendium/Cypher/Abilities/E/Escape-Plan|Escape Plan]]
+- [[Compendium/Cypher/Abilities/E/Extreme-Mastery|Extreme Mastery]]
 - Force and Accuracy
 - Gambler
 - Go to Ground
@@ -660,8 +660,8 @@ Increases your movement (such as increasing your basic movement speed from short
 - [[Compendium/Cypher/Abilities/A/Alley-Rat|Alley Rat]]
 - [[Compendium/Cypher/Abilities/B/Blurring-Speed|Blurring Speed]]
 - [[Compendium/Cypher/Abilities/C/Chamber-of-Dreams|Chamber of Dreams]]
-- Electrical Flight
-- Embraced by Darkness
+- [[Compendium/Cypher/Abilities/E/Electrical-Flight|Electrical Flight]]
+- [[Compendium/Cypher/Abilities/E/Embraced-by-Darkness|Embraced by Darkness]]
 - Fast Travel
 - Flash Across the Miles
 - Flight
@@ -691,12 +691,12 @@ Gives training or specialization in one or more types of combat defenses (Might,
 - [[Compendium/Cypher/Abilities/C/Closed-Mind|Closed Mind]]
 - [[Compendium/Cypher/Abilities/C/Courageous|Courageous]]
 - [[Compendium/Cypher/Abilities/C/Crystalline-Body|Crystalline Body]]
-- Defense Against Robots
-- Defensive Phasing
-- Deflect Attacks
-- Distortion
-- Enhanced Body
-- Enveloping Shield
+- [[Compendium/Cypher/Abilities/D/Defense-Against-Robots|Defense Against Robots]]
+- [[Compendium/Cypher/Abilities/D/Defensive-Phasing|Defensive Phasing]]
+- [[Compendium/Cypher/Abilities/D/Deflect-Attacks|Deflect Attacks]]
+- [[Compendium/Cypher/Abilities/D/Distortion|Distortion]]
+- [[Compendium/Cypher/Abilities/E/Enhanced-Body|Enhanced Body]]
+- [[Compendium/Cypher/Abilities/E/Enveloping-Shield|Enveloping Shield]]
 - Fearsome Reputation
 - Field of Destruction
 - Flesh of Stone
@@ -751,15 +751,15 @@ Gives training or specialization in one or more types of combat defenses (Might,
 - [[Compendium/Cypher/Abilities/D/Dark-Matter-Shell|Dark Matter Shell]]
 - [[Compendium/Cypher/Abilities/D/Dark-Matter-Shroud|Dark Matter Shroud]]
 - Discerning Mind
-- Divert Attacks
-- Dodge and Respond
-- Dual Defense
-- Electric Armor
-- Elemental Protection
-- Energy Protection
-- Energy Resistance
-- Experienced in Armor
-- Experienced Defender
+- [[Compendium/Cypher/Abilities/D/Divert-Attacks|Divert Attacks]]
+- [[Compendium/Cypher/Abilities/D/Dodge-and-Respond|Dodge and Respond]]
+- [[Compendium/Cypher/Abilities/D/Dual-Defense|Dual Defense]]
+- [[Compendium/Cypher/Abilities/E/Electric-Armor|Electric Armor]]
+- [[Compendium/Cypher/Abilities/E/Elemental-Protection|Elemental Protection]]
+- [[Compendium/Cypher/Abilities/E/Energy-Protection|Energy Protection]]
+- [[Compendium/Cypher/Abilities/E/Energy-Resistance|Energy Resistance]]
+- [[Compendium/Cypher/Abilities/E/Experienced-in-Armor|Experienced in Armor]]
+- [[Compendium/Cypher/Abilities/E/Experienced-Defender|Experienced Defender]]
 - Force Field Barrier
 - Fusion Armor
 - Hard-Won Resilience
@@ -790,12 +790,12 @@ Gives training or specialization in one or more types of combat defenses (Might,
 
 **High Tier**:
 
-- Defense Master
-- Defensive Augmentation
-- Defensive Field
-- Energize Creature
-- Energize Crowd
-- Evasion
+- [[Compendium/Cypher/Abilities/D/Defense-Master|Defense Master]]
+- [[Compendium/Cypher/Abilities/D/Defensive-Augmentation|Defensive Augmentation]]
+- [[Compendium/Cypher/Abilities/D/Defensive-Field|Defensive Field]]
+- [[Compendium/Cypher/Abilities/E/Energize-Creature|Energize Creature]]
+- [[Compendium/Cypher/Abilities/E/Energize-Crowd|Energize Crowd]]
+- [[Compendium/Cypher/Abilities/E/Evasion|Evasion]]
 - Field-Reinforced Armor
 - Hard Target
 - Hard to Kill
@@ -822,7 +822,7 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 
 **Low Tier**:
 
-- Eyes Adjusted
+- [[Compendium/Cypher/Abilities/E/Eyes-Adjusted|Eyes Adjusted]]
 - Familiarize
 - Find an Opening
 - Heads-Up Display
@@ -841,10 +841,10 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 - [[Compendium/Cypher/Abilities/A/Awareness|Awareness]]
 - [[Compendium/Cypher/Abilities/B/Beast-Eyes|Beast Eyes]]
 - [[Compendium/Cypher/Abilities/B/Break-the-Line|Break the Line]]
-- Detect Life
-- Distance Viewing
-- Echolocation
-- Experienced Finder
+- [[Compendium/Cypher/Abilities/D/Detect-Life|Detect Life]]
+- [[Compendium/Cypher/Abilities/D/Distance-Viewing|Distance Viewing]]
+- [[Compendium/Cypher/Abilities/E/Echolocation|Echolocation]]
+- [[Compendium/Cypher/Abilities/E/Experienced-Finder|Experienced Finder]]
 - Inhabit Crystal
 - Remote Viewing
 - Sensing Package
@@ -871,7 +871,7 @@ Gives you an indirect social benefit, such as providing a useful contact in a ci
 
 - [[Compendium/Cypher/Abilities/C/Connected|Connected]]
 - [[Compendium/Cypher/Abilities/D/Debate|Debate]]
-- Demeanor of Command
+- [[Compendium/Cypher/Abilities/D/Demeanor-of-Command|Demeanor of Command]]
 - Impart Ideal
 - Misdirect Blame
 - Negotiate
@@ -908,15 +908,15 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Cypher/Abilities/C/Control-the-Field|Control the Field]]
 - [[Compendium/Cypher/Abilities/C/Cutting-Light|Cutting Light]]
 - [[Compendium/Cypher/Abilities/D/Dazzling-Sunburst|Dazzling Sunburst]]
-- Disincentivize
-- Disrupting Touch
-- Drain Machine
-- Dream Thief
-- Dual Light Wield
-- Entangling Force
-- Enthrall
-- Erase Memories
-- Eye Gouge
+- [[Compendium/Cypher/Abilities/D/Disincentivize|Disincentivize]]
+- [[Compendium/Cypher/Abilities/D/Disrupting-Touch|Disrupting Touch]]
+- [[Compendium/Cypher/Abilities/D/Drain-Machine|Drain Machine]]
+- [[Compendium/Cypher/Abilities/D/Dream-Thief|Dream Thief]]
+- [[Compendium/Cypher/Abilities/D/Dual-Light-Wield|Dual Light Wield]]
+- [[Compendium/Cypher/Abilities/E/Entangling-Force|Entangling Force]]
+- [[Compendium/Cypher/Abilities/E/Enthrall|Enthrall]]
+- [[Compendium/Cypher/Abilities/E/Erase-Memories|Erase Memories]]
+- [[Compendium/Cypher/Abilities/E/Eye-Gouge|Eye Gouge]]
 - Flash
 - Force Bash
 - Frost Touch
@@ -963,15 +963,15 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Cypher/Abilities/D/Dark-Matter-Strike|Dark Matter Strike]]
 - [[Compendium/Cypher/Abilities/D/Dazing-Attack|Dazing Attack]]
 - [[Compendium/Cypher/Abilities/D/Debilitating-Strike|Debilitating Strike]]
-- Destroy Metal
-- Disable Mechanisms
-- Disarming Strike
+- [[Compendium/Cypher/Abilities/D/Destroy-Metal|Destroy Metal]]
+- [[Compendium/Cypher/Abilities/D/Disable-Mechanisms|Disable Mechanisms]]
+- [[Compendium/Cypher/Abilities/D/Disarming-Strike|Disarming Strike]]
 - Divine Radiance
-- Dodge and Respond
-- Drain Charge
-- Dual Medium Wield
-- Everything Is a Weapon
-- Exile
+- [[Compendium/Cypher/Abilities/D/Dodge-and-Respond|Dodge and Respond]]
+- [[Compendium/Cypher/Abilities/D/Drain-Charge|Drain Charge]]
+- [[Compendium/Cypher/Abilities/D/Dual-Medium-Wield|Dual Medium Wield]]
+- [[Compendium/Cypher/Abilities/E/Everything-Is-a-Weapon|Everything Is a Weapon]]
+- [[Compendium/Cypher/Abilities/E/Exile|Exile]]
 - Feint
 - Fire and Ice
 - Fire Bloom
@@ -1033,18 +1033,18 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Cypher/Abilities/D/Deactivate-Mechanism|Deactivate Mechanisms]]
 - [[Compendium/Cypher/Abilities/D/Deadly-Strike|Deadly Strike]]
 - [[Compendium/Cypher/Abilities/D/Death-Touch|Death Touch]]
-- Defense Master
-- Destroyer
-- Dirty Fighter
-- Disarming Attack
-- Divine Intervention
-- Divine Symbol
-- Do You Know Who I Am?
-- Drain Power
-- Dust to Dust
-- Earthquake
-- Embrace the Night
-- Explosive Release
+- [[Compendium/Cypher/Abilities/D/Defense-Master|Defense Master]]
+- [[Compendium/Cypher/Abilities/D/Destroyer|Destroyer]]
+- [[Compendium/Cypher/Abilities/D/Dirty-Fighter|Dirty Fighter]]
+- [[Compendium/Cypher/Abilities/D/Disarming-Attack|Disarming Attack]]
+- [[Compendium/Cypher/Abilities/D/Divine-Intervention|Divine Intervention]]
+- [[Compendium/Cypher/Abilities/D/Divine-Symbol|Divine Symbol]]
+- [[Compendium/Cypher/Abilities/D/Do-You-Know-Who-I-Am|Do You Know Who I Am?]]
+- [[Compendium/Cypher/Abilities/D/Drain-Power|Drain Power]]
+- [[Compendium/Cypher/Abilities/D/Dust-to-Dust|Dust to Dust]]
+- [[Compendium/Cypher/Abilities/E/Earthquake|Earthquake]]
+- [[Compendium/Cypher/Abilities/E/Embrace-the-Night|Embrace the Night]]
+- [[Compendium/Cypher/Abilities/E/Explosive-Release|Explosive Release]]
 - Finishing Blow
 - Fire Tendrils
 - Foul Aura
@@ -1089,9 +1089,9 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 - [[Compendium/Cypher/Abilities/A/Anecdote|Anecdote]]
 - [[Compendium/Cypher/Abilities/A/Attack-Flourish|Attack Flourish]]
 - [[Compendium/Cypher/Abilities/D/Defend-the-Innocent|Defend the Innocent]]
-- Enable Others
-- Encouragement
-- Encouraging Presence
+- [[Compendium/Cypher/Abilities/E/Enable-Others|Enable Others]]
+- [[Compendium/Cypher/Abilities/E/Encouragement|Encouragement]]
+- [[Compendium/Cypher/Abilities/E/Encouraging-Presence|Encouraging Presence]]
 - Force Field
 - Friendly Help
 - Good Advice
@@ -1111,8 +1111,8 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 - [[Compendium/Cypher/Abilities/B/Buddy-System|Buddy System]]
 - [[Compendium/Cypher/Abilities/C/Combat-Challenge|Combat Challenge]]
 - [[Compendium/Cypher/Abilities/D/Defend-All-the-Innocent|Defend All the Innocent]]
-- Dual Wards
-- Elemental Protection
+- [[Compendium/Cypher/Abilities/D/Dual-Wards|Dual Wards]]
+- [[Compendium/Cypher/Abilities/E/Elemental-Protection|Elemental Protection]]
 - In Harm’s Way
 - Lead by Inquiry
 - Pay It Forward
@@ -1126,8 +1126,8 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 - [[Compendium/Cypher/Abilities/A/Able-Assistance|Able Assistance]]
 - [[Compendium/Cypher/Abilities/B/Battle-Management|Battle Management]]
 - [[Compendium/Cypher/Abilities/B/Block-for-Another|Block for Another]]
-- Energize Creature
-- Energize Crowd
+- [[Compendium/Cypher/Abilities/E/Energize-Creature|Energize Creature]]
+- [[Compendium/Cypher/Abilities/E/Energize-Crowd|Energize Crowd]]
 - Impart Understanding
 - Inspiration
 - Inspire Coordinated Actions
@@ -1168,14 +1168,14 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - [[Compendium/Cypher/Abilities/D/Datajack|Datajack]]
 - [[Compendium/Cypher/Abilities/D/Debate|Debate]]
 - [[Compendium/Cypher/Abilities/D/Deep-Water-Guide|Deep Water Guide]]
-- Designation
-- Devoted Defender
-- Disguise
+- [[Compendium/Cypher/Abilities/D/Designation]]
+- [[Compendium/Cypher/Abilities/D/Devoted-Defender|Devoted Defender]]
+- [[Compendium/Cypher/Abilities/D/Disguise|Disguise]]
 - Divine Knowledge
-- Driver
-- Enlightened
-- Exploratory Experience
-- Extra Skill
+- [[Compendium/Cypher/Abilities/D/Driver|Driver]]
+- [[Compendium/Cypher/Abilities/E/Enlightened|Enlightened]]
+- [[Compendium/Cypher/Abilities/E/Exploratory-Experience|Exploratory Experience]]
+- [[Compendium/Cypher/Abilities/E/Extra-Skill|Extra Skill]]
 - Feat of Strength
 - Flex Lore
 - Freakishly Large
@@ -1271,9 +1271,9 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - Animal Senses and Sensibilities
 - [[Compendium/Cypher/Abilities/C/Confidence-Artist|Confidence Artist]]
 - [[Compendium/Cypher/Abilities/D/Dark-Matter-Shell|Dark Matter Shell]]
-- Enhance Strength
-- Expert Driver
-- Expert Pilot
+- [[Compendium/Cypher/Abilities/E/Enhance-Strength|Enhance Strength]]
+- [[Compendium/Cypher/Abilities/E/Expert-Driver|Expert Driver]]
+- [[Compendium/Cypher/Abilities/E/Expert-Pilot|Expert Pilot]]
 - Find the Guilty
 - Flex Skill
 - Ghost
@@ -1320,8 +1320,8 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - [[Compendium/Cypher/Abilities/A/As-Foretold-In-Prophecy|As Foretold in Prophecy]]
 - [[Compendium/Cypher/Abilities/C/Coordinated-Effort|Coordinated Effort]]
 - [[Compendium/Cypher/Abilities/D/Dark-Explorer|Dark Explorer]]
-- Explains the Ineffable
-- Exploit Advantage
+- [[Compendium/Cypher/Abilities/E/Explains-the-Ineffable|Explains the Ineffable]]
+- [[Compendium/Cypher/Abilities/E/Exploity-Advantage|Exploit Advantage]]
 - Further Mathematics
 - Learned a Few Things
 - Like the Back of Your Hand
@@ -1345,7 +1345,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 - [[Compendium/Cypher/Abilities/B/Beast-Form|Beast Form]]
 - [[Compendium/Cypher/Abilities/B/Bigger|Bigger]]
 - [[Compendium/Cypher/Abilities/C/Controlled-Change|Controlled Change]]
-- Enlarge
+- [[Compendium/Cypher/Abilities/E/Enlarge|Enlarge]]
 - Face Morph
 - Golem Healing
 - Illusory Disguise
@@ -1357,7 +1357,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 
 - [[Compendium/Cypher/Abilities/B/Bigger-Beast-Form|Bigger Beast Form]]
 - [[Compendium/Cypher/Abilities/B/Blend-In|Blend In]]
-- Evanesce
+- [[Compendium/Cypher/Abilities/E/Evanesce|Evanesce]]
 - Greater Controlled Change
 - Hard to See
 - Huge
@@ -1368,7 +1368,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 
 - [[Compendium/Cypher/Abilities/C/Colossal|Colossal]]
 - [[Compendium/Cypher/Abilities/C/Command-Metal|Command Metal]]
-- Disappear
+- [[Compendium/Cypher/Abilities/D/Disappear|Disappear]]
 - Gargantuan
 - Invisibility
 - Mask

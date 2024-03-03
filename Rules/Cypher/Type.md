@@ -165,9 +165,9 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/D/Deadly-Aim|Deadly Aim]]
-- Energy Resistance
-- Experienced in Armor
-- Expert Cypher Use
+- [[Compendium/Cypher/Abilities/E/Energy-Resistance|Energy Resistance]]
+- [[Compendium/Cypher/Abilities/E/Experienced-in-Armor|Experienced in Armor]]
+- [[Compendium/Cypher/Abilities/E/Expert-Cypher-Use|Expert Cypher Use]]
 - Fury
 - Lunge
 - Reaction
@@ -183,7 +183,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 - [[Compendium/Cypher/Abilities/A/Amazing-Effort|Amazing Effort]]
 - [[Compendium/Cypher/Abilities/C/Capable-Warrior|Capable Warrior]]
-- Experienced Defender
+- [[Compendium/Cypher/Abilities/E/Experienced-Defender|Experienced Defender]]
 - Feint
 - Increased Effects
 - Momentum
@@ -336,7 +336,7 @@ Your Effort is 1.
 
 You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0.
 
-**Expert Cypher Use**:
+**[[Compendium/Cypher/Abilities/E/Expert-Cypher-Use|Expert Cypher Use]]**:
 
 You can bear three cyphers at a time.
 
@@ -352,8 +352,8 @@ You can use light weapons without penalty. You have an inability with medium wea
 
 Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. (Adept abilities require at least one free hand unless the GM says otherwise.)
 
-- Distortion
-- Erase Memories
+- [[Compendium/Cypher/Abilities/D/Distortion|Distortion]]
+- [[Compendium/Cypher/Abilities/E/Erase-Memories|Erase Memories]]
 - Far Step
 - Hedge Magic
 - Magic Training
@@ -387,7 +387,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 - [[Compendium/Cypher/Abilities/A/Adroit-Cypher-Use|Adroit Cypher Use]]
 - [[Compendium/Cypher/Abilities/C/Countermeasures|Countermeasures]]
-- Energy Protection
+- [[Compendium/Cypher/Abilities/E/Energy-Protection|Energy Protection]]
 - Fire and Ice
 - Force Field Barrier
 - Sensor
@@ -398,7 +398,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/D/Death-Touch|Death Touch]]
-- Exile
+- [[Compendium/Cypher/Abilities/E/Exile|Exile]]
 - Invisibility
 - Matter Cloud
 - Mind Control
@@ -416,7 +416,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - [[Compendium/Cypher/Abilities/C/Concussion|Concussion]]
 - [[Compendium/Cypher/Abilities/C/Conjuration|Conjuration]]
 - [[Compendium/Cypher/Abilities/C/Create|Create]]
-- Dust to Dust
+- [[Compendium/Cypher/Abilities/D/Dust-to-Dust|Dust to Dust]]
 - Knowing the Unknown
 - Master Cypher Use
 - Teleportation
@@ -427,7 +427,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/C/Control-Weather|Control Weather]]
-- Earthquake
+- [[Compendium/Cypher/Abilities/E/Earthquake|Earthquake]]
 - Move Mountains
 - Traverse the Worlds
 - Usurp Cypher
@@ -567,7 +567,7 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 - [[Compendium/Cypher/Abilities/B/Block|Block]]
 - Danger Sense
 - [[Compendium/Cypher/Abilities/D/Decipher|Decipher]]
-- Endurance
+- [[Compendium/Cypher/Abilities/E/Endurance|Endurance]]
 - Find the Way
 - Fleet of Foot
 - Improved Edge
@@ -586,9 +586,9 @@ Choose four of the abilities listed below (or from a lower tier) to add to your 
 
 - [[Compendium/Cypher/Abilities/C/Curious|Curious]]
 - [[Compendium/Cypher/Abilities/D/Danger-Instinct|Danger Instinct]]
-- Enable Others
-- Escape
-- Eye for Detail
+- [[Compendium/Cypher/Abilities/E/Enable-Others|Enable Others]]
+- [[Compendium/Cypher/Abilities/E/Escape|Escape]]
+- [[Compendium/Cypher/Abilities/E/Eye-for-Detail|Eye for Detail]]
 - Foil Danger
 - Hand to Eye
 - Investigative Skills
@@ -604,8 +604,8 @@ Choose four of the abilities listed below (or from a lower tier) to add to your 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/C/Controlled-Fall|Controlled Fall]]
-- Experienced in Armor
-- Expert Cypher Use
+- [[Compendium/Cypher/Abilities/E/Experienced-in-Armor|Experienced in Armor]]
+- [[Compendium/Cypher/Abilities/E/Expert-Cypher-Use|Expert Cypher Use]]
 - Ignore the Pain
 - Obstacle Running
 - Resilience
@@ -622,7 +622,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/C/Capable-Warrior|Capable Warrior]]
-- Expert Skill
+- [[Compendium/Cypher/Abilities/E/Expert-Skill|Expert Skill]]
 - Increased Effects
 - Read the Signs
 - Runner
@@ -790,10 +790,10 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 
 - [[Compendium/Cypher/Abilities/A/Anecdote|Anecdote]]
 - [[Compendium/Cypher/Abilities/B/Babel|Babel]]
-- Demeanor of Command
-- Encouragement
-- Enthrall
-- Erase Memories
+- [[Compendium/Cypher/Abilities/D/Demeanor-of-Command|Demeanor of Command]]
+- [[Compendium/Cypher/Abilities/E/Encouragement|Encouragement]]
+- [[Compendium/Cypher/Abilities/E/Enthrall|Enthrall]]
+- [[Compendium/Cypher/Abilities/E/Erase-Memories|Erase Memories]]
 - Fast Talk
 - Inspire Aggression
 - Interaction Skills
@@ -808,7 +808,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 - [[Compendium/Cypher/Abilities/B/Basic-Follower|Basic Follower]]
 - [[Compendium/Cypher/Abilities/C/Calm-Stranger|Calm Stranger]]
-- Disincentivize
+- [[Compendium/Cypher/Abilities/D/Disincentivize|Disincentivize]]
 - Gather Intelligence
 - Impart Ideal
 - Inspiring Ease
@@ -825,8 +825,8 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - [[Compendium/Cypher/Abilities/A/Accelerate|Accelerate]]
 - [[Compendium/Cypher/Abilities/B/Blend-In|Blend In]]
 - Discerning Mind
-- Expert Cypher Use
-- Expert Follower
+- [[Compendium/Cypher/Abilities/E/Expert-Cypher-Use|Expert Cypher Use]]
+- [[Compendium/Cypher/Abilities/E/Expert-Follower|Expert Follower]]
 - Grand Deception
 - Lead by Inquiry
 - Mind Reading
@@ -854,8 +854,8 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/A/Adroit-Cypher-Use|Adroit Cypher Use]]
-- Discipline of Watchfulness
-- Experienced in Armor
+- [[Compendium/Cypher/Abilities/D/Discipline-of-Watchfulness|Discipline of Watchfulness]]
+- [[Compendium/Cypher/Abilities/E/Experienced-in-Armor|Experienced in Armor]]
 - Flee
 - Foul Aura
 - Knowing the Unknown
@@ -880,7 +880,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Mary wants to create a Speaker for a Lovecraftian horror campaign. She puts 3 of her additional stat points into her Intellect Pool and 3 into her Speed Pool; her stat Pools are now Might 8, Speed 12, and Intellect 14. As a first-tier character, her Effort is 1, her Might Edge and Speed Edge are 0, and her Intellect Edge is 1. She’s smart and charismatic but not particularly tough.
 
-Mary chooses Fast Talk and Spin Identity to help get into places and learn things she wants to know. She’s a bit of a con artist. She’s good to her friends, however, and chooses Encouragement as well. Mary rounds out her first-tier abilities with Interaction Skills (deceiving and persuasion).
+Mary chooses Fast Talk and Spin Identity to help get into places and learn things she wants to know. She’s a bit of a con artist. She’s good to her friends, however, and chooses [[Compendium/Cypher/Abilities/E/Encouragement|Encouragement]] as well. Mary rounds out her first-tier abilities with Interaction Skills (deceiving and persuasion).
 
 A Speaker normally starts with two cyphers, but the GM rules that characters in this campaign start with only one—something creepy relating to their background. Mary’s cypher is an odd pocket watch given to her by her grandfather. She doesn’t know how or why, but when activated, the watch allows her to take twice as many actions for three rounds.
 

@@ -16,6 +16,6 @@ In addition to the point cost of Copy Power, you must pay the Might, Speed, or I
 
 You can copy only one power at a time; copying another one ends any other power you're copying with this ability.
 
-Copy Power doesn't copy effects of a power that permanently adds points to your Pools, such as Enhanced Body (134).
+Copy Power doesn't copy effects of a power that permanently adds points to your Pools, such as [[Compendium/Cypher/Abilities/E/Enhanced-Body|Enhanced Body]] (134).
 
 In addition to the normal options for using Effort, you can choose to use Effort to copy an ability you saw longer than one hour ago; each level of Effort used in this way extends the time period by one hour.
