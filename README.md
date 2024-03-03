@@ -2,6 +2,9 @@
 
 The Cypher System Reference Document in Markdown and [Obsidian](https://obsidian.md/) Ready.
 
-This vault is currently in progress.
+This repository is also home to homebrew content created for the Cypher system.
 
 ## Recommended Plugins
+
+- [Dice Roller](https://github.com/javalent/dice-roller)
+	- Allows the inline rolling of dice within the markdown notes. 
