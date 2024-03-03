@@ -164,7 +164,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Deadly Aim
+- [[Compendium/Cypher/Abilities/D/Deadly-Aim|Deadly Aim]]
 - Energy Resistance
 - Experienced in Armor
 - Expert Cypher Use
@@ -397,7 +397,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- Death Touch
+- [[Compendium/Cypher/Abilities/D/Death-Touch|Death Touch]]
 - Exile
 - Invisibility
 - Matter Cloud
@@ -566,7 +566,7 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 
 - [[Compendium/Cypher/Abilities/B/Block|Block]]
 - Danger Sense
-- Decipher
+- [[Compendium/Cypher/Abilities/D/Decipher|Decipher]]
 - Endurance
 - Find the Way
 - Fleet of Foot
@@ -585,7 +585,7 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 Choose four of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/C/Curious|Curious]]
-- Danger Instinct
+- [[Compendium/Cypher/Abilities/D/Danger-Instinct|Danger Instinct]]
 - Enable Others
 - Escape
 - Eye for Detail

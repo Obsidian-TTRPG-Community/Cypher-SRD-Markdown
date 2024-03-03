@@ -123,7 +123,7 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 - [[Compendium/Cypher/Abilities/C/Call-Otherworldly-Spirit|Call Otherworldly Spirit]]
 - [[Compendium/Cypher/Abilities/C/Call-Through-Time|Call Through Time]]
 - [[Compendium/Cypher/Abilities/C/Conjuration|Conjuration]]
-- Deadly Swarm
+- [[Compendium/Cypher/Abilities/D/Deadly-Swam|Deadly Swarm]]
 - Dragon’s Maw
 - Fire Servant
 - Improved Apportation
@@ -166,7 +166,7 @@ Controls or influences minds in ways outside of what could be done with conventi
 - [[Compendium/Cypher/Abilities/C/Command-Machine|Command Machine]]
 - [[Compendium/Cypher/Abilities/C/Command-Spirit|Command Spirit]]
 - [[Compendium/Cypher/Abilities/C/Crowd-Control|Crowd Control]]
-- Daydream
+- [[Compendium/Cypher/Abilities/D/Daydream|Daydream]]
 - Grand Deception
 - Interruption
 - Mind Control
@@ -216,7 +216,7 @@ Creates useful physical things, such as mundane tools (hammers, crowbars), limit
 **High Tier**:
 
 - [[Compendium/Cypher/Abilities/C/Create|Create]]
-- Dark Matter Structure
+- [[Compendium/Cypher/Abilities/D/Dark-Matter-Structure|Dark Matter Structure]]
 - Improved Sculpt Light
 - Innovator
 - Jury-Rig
@@ -327,7 +327,7 @@ Manipulates the environment or things in the environment, such as with telekines
 
 **Mid Tier**:
 
-- Daydream
+- [[Compendium/Cypher/Abilities/D/Daydream|Daydream]]
 - Define Down
 - Field of Gravity
 - Force Field Barrier
@@ -366,7 +366,7 @@ Gives the ability to learn information about something, whether chosen by the GM
 - [[Compendium/Cypher/Abilities/B/Babel|Babel]]
 - [[Compendium/Cypher/Abilities/C/Communication|Communication]]
 - [[Compendium/Cypher/Abilities/C/Community-Knowledge|Community Knowledge]]
-- Decipher
+- [[Compendium/Cypher/Abilities/D/Decipher|Decipher]]
 - Dream Thief
 - Eye for Detail
 - Gather Intelligence
@@ -403,7 +403,7 @@ Gives the ability to learn information about something, whether chosen by the GM
 
 **High Tier**:
 
-- Deep Consideration
+- [[Compendium/Cypher/Abilities/D/Deep-Consideration|Deep Consideration]]
 - Drawing on Life’s Experiences
 - Information Gathering
 - Knowing the Unknown
@@ -473,8 +473,8 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - [[Compendium/Cypher/Abilities/C/Capable-Warrior|Capable Warrior]]
 - [[Compendium/Cypher/Abilities/C/Cast-Illusion|Cast Illusion]]
 - [[Compendium/Cypher/Abilities/C/Cybersmith|Cyphersmith]]
-- Deadly Aim
-- Deep Resources
+- [[Compendium/Cypher/Abilities/D/Deadly-Aim|Deadly Aim]]
+- [[Compendium/Cypher/Abilities/D/Deep-Resources|Deep Resources]]
 - Disarming Strike
 - Dodge and Resist
 - Drain at a Distance
@@ -629,7 +629,7 @@ Increases your movement (such as increasing your basic movement speed from short
 
 - [[Compendium/Cypher/Abilities/B/Bolt-Rider|Bolt Rider]]
 - [[Compendium/Cypher/Abilities/C/Contortionist|Contortionist]]
-- Danger Instinct
+- [[Compendium/Cypher/Abilities/D/Danger-Instinct|Danger Instinct]]
 - Far Step
 - Get Away
 - Hover
@@ -748,8 +748,8 @@ Gives training or specialization in one or more types of combat defenses (Might,
 - [[Compendium/Cypher/Abilities/C/Confuse-Enemy|Confuse Enemy]]
 - [[Compendium/Cypher/Abilities/C/Counter-Danger|Counter Danger]]
 - [[Compendium/Cypher/Abilities/C/Countermeasures|Countermeasures]]
-- Dark Matter Shell
-- Dark Matter Shroud
+- [[Compendium/Cypher/Abilities/D/Dark-Matter-Shell|Dark Matter Shell]]
+- [[Compendium/Cypher/Abilities/D/Dark-Matter-Shroud|Dark Matter Shroud]]
 - Discerning Mind
 - Divert Attacks
 - Dodge and Respond
@@ -857,7 +857,7 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 
 - [[Compendium/Cypher/Abilities/A/Amplify-Sounds|Amplify Sounds]]
 - [[Compendium/Cypher/Abilities/B/Battlefield-Tactician|Battlefield Tactician]]
-- Dark Explorer
+- [[Compendium/Cypher/Abilities/D/Dark-Explorer|Dark Explorer]]
 - Infer Thoughts
 - Master Machine
 - See Through Time
@@ -870,7 +870,7 @@ Gives you an indirect social benefit, such as providing a useful contact in a ci
 **Low Tier**:
 
 - [[Compendium/Cypher/Abilities/C/Connected|Connected]]
-- Debate
+- [[Compendium/Cypher/Abilities/D/Debate|Debate]]
 - Demeanor of Command
 - Impart Ideal
 - Misdirect Blame
@@ -907,7 +907,7 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Cypher/Abilities/C/Concussive-Blast|Concussive Blast]]
 - [[Compendium/Cypher/Abilities/C/Control-the-Field|Control the Field]]
 - [[Compendium/Cypher/Abilities/C/Cutting-Light|Cutting Light]]
-- Dazzling Sunburst
+- [[Compendium/Cypher/Abilities/D/Dazzling-Sunburst|Dazzling Sunburst]]
 - Disincentivize
 - Disrupting Touch
 - Drain Machine
@@ -960,9 +960,9 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Cypher/Abilities/C/Castigate|Castigate]]
 - [[Compendium/Cypher/Abilities/C/Center-of-Attention|Center of Attention]]
 - [[Compendium/Cypher/Abilities/C/Crystal-Lens|Crystal Lens]]
-- Dark Matter Strike
-- Dazing Attack
-- Debilitating Strike
+- [[Compendium/Cypher/Abilities/D/Dark-Matter-Strike|Dark Matter Strike]]
+- [[Compendium/Cypher/Abilities/D/Dazing-Attack|Dazing Attack]]
+- [[Compendium/Cypher/Abilities/D/Debilitating-Strike|Debilitating Strike]]
 - Destroy Metal
 - Disable Mechanisms
 - Disarming Strike
@@ -1030,9 +1030,9 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Cypher/Abilities/C/Call-the-Storm|Call the Storm]]
 - [[Compendium/Cypher/Abilities/C/Cold-Burst|Cold Burst]]
 - [[Compendium/Cypher/Abilities/C/Concussion|Concussion]]
-- Deactivate Mechanisms
-- Deadly Strike
-- Death Touch
+- [[Compendium/Cypher/Abilities/D/Deactivate-Mechanism|Deactivate Mechanisms]]
+- [[Compendium/Cypher/Abilities/D/Deadly-Strike|Deadly Strike]]
+- [[Compendium/Cypher/Abilities/D/Death-Touch|Death Touch]]
 - Defense Master
 - Destroyer
 - Dirty Fighter
@@ -1088,7 +1088,7 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 - [[Compendium/Cypher/Abilities/A/Advice-from-a-Friend|Advice From a Friend]]
 - [[Compendium/Cypher/Abilities/A/Anecdote|Anecdote]]
 - [[Compendium/Cypher/Abilities/A/Attack-Flourish|Attack Flourish]]
-- Defend the Innocent
+- [[Compendium/Cypher/Abilities/D/Defend-the-Innocent|Defend the Innocent]]
 - Enable Others
 - Encouragement
 - Encouraging Presence
@@ -1110,7 +1110,7 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 - [[Compendium/Cypher/Abilities/A/Applying-Your-Knowledge|Applying Your Knowledge]]
 - [[Compendium/Cypher/Abilities/B/Buddy-System|Buddy System]]
 - [[Compendium/Cypher/Abilities/C/Combat-Challenge|Combat Challenge]]
-- Defend All the Innocent
+- [[Compendium/Cypher/Abilities/D/Defend-All-the-Innocent|Defend All the Innocent]]
 - Dual Wards
 - Elemental Protection
 - In Harm’s Way
@@ -1164,10 +1164,10 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - [[Compendium/Cypher/Abilities/C/Contortionist|Contortionist]]
 - [[Compendium/Cypher/Abilities/C/Courageous|Courageous]]
 - [[Compendium/Cypher/Abilities/C/Crafter|Crafter]]
-- Danger Sense
-- Datajack
-- Debate
-- Deep Water Guide
+- [[Compendium/Cypher/Abilities/D/Danger-Sense|Danger Sense]]
+- [[Compendium/Cypher/Abilities/D/Datajack|Datajack]]
+- [[Compendium/Cypher/Abilities/D/Debate|Debate]]
+- [[Compendium/Cypher/Abilities/D/Deep-Water-Guide|Deep Water Guide]]
 - Designation
 - Devoted Defender
 - Disguise
@@ -1270,7 +1270,7 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - [[Compendium/Cypher/Abilities/A/Agent-Provocateur|Agent Provocateur]]
 - Animal Senses and Sensibilities
 - [[Compendium/Cypher/Abilities/C/Confidence-Artist|Confidence Artist]]
-- Dark Matter Shell
+- [[Compendium/Cypher/Abilities/D/Dark-Matter-Shell|Dark Matter Shell]]
 - Enhance Strength
 - Expert Driver
 - Expert Pilot
@@ -1319,7 +1319,7 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - [[Compendium/Cypher/Abilities/A/Amplify-Sounds|Amplify Sounds]]
 - [[Compendium/Cypher/Abilities/A/As-Foretold-In-Prophecy|As Foretold in Prophecy]]
 - [[Compendium/Cypher/Abilities/C/Coordinated-Effort|Coordinated Effort]]
-- Dark Explorer
+- [[Compendium/Cypher/Abilities/D/Dark-Explorer|Dark Explorer]]
 - Explains the Ineffable
 - Exploit Advantage
 - Further Mathematics

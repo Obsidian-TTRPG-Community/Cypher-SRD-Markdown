@@ -23,7 +23,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 
 ### First-Tier Stealth Abilities
 
-- Danger Sense
+- [[Compendium/Cypher/Abilities/D/Danger-Sense|Danger Sense]]
 - Goad
 - Legerdemain
 - Opportunist
@@ -50,7 +50,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 ### Fourth-Tier Stealth Abilities
 
 - Ambusher
-- Debilitating Strike
+- [[Compendium/Cypher/Abilities/D/Debilitating-Strike|Debilitating Strike]]
 - Outwit
 - Preternatural Senses
 - Tumbling Moves
@@ -77,7 +77,7 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 
 ### First-Tier Technology Abilities
 
-- Datajack
+- [[Compendium/Cypher/Abilities/D/Datajack|Datajack]]
 - Hacker
 - Machine Interface
 - Scramble Machine
@@ -180,7 +180,7 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 
 ### First-Tier Combat Abilities
 
-- Danger Sense
+- [[Compendium/Cypher/Abilities/D/Danger-Sense|Danger Sense]]
 - Practiced in Armor
 - Practiced With Medium Weapons
 
@@ -200,7 +200,7 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 ### Fourth-Tier Combat Abilities
 
 - [[Compendium/Cypher/Abilities/C/Capable-Warrior|Capable Warrior]]
-- Deadly Aim
+- [[Compendium/Cypher/Abilities/D/Deadly-Aim|Deadly Aim]]
 - Fury
 - Misdirect
 - Spray
