@@ -1,6 +1,13 @@
 ---
-aliases: [Charge]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+aliases:
+  - Charge
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 1 Intellect
 ---
 
 # Charge

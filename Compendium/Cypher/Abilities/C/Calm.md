@@ -1,6 +1,13 @@
 ---
-aliases: [Calm]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+aliases:
+  - Calm
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 3 Intellect
 ---
 
 # Calm

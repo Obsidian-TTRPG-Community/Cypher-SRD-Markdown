@@ -1,7 +1,13 @@
 ---
-aliases: [Call in Favor]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
-points: 4 Intellect
+aliases:
+  - Call in Favor
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
+points:
+  - 4 Intellect
+type:
+  - Action
 ---
 
 # Call in Favor

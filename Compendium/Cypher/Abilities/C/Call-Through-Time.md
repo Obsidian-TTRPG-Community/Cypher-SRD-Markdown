@@ -1,6 +1,13 @@
 ---
-aliases: [Call Through Time]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+aliases:
+  - Call Through Time
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 6 Intellect
 ---
 
 # Call Through Time

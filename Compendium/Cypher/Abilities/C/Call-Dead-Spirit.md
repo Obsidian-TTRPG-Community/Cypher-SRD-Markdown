@@ -1,7 +1,13 @@
 ---
-aliases: [Call Dead Spirit]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
-points: 6 Intellect
+aliases:
+  - Call Dead Spirit
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
+points:
+  - 6 Intellect
+type:
+  - Action
 ---
 
 # Call Dead Spirit

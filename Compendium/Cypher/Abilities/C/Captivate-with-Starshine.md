@@ -1,6 +1,11 @@
 ---
-aliases: [Captivate With Starshine]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+aliases:
+  - Captivate With Starshine
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
+type:
+  - Action
 ---
 
 # Captivate With Starshine

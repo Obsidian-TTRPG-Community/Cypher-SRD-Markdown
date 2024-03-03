@@ -1,6 +1,6 @@
 ---
 aliases: [Damn the Guilty]
-points: 3
+points: 3 Intellect
 tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
 type: Action
 ---

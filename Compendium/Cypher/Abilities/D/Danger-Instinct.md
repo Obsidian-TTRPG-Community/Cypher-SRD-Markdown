@@ -1,6 +1,13 @@
 ---
-aliases: [Danger Instinct]
-tags: [Cypher/Abilities/E, Cypher/Abilities/Enabler]
+aliases:
+  - Danger Instinct
+tags:
+  - Cypher/Abilities/E
+  - Cypher/Abilities/Enabler
+type:
+  - Enabler
+points:
+  - 3 Speed
 ---
 
 # Danger Instinct

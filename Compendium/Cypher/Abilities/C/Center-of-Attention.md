@@ -1,6 +1,13 @@
 ---
-aliases: [Center of Attention]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+aliases:
+  - Center of Attention
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 5 Intellect
 ---
 
 # Center of Attention

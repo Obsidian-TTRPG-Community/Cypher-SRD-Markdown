@@ -1,6 +1,13 @@
 ---
-aliases: [Castigate]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+aliases:
+  - Castigate
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 4 Intellect
 ---
 
 # Castigate
