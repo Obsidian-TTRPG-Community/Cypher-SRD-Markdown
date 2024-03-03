@@ -5,7 +5,7 @@ tags:
   - Cypher/Abilities/B
   - Cypher/Abilities/Action
 type:
-  - Enabler
+  - Action
 ---
 
 # Bound Magic Creature
