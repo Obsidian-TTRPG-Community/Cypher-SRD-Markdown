@@ -96,8 +96,8 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 - [[Compendium/Cypher/Abilities/B/Beast-Eyes|Beast Eyes]]
 - [[Compendium/Cypher/Abilities/C/Call-Swarm|Call Swarm]]
 - [[Compendium/Cypher/Abilities/E/Expert-Follower|Expert Follower]]
-- Fellow Explorer
-- Fiery Hand of Doom
+- [[Compendium/Cypher/Abilities/F/Fellow-Explorer|Fellow Explorer]]
+- [[Compendium/Cypher/Abilities/F/Fiery-Hand-of-Doom|Fiery Hand of Doom]]
 - Gain Unusual Companion
 - Greater Necromancy
 - Improved Object Bond
@@ -125,7 +125,7 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 - [[Compendium/Cypher/Abilities/C/Conjuration|Conjuration]]
 - [[Compendium/Cypher/Abilities/D/Deadly-Swam|Deadly Swarm]]
 - [[Compendium/Cypher/Abilities/D/Dragons Maw|Dragon’s Maw]]
-- Fire Servant
+- [[Compendium/Cypher/Abilities/F/Fire-Servant|Fire Servant]]
 - Improved Apportation
 - Improved Companion
 - Improved Machine Companion
@@ -150,7 +150,7 @@ Controls or influences minds in ways outside of what could be done with conventi
 - [[Compendium/Cypher/Abilities/C/Charm-Machine|Charm Machine]]
 - [[Compendium/Cypher/Abilities/C/Cloud-Personal-Memories|Cloud Personal Memories]]
 - [[Compendium/Cypher/Abilities/C/Community-Activist|Community Activist]]
-- Fast Talk
+- [[Compendium/Cypher/Abilities/F/Fast-Talk|Fast Talk]]
 - Goad
 - Hack the Impossible
 - Robot Control
@@ -181,7 +181,7 @@ Controls or influences minds in ways outside of what could be done with conventi
 - [[Compendium/Cypher/Abilities/C/Control-Machine|Control Machine]]
 - [[Compendium/Cypher/Abilities/C/Control-the-Savage|Control the Savage]]
 - [[Compendium/Cypher/Abilities/D/Defuse-Situation|Defuse Situation]]
-- Flee
+- [[Compendium/Cypher/Abilities/F/Flee|Flee]]
 - Psychic Passenger
 - Show Them the Way
 - Suggestion
@@ -194,7 +194,7 @@ Creates useful physical things, such as mundane tools (hammers, crowbars), limit
 **Low Tier**:
 
 - [[Compendium/Cypher/Abilities/C/Create-Deadly-Poison|Create Deadly Poison]]
-- Fortification Builder
+- [[Compendium/Cypher/Abilities/F/Fortification-Builder|Fortification Builder]]
 - Junkmonger
 - Machine Efficiency
 - Modify Device
@@ -237,7 +237,7 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 - [[Compendium/Cypher/Abilities/E/Endurance|Endurance]]
 - [[Compendium/Cypher/Abilities/E/Escape|Escape]]
 - [[Compendium/Cypher/Abilities/E/Extra-Recovery|Extra Recovery]]
-- Foil Danger
+- [[Compendium/Cypher/Abilities/F/Foil-Danger|Foil Danger]]
 - Healing Touch
 - Ignore the Pain
 - Improved Recovery
@@ -258,8 +258,8 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 - [[Compendium/Cypher/Abilities/B/Biomorphic-Healing|Biomorphic Healing]]
 - [[Compendium/Cypher/Abilities/D/Damage-Transference|Damage Transference]]
 - [[Compendium/Cypher/Abilities/D/Drain-Charge|Drain Charge]]
-- Fight On
-- Font of Healing
+- [[Compendium/Cypher/Abilities/F/Fight-On|Fight On]]
+- [[Compendium/Cypher/Abilities/F/Font-of-Healing|Font of Healing]]
 - Healing Pulse
 - Ignore Affliction
 - Immovable
@@ -281,8 +281,8 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 **High Tier**:
 
 - Deep Reserves
-- Final Defiance
-- Free to Move
+- [[Compendium/Cypher/Abilities/F/Final-Defiance|Final Defiance]]
+- [[Compendium/Cypher/Abilities/F/Free-to-Move|Free to Move]]
 - Gamer’s Fortitude
 - Gaming God
 - Greater Healing Touch
@@ -310,7 +310,7 @@ Manipulates the environment or things in the environment, such as with telekines
 
 - [[Compendium/Cypher/Abilities/C/Create-Water|Create Water]]
 - [[Compendium/Cypher/Abilities/D/Dreamcraft|Dreamcraft]]
-- Fetch
+- [[Compendium/Cypher/Abilities/F/Fetch|Fetch]]
 - Grasping Foliage
 - Hedge Magic
 - Hidden Closet
@@ -329,9 +329,9 @@ Manipulates the environment or things in the environment, such as with telekines
 
 - [[Compendium/Cypher/Abilities/D/Daydream|Daydream]]
 - [[Compendium/Cypher/Abilities/D/Define-Down|Define Down]]
-- Field of Gravity
-- Force Field Barrier
-- Force to Reckon With
+- [[Compendium/Cypher/Abilities/F/Field-of-Gravity|Field of Gravity]]
+- [[Compendium/Cypher/Abilities/F/Force-Field-Barrier|Force Field Barrier]]
+- [[Compendium/Cypher/Abilities/F/Force-to-Reckon-With|Force to Reckon With]]
 - Illusory Selves
 - Living Wall
 - Major Illusion
@@ -345,7 +345,7 @@ Manipulates the environment or things in the environment, such as with telekines
 - [[Compendium/Cypher/Abilities/A/Adaptation|Adaptation]]
 - [[Compendium/Cypher/Abilities/C/Control-Weather|Control Weather]]
 - [[Compendium/Cypher/Abilities/D/Diamagnetism|Diamagnetism]]
-- Force Wall
+- [[Compendium/Cypher/Abilities/F/Force-Wall|Force Wall]]
 - Generate Force Field
 - Grandiose Illusion
 - Granite Wall
@@ -389,7 +389,7 @@ Gives the ability to learn information about something, whether chosen by the GM
 - [[Compendium/Cypher/Abilities/C/Creature-Insight|Creature Insight]]
 - [[Compendium/Cypher/Abilities/D/Device-Insight|Device Insight]]
 - [[Compendium/Cypher/Abilities/D/Draw-Conclusion|Draw Conclusion]]
-- Find the Hidden
+- [[Compendium/Cypher/Abilities/F/Find-the-Hidden|Find the Hidden]]
 - Got a Feeling
 - Know Their Faults
 - Machine Telepathy
@@ -436,10 +436,10 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - [[Compendium/Cypher/Abilities/E/Energize-Object|Energize Object]]
 - [[Compendium/Cypher/Abilities/E/Enhanced-Body|Enhanced Body]]
 - [[Compendium/Cypher/Abilities/E/Extra-Use|Extra Use]]
-- Find the Way
-- Fists of Fury
-- Fleet of Foot
-- Frenzy
+- [[Compendium/Cypher/Abilities/F/Find-the-Way|Find the Way]]
+- [[Compendium/Cypher/Abilities/F/Fists-of-Fury|Fists of Fury]]
+- [[Compendium/Cypher/Abilities/F/Fleet-of-Foot|Fleet of Foot]]
+- [[Compendium/Cypher/Abilities/F/Frenzy|Frenzy]]
 - Golem Body
 - Gunner
 - Hacker
@@ -490,11 +490,11 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - [[Compendium/Cypher/Abilities/E/Experienced-in-Armor|Experienced in Armor]]
 - [[Compendium/Cypher/Abilities/E/Expert-Cypher-Use|Expert Cypher Use]]
 - [[Compendium/Cypher/Abilities/E/Expert-Skill|Expert Skill]]
-- Fast Kill
-- Flameblade
-- From the Shadows
-- Fury
-- Fusion
+- [[Compendium/Cypher/Abilities/F/Fast-Kill|Fast Kill]]
+- [[Compendium/Cypher/Abilities/F/Flameblade|Flameblade]]
+- [[Compendium/Cypher/Abilities/F/From-the-Shadows|From the Shadows]]
+- [[Compendium/Cypher/Abilities/F/Fury|Fury]]
+- [[Compendium/Cypher/Abilities/F/Fusion|Fusion]]
 - Greater Beast Form
 - Greater Designation
 - Greater Enhanced Intellect
@@ -576,7 +576,7 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - [[Compendium/Cypher/Abilities/E/Enhanced-Phase-Attack|Enhanced Phased Attack]]
 - [[Compendium/Cypher/Abilities/E/Escape-Plan|Escape Plan]]
 - [[Compendium/Cypher/Abilities/E/Extreme-Mastery|Extreme Mastery]]
-- Force and Accuracy
+- [[Compendium/Cypher/Abilities/F/Force-and-Accuracy|Force and Accuracy]]
 - Gambler
 - Go to Ground
 - Hard to Kill
@@ -630,7 +630,7 @@ Increases your movement (such as increasing your basic movement speed from short
 - [[Compendium/Cypher/Abilities/B/Bolt-Rider|Bolt Rider]]
 - [[Compendium/Cypher/Abilities/C/Contortionist|Contortionist]]
 - [[Compendium/Cypher/Abilities/D/Danger-Instinct|Danger Instinct]]
-- Far Step
+- [[Compendium/Cypher/Abilities/F/Far-Step|Far Step]]
 - Get Away
 - Hover
 - Phase Sprint
@@ -662,9 +662,9 @@ Increases your movement (such as increasing your basic movement speed from short
 - [[Compendium/Cypher/Abilities/C/Chamber-of-Dreams|Chamber of Dreams]]
 - [[Compendium/Cypher/Abilities/E/Electrical-Flight|Electrical Flight]]
 - [[Compendium/Cypher/Abilities/E/Embraced-by-Darkness|Embraced by Darkness]]
-- Fast Travel
-- Flash Across the Miles
-- Flight
+- [[Compendium/Cypher/Abilities/F/Fast-Travel|Fast Travel]]
+- [[Compendium/Cypher/Abilities/F/Flash-Across-the-Miles|Flash Across the Miles]]
+- [[Compendium/Cypher/Abilities/F/Flight|Flight]]
 - Impossible Walk
 - Incredible Running Speed
 - Jaunt
@@ -697,12 +697,12 @@ Gives training or specialization in one or more types of combat defenses (Might,
 - [[Compendium/Cypher/Abilities/D/Distortion|Distortion]]
 - [[Compendium/Cypher/Abilities/E/Enhanced-Body|Enhanced Body]]
 - [[Compendium/Cypher/Abilities/E/Enveloping-Shield|Enveloping Shield]]
-- Fearsome Reputation
-- Field of Destruction
-- Flesh of Stone
-- Flight Not Fight
-- Force Field Shield
-- Fortified Position
+- [[Compendium/Cypher/Abilities/F/Fearsome-Reputation|Fearsome Reputation]]
+- [[Compendium/Cypher/Abilities/F/Field-of-Destruction|Field of Destruction]]
+- [[Compendium/Cypher/Abilities/F/Flesh-of-Stone|Flesh of Stone]]
+- [[Compendium/Cypher/Abilities/F/Flight-Not-Fight|Flight Not Fight]]
+- [[Compendium/Cypher/Abilities/F/Force-Field-Shield|Force Field Shield]]
+- [[Compendium/Cypher/Abilities/F/Fortified-Position|Fortified Position]]
 - Go Defensive
 - Golem Body
 - Hard to Distract
@@ -760,8 +760,8 @@ Gives training or specialization in one or more types of combat defenses (Might,
 - [[Compendium/Cypher/Abilities/E/Energy-Resistance|Energy Resistance]]
 - [[Compendium/Cypher/Abilities/E/Experienced-in-Armor|Experienced in Armor]]
 - [[Compendium/Cypher/Abilities/E/Experienced-Defender|Experienced Defender]]
-- Force Field Barrier
-- Fusion Armor
+- [[Compendium/Cypher/Abilities/F/Force-Field-Barrier|Force Field Barrier]]
+- [[Compendium/Cypher/Abilities/F/Fusion-Armor|Fusion Armor]]
 - Hard-Won Resilience
 - Horde Fighting
 - Huge
@@ -796,7 +796,7 @@ Gives training or specialization in one or more types of combat defenses (Might,
 - [[Compendium/Cypher/Abilities/E/Energize-Creature|Energize Creature]]
 - [[Compendium/Cypher/Abilities/E/Energize-Crowd|Energize Crowd]]
 - [[Compendium/Cypher/Abilities/E/Evasion|Evasion]]
-- Field-Reinforced Armor
+- [[Compendium/Cypher/Abilities/F/Field-Reinforced-Armor|Field-Reinforced Armor]]
 - Hard Target
 - Hard to Kill
 - Lost in the Chaos
@@ -823,8 +823,8 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 **Low Tier**:
 
 - [[Compendium/Cypher/Abilities/E/Eyes-Adjusted|Eyes Adjusted]]
-- Familiarize
-- Find an Opening
+- [[Compendium/Cypher/Abilities/F/Familiarize|Familiarize]]
+- [[Compendium/Cypher/Abilities/F/Find-an-Opening|Find an Opening]]
 - Heads-Up Display
 - Link Senses
 - Mental Link
@@ -884,7 +884,7 @@ Gives you an indirect social benefit, such as providing a useful contact in a ci
 **Mid Tier**:
 
 - [[Compendium/Cypher/Abilities/B/Betrayal|Betrayal]]
-- Flamboyant Boast
+- [[Compendium/Cypher/Abilities/F/Flamboyant-Boast|Flamboyant Boast]]
 - Informer
 - Oratory
 - Perfect Stranger
@@ -917,9 +917,9 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Cypher/Abilities/E/Enthrall|Enthrall]]
 - [[Compendium/Cypher/Abilities/E/Erase-Memories|Erase Memories]]
 - [[Compendium/Cypher/Abilities/E/Eye-Gouge|Eye Gouge]]
-- Flash
-- Force Bash
-- Frost Touch
+- [[Compendium/Cypher/Abilities/F/Flash|Flash]]
+- [[Compendium/Cypher/Abilities/F/Force-Bash|Force Bash]]
+- [[Compendium/Cypher/Abilities/F/Frost-Touch|Frost Touch]]
 - Golem Grip
 - Grasping Foliage
 - Hemorrhage
@@ -972,13 +972,13 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Cypher/Abilities/D/Dual-Medium-Wield|Dual Medium Wield]]
 - [[Compendium/Cypher/Abilities/E/Everything-Is-a-Weapon|Everything Is a Weapon]]
 - [[Compendium/Cypher/Abilities/E/Exile|Exile]]
-- Feint
-- Fire and Ice
-- Fire Bloom
-- Fling
-- Force at Distance
-- Force Blast
-- Freezing Touch
+- [[Compendium/Cypher/Abilities/F/Feint|Feint]]
+- [[Compendium/Cypher/Abilities/F/Fire-and-Ice|Fire and Ice]]
+- [[Compendium/Cypher/Abilities/F/Fire-Bloom|Fire Bloom]]
+- [[Compendium/Cypher/Abilities/F/Fling|Fling]]
+- [[Compendium/Cypher/Abilities/F/Force-at-Distance|Force at Distance]]
+- [[Compendium/Cypher/Abilities/F/Force-Blast|Force Blast]]
+- [[Compendium/Cypher/Abilities/F/Freezing-Touch|Freezing Touch]]
 - Golem Stomp
 - Grab
 - Gravity Cleave
@@ -1045,9 +1045,9 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Cypher/Abilities/E/Earthquake|Earthquake]]
 - [[Compendium/Cypher/Abilities/E/Embrace-the-Night|Embrace the Night]]
 - [[Compendium/Cypher/Abilities/E/Explosive-Release|Explosive Release]]
-- Finishing Blow
-- Fire Tendrils
-- Foul Aura
+- [[Compendium/Cypher/Abilities/F/Finishing-Blow|Finishing Blow]]
+- [[Compendium/Cypher/Abilities/F/Fire-Tendrils|Fire Tendrils]]
+- [[Compendium/Cypher/Abilities/F/Foul-Aura|Foul Aura]]
 - Ice Storm
 - Iron Punch
 - Jump Attack
@@ -1092,8 +1092,8 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 - [[Compendium/Cypher/Abilities/E/Enable-Others|Enable Others]]
 - [[Compendium/Cypher/Abilities/E/Encouragement|Encouragement]]
 - [[Compendium/Cypher/Abilities/E/Encouraging-Presence|Encouraging Presence]]
-- Force Field
-- Friendly Help
+- [[Compendium/Cypher/Abilities/F/Force-Field|Force Field]]
+- [[Compendium/Cypher/Abilities/F/Friendly-Help|Friendly Help]]
 - Good Advice
 - Inspire Action
 - Inspire Aggression
@@ -1176,9 +1176,9 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - [[Compendium/Cypher/Abilities/E/Enlightened|Enlightened]]
 - [[Compendium/Cypher/Abilities/E/Exploratory-Experience|Exploratory Experience]]
 - [[Compendium/Cypher/Abilities/E/Extra-Skill|Extra Skill]]
-- Feat of Strength
-- Flex Lore
-- Freakishly Large
+- [[Compendium/Cypher/Abilities/F/Feat-of-Strength|Feat of Strength]]
+- [[Compendium/Cypher/Abilities/F/Flex-Lore|Flex Lore]]
+- [[Compendium/Cypher/Abilities/F/Freakishly-Large|Freakishly Large]]
 - Game Lessons
 - Gamer
 - Good Advice
@@ -1274,8 +1274,8 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - [[Compendium/Cypher/Abilities/E/Enhance-Strength|Enhance Strength]]
 - [[Compendium/Cypher/Abilities/E/Expert-Driver|Expert Driver]]
 - [[Compendium/Cypher/Abilities/E/Expert-Pilot|Expert Pilot]]
-- Find the Guilty
-- Flex Skill
+- [[Compendium/Cypher/Abilities/F/Find-the-Guilty|Find the Guilty]]
+- [[Compendium/Cypher/Abilities/F/Flex-Skill|Flex Skill]]
 - Ghost
 - Hard to See
 - Heightened Skills
@@ -1322,7 +1322,7 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - [[Compendium/Cypher/Abilities/D/Dark-Explorer|Dark Explorer]]
 - [[Compendium/Cypher/Abilities/E/Explains-the-Ineffable|Explains the Ineffable]]
 - [[Compendium/Cypher/Abilities/E/Exploity-Advantage|Exploit Advantage]]
-- Further Mathematics
+- [[Compendium/Cypher/Abilities/F/Further-Mathematics|Further Mathematics]]
 - Learned a Few Things
 - Like the Back of Your Hand
 - Magnificent Moment
@@ -1346,7 +1346,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 - [[Compendium/Cypher/Abilities/B/Bigger|Bigger]]
 - [[Compendium/Cypher/Abilities/C/Controlled-Change|Controlled Change]]
 - [[Compendium/Cypher/Abilities/E/Enlarge|Enlarge]]
-- Face Morph
+- [[Compendium/Cypher/Abilities/F/Face-Morph|Face Morph]]
 - Golem Healing
 - Illusory Disguise
 - Phased Pocket
