@@ -168,7 +168,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - [[Compendium/Cypher/Abilities/E/Energy-Resistance|Energy Resistance]]
 - [[Compendium/Cypher/Abilities/E/Experienced-in-Armor|Experienced in Armor]]
 - [[Compendium/Cypher/Abilities/E/Expert-Cypher-Use|Expert Cypher Use]]
-- Fury
+- [[Compendium/Cypher/Abilities/F/Fury|Fury]]
 - Lunge
 - Reaction
 - Seize the Moment
@@ -184,7 +184,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - [[Compendium/Cypher/Abilities/A/Amazing-Effort|Amazing Effort]]
 - [[Compendium/Cypher/Abilities/C/Capable-Warrior|Capable Warrior]]
 - [[Compendium/Cypher/Abilities/E/Experienced-Defender|Experienced Defender]]
-- Feint
+- [[Compendium/Cypher/Abilities/F/Feint|Feint]]
 - Increased Effects
 - Momentum
 - Pry Open
@@ -211,7 +211,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/A/Again-and-Again|Again and Again]]
-- Finishing Blow
+- [[Compendium/Cypher/Abilities/F/Finishing-Blow|Finishing Blow]]
 - Magnificent Moment
 - Murderer
 - Spin Attack
@@ -354,7 +354,7 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 
 - [[Compendium/Cypher/Abilities/D/Distortion|Distortion]]
 - [[Compendium/Cypher/Abilities/E/Erase-Memories|Erase Memories]]
-- Far Step
+- [[Compendium/Cypher/Abilities/F/Far-Step|Far Step]]
 - Hedge Magic
 - Magic Training
 - Onslaught
@@ -388,8 +388,8 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - [[Compendium/Cypher/Abilities/A/Adroit-Cypher-Use|Adroit Cypher Use]]
 - [[Compendium/Cypher/Abilities/C/Countermeasures|Countermeasures]]
 - [[Compendium/Cypher/Abilities/E/Energy-Protection|Energy Protection]]
-- Fire and Ice
-- Force Field Barrier
+- [[Compendium/Cypher/Abilities/F/Fire-and-Ice|Fire and Ice]]
+- [[Compendium/Cypher/Abilities/F/Force-Field-Barrier|Force Field Barrier]]
 - Sensor
 - Targeting Eye
 
@@ -568,8 +568,8 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 - Danger Sense
 - [[Compendium/Cypher/Abilities/D/Decipher|Decipher]]
 - [[Compendium/Cypher/Abilities/E/Endurance|Endurance]]
-- Find the Way
-- Fleet of Foot
+- [[Compendium/Cypher/Abilities/F/Find-the-Way|Find the Way]]
+- [[Compendium/Cypher/Abilities/F/Fleet-of-Foot|Fleet of Foot]]
 - Improved Edge
 - Knowledge Skills
 - Muscles of Iron
@@ -589,7 +589,7 @@ Choose four of the abilities listed below (or from a lower tier) to add to your 
 - [[Compendium/Cypher/Abilities/E/Enable-Others|Enable Others]]
 - [[Compendium/Cypher/Abilities/E/Escape|Escape]]
 - [[Compendium/Cypher/Abilities/E/Eye-for-Detail|Eye for Detail]]
-- Foil Danger
+- [[Compendium/Cypher/Abilities/F/Foil-Danger|Foil Danger]]
 - Hand to Eye
 - Investigative Skills
 - Quick Recovery
@@ -634,7 +634,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Cypher/Abilities/A/Adroit-Cypher-Use|Adroit Cypher Use]]
-- Free to Move
+- [[Compendium/Cypher/Abilities/F/Free-to-Move|Free to Move]]
 - Group Friendship
 - Hard to Kill
 - Jump Attack
@@ -794,7 +794,7 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 - [[Compendium/Cypher/Abilities/E/Encouragement|Encouragement]]
 - [[Compendium/Cypher/Abilities/E/Enthrall|Enthrall]]
 - [[Compendium/Cypher/Abilities/E/Erase-Memories|Erase Memories]]
-- Fast Talk
+- [[Compendium/Cypher/Abilities/F/Fast-Talk|Fast Talk]]
 - Inspire Aggression
 - Interaction Skills
 - Practiced With Medium Weapons
@@ -841,7 +841,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 - [[Compendium/Cypher/Abilities/A/Anticipate-Attack|Anticipate Attack]]
 - [[Compendium/Cypher/Abilities/C/Confounding-Banter|Confounding Banter]]
-- Feint
+- [[Compendium/Cypher/Abilities/F/Feint|Feint]]
 - Heightened Skills
 - Psychosis
 - Read the Signs
@@ -857,7 +857,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - [[Compendium/Cypher/Abilities/D/Discipline-of-Watchfulness|Discipline of Watchfulness]]
 - [[Compendium/Cypher/Abilities/E/Experienced-in-Armor|Experienced in Armor]]
 - Flee
-- Foul Aura
+- [[Compendium/Cypher/Abilities/F/Foul-Aura|Foul Aura]]
 - Knowing the Unknown
 - Regeneration
 - Skill With Attacks
@@ -880,7 +880,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Mary wants to create a Speaker for a Lovecraftian horror campaign. She puts 3 of her additional stat points into her Intellect Pool and 3 into her Speed Pool; her stat Pools are now Might 8, Speed 12, and Intellect 14. As a first-tier character, her Effort is 1, her Might Edge and Speed Edge are 0, and her Intellect Edge is 1. She’s smart and charismatic but not particularly tough.
 
-Mary chooses Fast Talk and Spin Identity to help get into places and learn things she wants to know. She’s a bit of a con artist. She’s good to her friends, however, and chooses [[Compendium/Cypher/Abilities/E/Encouragement|Encouragement]] as well. Mary rounds out her first-tier abilities with Interaction Skills (deceiving and persuasion).
+Mary chooses [[Compendium/Cypher/Abilities/F/Fast-Talk|Fast Talk]] and Spin Identity to help get into places and learn things she wants to know. She’s a bit of a con artist. She’s good to her friends, however, and chooses [[Compendium/Cypher/Abilities/E/Encouragement|Encouragement]] as well. Mary rounds out her first-tier abilities with Interaction Skills (deceiving and persuasion).
 
 A Speaker normally starts with two cyphers, but the GM rules that characters in this campaign start with only one—something creepy relating to their background. Mary’s cypher is an odd pocket watch given to her by her grandfather. She doesn’t know how or why, but when activated, the watch allows her to take twice as many actions for three rounds.
 

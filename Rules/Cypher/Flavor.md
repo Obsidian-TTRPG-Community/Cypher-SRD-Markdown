@@ -32,7 +32,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 ### Second-Tier Stealth Abilities
 
 - [[Compendium/Cypher/Abilities/C/Contortionist|Contortionist]]
-- Find an Opening
+- [[Compendium/Cypher/Abilities/F/Find-an-Opening|Find an Opening]]
 - Get Away
 - Sense Ambush
 - Surprise Attack
@@ -40,7 +40,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 ### Third-Tier Stealth Abilities
 
 - [[Compendium/Cypher/Abilities/E/Evanesce|Evanesce]]
-- From the Shadows
+- [[Compendium/Cypher/Abilities/F/From-the-Shadows|From the Shadows]]
 - Gambler
 - Inner Defense
 - Misdirect
@@ -140,7 +140,7 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 ### Second-Tier Magic Abilities
 
 - [[Compendium/Cypher/Abilities/C/Concussive-Blast|Concussive Blast]]
-- Fetch
+- [[Compendium/Cypher/Abilities/F/Fetch|Fetch]]
 - Force Field
 - Lock
 - Repair Flesh
@@ -148,9 +148,9 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 ### Third-Tier Magic Abilities
 
 - [[Compendium/Cypher/Abilities/D/Distance-Viewing|Distance Viewing]]
-- Fire Bloom
-- Fling
-- Force at Distance
+- [[Compendium/Cypher/Abilities/F/Fire-Bloom|Fire Bloom]]
+- [[Compendium/Cypher/Abilities/F/Fling|Fling]]
+- [[Compendium/Cypher/Abilities/F/Force-at-Distance|Force at Distance]]
 - Summon Giant Spider
 
 ### Fourth-Tier Magic Abilities
@@ -164,7 +164,7 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 - Create
 - [[Compendium/Cypher/Abilities/D/Divine-Intervention|Divine Intervention]]
 - [[Compendium/Cypher/Abilities/D/Dragons Maw|Dragon’s Maw]]
-- Fast Travel
+- [[Compendium/Cypher/Abilities/F/Fast-Travel|Fast Travel]]
 - True Senses
 
 ### Sixth-Tier Magic Abilities
@@ -201,7 +201,7 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 
 - [[Compendium/Cypher/Abilities/C/Capable-Warrior|Capable Warrior]]
 - [[Compendium/Cypher/Abilities/D/Deadly-Aim|Deadly Aim]]
-- Fury
+- [[Compendium/Cypher/Abilities/F/Fury|Fury]]
 - Misdirect
 - Spray
 
@@ -239,7 +239,7 @@ A Warrior flavored with skills and knowledge might be a military engineer. An Ex
 
 ### Third-Tier Skills and Knowledge Abilities
 
-- Flex Skill
+- [[Compendium/Cypher/Abilities/F/Flex-Skill|Flex Skill]]
 - Improvise
 
 ### Fourth-Tier Skills and Knowledge Abilities

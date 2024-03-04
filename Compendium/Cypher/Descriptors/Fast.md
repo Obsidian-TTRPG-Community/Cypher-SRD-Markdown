@@ -5,7 +5,7 @@ tags: [Cypher/Descriptors]
 
 # Fast
 
-You’re fleet of foot. Because you’re quick, you can accomplish tasks more rapidly than others can. You’re not just quick on your feet, however—you’re quick with your hands, and you think and react quickly. You even talk quickly.
+You’re [[Compendium/Cypher/Abilities/F/Fleet-of-Foot|fleet of foot]]. Because you’re quick, you can accomplish tasks more rapidly than others can. You’re not just quick on your feet, however—you’re quick with your hands, and you think and react quickly. You even talk quickly.
 
 **You gain the following characteristics**:
 
