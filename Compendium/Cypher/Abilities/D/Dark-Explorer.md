@@ -1,6 +1,9 @@
 ---
-aliases: [Dark Explorer]
-tags: [Cypher/Abilities/E, Cypher/Abilities/Enabler]
+aliases:
+  - Dark Explorer
+tags:
+  - Cypher/Abilities/E
+  - Cypher/Abilities/Enabler
 type: Enabler
 ---
 

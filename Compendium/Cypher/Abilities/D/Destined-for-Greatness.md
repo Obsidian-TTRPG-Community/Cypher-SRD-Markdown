@@ -1,6 +1,9 @@
 ---
-aliases: [Destined for Greatness]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Destined for Greatness
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 type: Enabler
 ---
 

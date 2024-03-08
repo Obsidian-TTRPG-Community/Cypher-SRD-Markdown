@@ -1,6 +1,9 @@
 ---
-aliases: [Assume Control]
-tags: [Cypher/Abilities/A, Cypher/Abilities/Action-Initiate]
+aliases:
+  - Assume Control
+tags:
+  - Cypher/Abilities/A
+  - Cypher/Abilities/Action-Initiate
 type: Action to initiate
 points: 6 Intellect
 ---

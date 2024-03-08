@@ -1,7 +1,11 @@
 ---
-aliases: [Controlled Fall]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
-type: [Enabler]
+aliases:
+  - Controlled Fall
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Controlled Fall

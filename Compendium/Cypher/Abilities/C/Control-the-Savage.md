@@ -1,8 +1,13 @@
 ---
-aliases: [Control the Savage]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [6 Intellect]
+aliases:
+  - Control the Savage
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 6 Intellect
 ---
 
 # Control the Savage

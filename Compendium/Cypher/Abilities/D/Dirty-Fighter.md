@@ -1,6 +1,9 @@
 ---
-aliases: [Dirty Fighter]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Dirty Fighter
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 2 Speed
 ---

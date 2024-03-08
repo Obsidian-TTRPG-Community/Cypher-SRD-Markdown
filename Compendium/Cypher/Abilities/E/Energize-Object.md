@@ -6,8 +6,8 @@ tags:
   - Cypher/Abilities/Action
 type:
   - Action
-cost: 
-  - "3 Intellect points"
+cost:
+  - 3 Intellect points
 ---
 
 # Energize Object

@@ -1,6 +1,9 @@
 ---
-aliases: [Designation]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+aliases:
+  - Designation
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
 type: Action
 ---
 

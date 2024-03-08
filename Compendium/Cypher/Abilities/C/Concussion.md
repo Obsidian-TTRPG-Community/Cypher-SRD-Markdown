@@ -1,8 +1,13 @@
 ---
-aliases: [Concussion]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [7 Intellect]
+aliases:
+  - Concussion
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 7 Intellect
 ---
 
 # Concussion

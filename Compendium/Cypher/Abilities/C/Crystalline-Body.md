@@ -1,7 +1,11 @@
 ---
-aliases: [Crystalline Body]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
-type: [Enabler]
+aliases:
+  - Crystalline Body
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Crystalline Body

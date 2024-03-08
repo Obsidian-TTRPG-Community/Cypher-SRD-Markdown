@@ -1,8 +1,13 @@
 ---
-aliases: [Control the Field]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [1 Might]
+aliases:
+  - Control the Field
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 1 Might
 ---
 
 # Control the Field

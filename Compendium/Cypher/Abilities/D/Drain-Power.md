@@ -1,6 +1,9 @@
 ---
-aliases: [Drain Power]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Drain Power
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 5 Speed
 ---

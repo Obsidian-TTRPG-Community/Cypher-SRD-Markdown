@@ -1,6 +1,9 @@
 ---
-aliases: [Draw Conclusion]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Draw Conclusion
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 3 Intellect
 ---

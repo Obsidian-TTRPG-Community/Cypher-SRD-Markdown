@@ -1,8 +1,13 @@
 ---
-aliases: [Conjuration]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [7 Intellect]
+aliases:
+  - Conjuration
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 7 Intellect
 ---
 
 # Conjuration

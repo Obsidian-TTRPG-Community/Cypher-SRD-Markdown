@@ -1,6 +1,9 @@
 ---
-aliases: [Car Surfer]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Car Surfer
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 ---
 
 # Car Surfer

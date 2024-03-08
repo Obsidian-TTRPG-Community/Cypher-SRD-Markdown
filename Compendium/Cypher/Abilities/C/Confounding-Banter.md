@@ -1,8 +1,13 @@
 ---
-aliases: [Confounding Banter]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [4 Intellect]
+aliases:
+  - Confounding Banter
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 4 Intellect
 ---
 
 # Confounding Banter

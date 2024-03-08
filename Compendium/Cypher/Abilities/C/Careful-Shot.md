@@ -1,6 +1,9 @@
 ---
-aliases: [Careful Shot]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Careful Shot
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 ---
 
 # Careful Shot

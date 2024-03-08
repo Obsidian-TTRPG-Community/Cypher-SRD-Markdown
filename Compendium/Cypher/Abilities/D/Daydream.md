@@ -1,6 +1,9 @@
 ---
-aliases: [Daydream]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Daydream
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 4 Intellect
 ---

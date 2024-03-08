@@ -1,6 +1,9 @@
 ---
-aliases: [Deadly Strike]
-tags: [Cypher/Abilities/M, Cypher/Abilities/Action]
+aliases:
+  - Deadly Strike
+tags:
+  - Cypher/Abilities/M
+  - Cypher/Abilities/Action
 type: Action
 points: 5 Might
 ---

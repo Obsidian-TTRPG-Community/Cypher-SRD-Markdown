@@ -1,8 +1,13 @@
 ---
-aliases: [Coordinated Effort]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [3 Intellect]
+aliases:
+  - Coordinated Effort
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 3 Intellect
 ---
 
 # Coordinated Effort

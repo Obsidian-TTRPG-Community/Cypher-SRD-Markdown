@@ -1,6 +1,9 @@
 ---
-aliases: [Divert Attacks]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Divert Attacks
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 4 Speed
 ---

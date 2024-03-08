@@ -1,7 +1,11 @@
 ---
-aliases: [Connected]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
-type: [Enabler]
+aliases:
+  - Connected
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Connected

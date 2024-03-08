@@ -1,6 +1,9 @@
 ---
-aliases: [Community Activist]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Community Activist
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 ---
 
 # Community Activist

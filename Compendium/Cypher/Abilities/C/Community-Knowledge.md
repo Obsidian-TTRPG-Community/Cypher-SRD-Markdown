@@ -1,8 +1,13 @@
 ---
-aliases: [Community Knowledge]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [2 intellect]
+aliases:
+  - Community Knowledge
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 2 intellect
 ---
 
 # Community Knowledge

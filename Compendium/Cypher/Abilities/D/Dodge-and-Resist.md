@@ -1,6 +1,9 @@
 ---
-aliases: [Dodge and Resist]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Enabler]
+aliases:
+  - Dodge and Resist
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Enabler
 type: Enabler
 points: 3 Speed
 ---

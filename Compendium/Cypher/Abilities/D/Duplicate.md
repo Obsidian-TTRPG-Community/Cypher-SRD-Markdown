@@ -1,6 +1,9 @@
 ---
-aliases: [Duplicate]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Duplicate
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 ---
 

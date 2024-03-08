@@ -1,6 +1,9 @@
 ---
-aliases: [Discipline of Watchfulness]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Enabler]
+aliases:
+  - Discipline of Watchfulness
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Enabler
 type: Enabler
 points: 7 Intellect
 ---

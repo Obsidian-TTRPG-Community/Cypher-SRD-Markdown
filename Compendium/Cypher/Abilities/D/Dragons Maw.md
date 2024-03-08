@@ -1,6 +1,9 @@
 ---
-aliases: [Dragon’s Maw]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Dragon’s Maw
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 6 Intellect
 ---

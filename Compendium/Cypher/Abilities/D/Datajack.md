@@ -1,6 +1,9 @@
 ---
-aliases: [Datajack]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Datajack
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 1 Intellect
 ---

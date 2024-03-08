@@ -1,8 +1,13 @@
 ---
-aliases: [Call Swarm]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
-type: [Action]
-points: [4 Intellect]
+aliases:
+  - Call Swarm
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 4 Intellect
 ---
 
 # Call Swarm

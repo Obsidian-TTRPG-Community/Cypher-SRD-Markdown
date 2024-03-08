@@ -1,6 +1,9 @@
 ---
-aliases: [Drain Charge]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Drain Charge
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 ---
 

@@ -1,6 +1,9 @@
 ---
-aliases: [Careful Aim]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Careful Aim
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 ---
 
 # Careful Aim

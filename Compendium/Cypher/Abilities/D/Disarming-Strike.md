@@ -1,6 +1,9 @@
 ---
-aliases: [Disarming Strike]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Disarming Strike
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 3 Speed
 ---

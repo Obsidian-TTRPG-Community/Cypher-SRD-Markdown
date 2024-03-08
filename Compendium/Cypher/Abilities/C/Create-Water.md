@@ -1,8 +1,13 @@
 ---
-aliases: [Create Water]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [2 intellect]
+aliases:
+  - Create Water
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 2 intellect
 ---
 
 # Create Water

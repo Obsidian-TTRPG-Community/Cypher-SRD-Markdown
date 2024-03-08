@@ -6,8 +6,8 @@ tags:
   - Cypher/Abilities/Action
 type:
   - Action
-cost: 
-  - "1+ Might point"
+cost:
+  - 1+ Might point
 ---
 
 # Enlarge

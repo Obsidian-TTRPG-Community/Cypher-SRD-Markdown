@@ -1,6 +1,9 @@
 ---
-aliases: [Drain at a Distance]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Enabler]
+aliases:
+  - Drain at a Distance
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Enabler
 type: Enabler
 ---
 

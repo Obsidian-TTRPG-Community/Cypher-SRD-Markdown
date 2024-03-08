@@ -1,6 +1,9 @@
 ---
-aliases: [Divine Symbol]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Divine Symbol
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 5+ Intellect
 ---

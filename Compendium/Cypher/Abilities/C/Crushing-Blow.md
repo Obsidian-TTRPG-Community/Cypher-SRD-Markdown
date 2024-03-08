@@ -1,8 +1,13 @@
 ---
-aliases: [Crushing Blow]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [2 Might]
+aliases:
+  - Crushing Blow
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 2 Might
 ---
 
 # Crushing Blow

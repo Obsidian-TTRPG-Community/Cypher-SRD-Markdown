@@ -1,7 +1,11 @@
 ---
-aliases: [Crystal Lens]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
+aliases:
+  - Crystal Lens
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
 ---
 
 # Crystal Lens

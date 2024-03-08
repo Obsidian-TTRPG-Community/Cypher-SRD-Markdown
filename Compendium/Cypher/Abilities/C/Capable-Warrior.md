@@ -1,6 +1,9 @@
 ---
-aliases: [Capable Warrior]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Capable Warrior
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 ---
 
 # Capable Warrior

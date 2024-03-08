@@ -1,6 +1,9 @@
 ---
-aliases: [Debate]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Debate
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 3 Intellect
 ---

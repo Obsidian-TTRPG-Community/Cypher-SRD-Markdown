@@ -1,6 +1,9 @@
 ---
-aliases: [Drain Creature]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Drain Creature
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 3+ Intellect
 ---

@@ -1,6 +1,9 @@
 ---
-aliases: [Elusive]
-tags: [Cypher/Abilities/E, Cypher/Abilities/Enabler]
+aliases:
+  - Elusive
+tags:
+  - Cypher/Abilities/E
+  - Cypher/Abilities/Enabler
 type: Enabler
 ---
 

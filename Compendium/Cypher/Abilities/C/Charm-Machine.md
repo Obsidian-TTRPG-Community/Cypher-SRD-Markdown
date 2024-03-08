@@ -1,8 +1,13 @@
 ---
-aliases: [Charm Machine]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [2 intellect]
+aliases:
+  - Charm Machine
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 2 intellect
 ---
 
 # Charm Machine

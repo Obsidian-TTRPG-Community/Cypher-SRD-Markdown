@@ -1,8 +1,13 @@
 ---
-aliases: [Cold Burst]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [5 Intellect]
+aliases:
+  - Cold Burst
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 5 Intellect
 ---
 
 # Cold Burst

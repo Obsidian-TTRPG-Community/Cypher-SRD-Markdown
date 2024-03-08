@@ -1,6 +1,9 @@
 ---
-aliases: [Computer Programming]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Computer Programming
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 ---
 
 # Computer Programming

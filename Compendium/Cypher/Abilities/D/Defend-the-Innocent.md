@@ -1,6 +1,9 @@
 ---
-aliases: [Defend the Innocent]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Defend the Innocent
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 2 Speed
 ---

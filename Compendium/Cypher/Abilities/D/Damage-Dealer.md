@@ -1,7 +1,10 @@
 ---
-aliases: [Damage Dealer]
+aliases:
+  - Damage Dealer
 points: 0
-tags: [Cypher/Abilities/D, Cypher/Abilities/Enabler]
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Enabler
 type: Enabler
 ---
 

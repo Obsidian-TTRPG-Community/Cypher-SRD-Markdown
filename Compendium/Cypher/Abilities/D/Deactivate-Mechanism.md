@@ -1,6 +1,9 @@
 ---
-aliases: [Deactivate Mechanisms]
-tags: [Cypher/Abilities/S, Cypher/Abilities/Action]
+aliases:
+  - Deactivate Mechanisms
+tags:
+  - Cypher/Abilities/S
+  - Cypher/Abilities/Action
 type: Action
 points: 5+ Speed
 ---

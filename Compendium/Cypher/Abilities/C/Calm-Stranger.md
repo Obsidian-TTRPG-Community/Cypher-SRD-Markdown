@@ -1,8 +1,13 @@
 ---
-aliases: [Calm Stranger]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
-type: [Action]
-points: [2 intellect]
+aliases:
+  - Calm Stranger
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 2 intellect
 ---
 
 # Calm Stranger

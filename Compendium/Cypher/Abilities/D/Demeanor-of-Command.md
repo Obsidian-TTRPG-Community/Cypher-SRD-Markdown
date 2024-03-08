@@ -1,6 +1,9 @@
 ---
-aliases: [Demeanor of Command]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+aliases:
+  - Demeanor of Command
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
 type: Action
 points: 2 Intellect
 ---

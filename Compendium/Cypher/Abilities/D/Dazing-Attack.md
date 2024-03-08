@@ -1,6 +1,9 @@
 ---
-aliases: [Dazing Attack]
-tags: [Cypher/Abilities/M, Cypher/Abilities/Action]
+aliases:
+  - Dazing Attack
+tags:
+  - Cypher/Abilities/M
+  - Cypher/Abilities/Action
 type: Action
 points: 3 Might
 ---

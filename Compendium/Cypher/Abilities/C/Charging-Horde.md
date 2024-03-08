@@ -1,8 +1,13 @@
 ---
-aliases: [Charging Horde]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
-type: [Action]
-points: [7 Might]
+aliases:
+  - Charging Horde
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
+type:
+  - Action
+points:
+  - 7 Might
 ---
 
 # Charging Horde

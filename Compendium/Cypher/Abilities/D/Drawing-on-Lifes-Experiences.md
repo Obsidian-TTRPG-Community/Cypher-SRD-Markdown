@@ -1,6 +1,9 @@
 ---
-aliases: [Drawing on Life’s Experiences]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Drawing on Life’s Experiences
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 6 Intellect
 ---

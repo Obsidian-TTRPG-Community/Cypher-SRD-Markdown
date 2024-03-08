@@ -1,6 +1,9 @@
 ---
-aliases: [Combat Prowess]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Combat Prowess
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 ---
 
 # Combat Prowess

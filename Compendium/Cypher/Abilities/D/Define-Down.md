@@ -1,6 +1,9 @@
 ---
-aliases: [Define Down]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+aliases:
+  - Define Down
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
 type: Action
 points: 4 Intellect
 ---

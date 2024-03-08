@@ -1,6 +1,9 @@
 ---
-aliases: [Dark Matter Shroud]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Dark Matter Shroud
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 4 Intellect
 ---

@@ -1,6 +1,9 @@
 ---
-aliases: [Dust to Dust]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Dust to Dust
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 ---
 
