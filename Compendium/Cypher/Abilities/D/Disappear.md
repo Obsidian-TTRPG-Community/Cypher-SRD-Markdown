@@ -1,6 +1,9 @@
 ---
-aliases: [Disappear]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Disappear
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 4 Intellect
 ---

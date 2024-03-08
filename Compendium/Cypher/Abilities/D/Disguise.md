@@ -1,6 +1,9 @@
 ---
-aliases: [Disguise]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Enabler]
+aliases:
+  - Disguise
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Enabler
 type: Enabler
 ---
 

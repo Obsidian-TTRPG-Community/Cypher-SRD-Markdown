@@ -1,6 +1,9 @@
 ---
-aliases: [Defuse Situation]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+aliases:
+  - Defuse Situation
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
 type: Action
 ---
 

@@ -1,6 +1,9 @@
 ---
-aliases: [Disarming Attack]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Disarming Attack
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 5 Speed
 ---

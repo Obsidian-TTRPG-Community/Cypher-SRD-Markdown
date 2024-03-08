@@ -1,7 +1,11 @@
 ---
-aliases: [Curious]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
-type: [Enabler]
+aliases:
+  - Curious
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Curious

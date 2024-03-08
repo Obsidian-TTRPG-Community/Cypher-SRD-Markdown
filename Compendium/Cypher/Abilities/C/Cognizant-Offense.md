@@ -1,6 +1,9 @@
 ---
-aliases: [Cognizant Offense]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Cognizant Offense
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 ---
 
 # Cognizant Offense

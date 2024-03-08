@@ -1,6 +1,9 @@
 ---
-aliases: [Defensive Field]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Defensive Field
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 type: Enabler
 ---
 

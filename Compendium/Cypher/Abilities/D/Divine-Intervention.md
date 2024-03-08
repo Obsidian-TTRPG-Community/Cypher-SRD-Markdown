@@ -1,6 +1,9 @@
 ---
-aliases: [Divine Intervention]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Divine Intervention
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 2 Intellect (or 2 Intellect + 4 XP)
 ---

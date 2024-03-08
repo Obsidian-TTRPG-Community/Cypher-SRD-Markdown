@@ -1,6 +1,9 @@
 ---
-aliases: [Cyphersmith]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Cyphersmith
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 type: Enabler
 points: 0
 ---

@@ -1,6 +1,9 @@
 ---
-aliases: [Defense Against Robots]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Defense Against Robots
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 type: Enabler
 ---
 

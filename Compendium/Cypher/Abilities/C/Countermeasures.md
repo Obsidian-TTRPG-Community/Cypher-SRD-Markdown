@@ -1,8 +1,13 @@
 ---
-aliases: [Countermeasures]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [4 Intellect]
+aliases:
+  - Countermeasures
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 4 Intellect
 ---
 
 # Countermeasures

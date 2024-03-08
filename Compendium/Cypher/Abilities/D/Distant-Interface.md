@@ -1,6 +1,9 @@
 ---
-aliases: [Distant Interface]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Distant Interface
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 2 Intellect
 ---

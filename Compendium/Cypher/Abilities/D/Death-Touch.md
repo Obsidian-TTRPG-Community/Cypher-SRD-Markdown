@@ -1,6 +1,9 @@
 ---
-aliases: [Death Touch]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Death Touch
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 6 Intellect
 ---

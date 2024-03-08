@@ -1,6 +1,9 @@
 ---
-aliases: [Defensive Augmentation]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Defensive Augmentation
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 type: Enabler
 ---
 

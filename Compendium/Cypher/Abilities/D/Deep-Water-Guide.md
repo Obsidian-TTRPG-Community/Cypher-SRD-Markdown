@@ -1,6 +1,9 @@
 ---
-aliases: [Deep Water Guide]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Enabler]
+aliases:
+  - Deep Water Guide
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Enabler
 type: Enabler
 ---
 

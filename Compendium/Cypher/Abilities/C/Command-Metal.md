@@ -1,8 +1,13 @@
 ---
-aliases: [Command Metal]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [5 Intellect]
+aliases:
+  - Command Metal
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 5 Intellect
 ---
 
 # Command Metal

@@ -1,6 +1,9 @@
 ---
-aliases: [Deadly Aim]
-tags: [Cypher/Abilities/S, Cypher/Abilities/Action]
+aliases:
+  - Deadly Aim
+tags:
+  - Cypher/Abilities/S
+  - Cypher/Abilities/Action
 type: Action
 points: 3 Speed
 ---

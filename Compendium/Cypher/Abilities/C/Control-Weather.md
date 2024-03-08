@@ -1,8 +1,13 @@
 ---
-aliases: [Control Weather]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [10 Intellect]
+aliases:
+  - Control Weather
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 10 Intellect
 ---
 
 # Control Weather

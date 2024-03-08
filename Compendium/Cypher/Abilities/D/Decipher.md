@@ -1,6 +1,9 @@
 ---
-aliases: [Decipher]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Decipher
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 1 Intellect
 ---

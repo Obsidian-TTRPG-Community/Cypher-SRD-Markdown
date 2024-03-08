@@ -1,6 +1,9 @@
 ---
-aliases: [Divide Your Mind]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Divide Your Mind
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 7 Intellect
 ---

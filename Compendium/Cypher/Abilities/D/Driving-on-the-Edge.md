@@ -1,6 +1,9 @@
 ---
-aliases: [Driving on the Edge]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Enabler]
+aliases:
+  - Driving on the Edge
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Enabler
 type: Enabler
 ---
 

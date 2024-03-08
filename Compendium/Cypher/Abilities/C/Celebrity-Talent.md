@@ -1,6 +1,9 @@
 ---
-aliases: [Celebrity Talent]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Celebrity Talent
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 ---
 
 # Celebrity Talent

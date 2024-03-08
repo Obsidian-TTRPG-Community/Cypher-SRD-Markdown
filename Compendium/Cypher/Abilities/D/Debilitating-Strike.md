@@ -1,6 +1,9 @@
 ---
-aliases: [Debilitating Strike]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Debilitating Strike
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 4 Speed
 ---

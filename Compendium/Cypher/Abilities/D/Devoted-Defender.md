@@ -1,6 +1,9 @@
 ---
-aliases: [Devoted Defender]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Devoted Defender
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 2 Might or Intellect
 ---

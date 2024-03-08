@@ -1,6 +1,9 @@
 ---
-aliases: [Destroy Metal]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+aliases:
+  - Destroy Metal
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
 type: Action
 points: 3 Intellect
 ---

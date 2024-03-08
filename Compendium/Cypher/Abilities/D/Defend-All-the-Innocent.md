@@ -1,6 +1,9 @@
 ---
-aliases: [Defend All the Innocent]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Enabler]
+aliases:
+  - Defend All the Innocent
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Enabler
 type: Enabler
 ---
 

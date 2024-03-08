@@ -1,6 +1,9 @@
 ---
-aliases: [Danger Sense]
-tags: [Cypher/Abilities/E, Cypher/Abilities/Enabler]
+aliases:
+  - Danger Sense
+tags:
+  - Cypher/Abilities/E
+  - Cypher/Abilities/Enabler
 type: Enabler
 points: 1 Speed
 ---

@@ -1,6 +1,9 @@
 ---
-aliases: [Duel to the Death]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Duel to the Death
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 ---
 

@@ -1,6 +1,9 @@
 ---
-aliases: [Colossal]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Colossal
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 ---
 
 # Colossal

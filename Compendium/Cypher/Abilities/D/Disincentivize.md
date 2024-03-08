@@ -1,6 +1,9 @@
 ---
-aliases: [Disincentivize]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Enabler]
+aliases:
+  - Disincentivize
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Enabler
 type: Enabler
 points: 1 Intellect
 ---

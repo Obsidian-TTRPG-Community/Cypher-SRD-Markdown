@@ -1,6 +1,9 @@
 ---
-aliases: [Detect Life]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Detect Life
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 3+ Might
 ---

@@ -1,7 +1,11 @@
 ---
-aliases: [Critter Companion]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
-type: [Enabler]
+aliases:
+  - Critter Companion
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
+type:
+  - Enabler
 ---
 
 # Critter Companion

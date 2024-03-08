@@ -1,6 +1,9 @@
 ---
-aliases: [Defense Master]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Defense Master
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 type: Enabler
 ---
 

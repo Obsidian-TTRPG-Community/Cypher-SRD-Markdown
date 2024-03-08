@@ -1,8 +1,13 @@
 ---
-aliases: [Counter Danger]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [4 Intellect]
+aliases:
+  - Counter Danger
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 4 Intellect
 ---
 
 # Counter Danger

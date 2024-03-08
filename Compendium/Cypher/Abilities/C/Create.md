@@ -1,8 +1,13 @@
 ---
-aliases: [Create]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action-Initiate]
-type: [Action]
-points: [7 Intellect]
+aliases:
+  - Create
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action-Initiate
+type:
+  - Action
+points:
+  - 7 Intellect
 ---
 
 # Create

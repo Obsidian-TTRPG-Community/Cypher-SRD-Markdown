@@ -1,6 +1,9 @@
 ---
-aliases: [Destroyer]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Action]
+aliases:
+  - Destroyer
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Action
 type: Action
 points: 6 Might
 ---

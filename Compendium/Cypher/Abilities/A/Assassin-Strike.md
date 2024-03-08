@@ -1,6 +1,9 @@
 ---
-aliases: [Assassin Strike]
-tags: [Cypher/Abilities/A, Cypher/Abilities/Enabler]
+aliases:
+  - Assassin Strike
+tags:
+  - Cypher/Abilities/A
+  - Cypher/Abilities/Enabler
 ---
 
 # Assassin Strike

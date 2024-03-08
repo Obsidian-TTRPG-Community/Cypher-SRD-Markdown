@@ -1,6 +1,9 @@
 ---
-aliases: [Dark Matter Shell]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Action]
+aliases:
+  - Dark Matter Shell
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Action
 type: Action
 points: 5 Intellect
 ---

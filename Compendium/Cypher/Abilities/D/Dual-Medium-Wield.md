@@ -1,6 +1,9 @@
 ---
-aliases: [Dual Medium Wield]
-tags: [Cypher/Abilities/D, Cypher/Abilities/Enabler]
+aliases:
+  - Dual Medium Wield
+tags:
+  - Cypher/Abilities/D
+  - Cypher/Abilities/Enabler
 type: Enabler
 ---
 

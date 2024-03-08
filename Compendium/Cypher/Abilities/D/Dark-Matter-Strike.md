@@ -1,6 +1,9 @@
 ---
-aliases: [Dark Matter Strike]
-tags: [Cypher/Abilities/E, Cypher/Abilities/Enabler]
+aliases:
+  - Dark Matter Strike
+tags:
+  - Cypher/Abilities/E
+  - Cypher/Abilities/Enabler
 type: Enabler
 points: 4 Intellect
 ---

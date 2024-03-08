@@ -1,6 +1,9 @@
 ---
-aliases: [Confidence Artist]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Confidence Artist
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 ---
 
 # Confidence Artist

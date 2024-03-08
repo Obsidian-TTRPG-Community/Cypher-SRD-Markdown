@@ -1,6 +1,9 @@
 ---
-aliases: [Combat Challenge]
-tags: [Cypher/Abilities/C, Cypher/Abilities/Enabler]
+aliases:
+  - Combat Challenge
+tags:
+  - Cypher/Abilities/C
+  - Cypher/Abilities/Enabler
 ---
 
 # Combat Challenge
